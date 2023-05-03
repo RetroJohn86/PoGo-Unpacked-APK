@@ -7,13 +7,11 @@ __**Files and Folder Structure Unpacked Asset&RAW Version. APK + Dataminer + Dow
 
 **Animator** **:**
 **AudioClip** **:** 
-**Font** **:**
 **Mesh** **:**
-**MonoBehaviour** **:**
-**Shader** **:**
 **Sprite** **:**
-**TextAsset** **:**
 **Texture2D** **:**
+**Font** **:** NOT IN DATAMINERS FOLDER
+**TextAsset** **:** NOT IN DATAMINERS FOLDER
 **Raw** **:** ONLY IN DATAMINERS FOLDER
 
 All images, sound effects/music and files from the assets file that i found and mined are located in these Listed Folders.
