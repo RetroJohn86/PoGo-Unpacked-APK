@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6678462505653916297
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8400546755260608924
+  },
+  "m_Name": "",
+  "mainAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 7029803163426522004
+  },
+  "shoulderNode": {
+    "m_FileID": 0,
+    "m_PathID": -7741892903517687617
+  },
+  "babyNode": {
+    "m_FileID": 0,
+    "m_PathID": -1832857796437708130
+  },
+  "leftHandItemNode": {
+    "m_FileID": 0,
+    "m_PathID": -1919558415963822571
+  },
+  "rightHandItemNode": {
+    "m_FileID": 0,
+    "m_PathID": -1919558415963822571
+  },
+  "idleHasItem": 0,
+  "pokeballHandPositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "pokeballHandRotationOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "heroPosePositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "heroPoseEulerRotationOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "versusPosePositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "throwWithRightHand": 1,
+  "throwAnimationDuration": 0.95,
+  "avatarModelName": 4
+}

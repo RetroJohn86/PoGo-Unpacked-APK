@@ -1,0 +1,1238 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5095928058905505097
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6991666983195531408
+  },
+  "m_Name": "",
+  "poseData": [
+    {
+      "key": "pose_01",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 8011367974755438210
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8214767097751846008
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_02",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 7638656864323716007
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -267993685947391802
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_03",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 6457141484620719354
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2431519092662711218
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_04",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -8782152288462895498
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -2990680980011620228
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_05",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 1520954543724821918
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 3920947896682612797
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_06",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 2607006492034274899
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -9220201736297640892
+      },
+      "propInHand": 1,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_07",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 6006112015490731055
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 743404634496162655
+      },
+      "propInHand": 2,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_08",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -5731778906734149324
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5083970206314430869
+      },
+      "propInHand": 2,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_09",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 369676420834859730
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 3922187464892976745
+      },
+      "propInHand": 1,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_10",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -1242520683602997935
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2959666900810073186
+      },
+      "propInHand": 2,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_11",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -2967247979476522503
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1981044296226984911
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_12",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -1900928616952540544
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 1373620238198549475
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_13",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -4482316109002491409
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 564503934212956734
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_14",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -3385668881262255575
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 4586191582652421083
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_15",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -7609814556039239930
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6574773015281788937
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_16",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -5600033783767199771
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 4554592357527848748
+      },
+      "propInHand": 1,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_17",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 7141603408533025142
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 1757722079252318569
+      },
+      "propInHand": 1,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_18",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 718424905148072191
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2539589861659118706
+      },
+      "propInHand": 2,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_19",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 5818564221257477612
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -7389055007243356562
+      },
+      "propInHand": 1,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_20",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 1808726378884279763
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6222648142770018469
+      },
+      "propInHand": 2,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_21",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -3700831770615650414
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1475762069266270766
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_22",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -6063316697164624346
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4196650601449793497
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_23",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 4261972808351469385
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8868656042335420618
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_24",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 8412943313455079619
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5578198010705076156
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_25",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -8637530459285609351
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5743478511467707816
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_26",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 3728588335417006468
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 8157417297868592929
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_27",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -6849191449471808832
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -2638919477768471133
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_28",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 2005309218160866506
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -18874314516965382
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_29",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 4347481841622367478
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 623095470970501336
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_30",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -7864063747790248901
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -3229931985192679169
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_31",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 2729076052489739810
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -3879131469827735111
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_32",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -8251172586968249650
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 200299565498624398
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_33",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 5518948737954403708
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 1682095510618415734
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_34",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 6128164334237297958
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 7841772534902420872
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_35",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -783847724278877667
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2264604003236652966
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_36",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 2068874155979296130
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5492653367219693164
+      },
+      "propInHand": 2,
+      "propName": "GracideaBouquet",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_37",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -7443112141751714194
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6084875119488376459
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_38",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 6777892969956401508
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 637216165509243973
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_39",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 4216021083604115350
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6372803723211000124
+      },
+      "propInHand": 1,
+      "propName": "WcsTrophy",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.56,
+        "y": -3.76,
+        "z": 0.43
+      },
+      "propRotation": {
+        "x": 2.193,
+        "y": -147.881,
+        "z": -98.743
+      }
+    },
+    {
+      "key": "pose_40",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -8822873887466105391
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -6949594630718398642
+      },
+      "propInHand": 2,
+      "propName": "BugCatchingNet",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -30.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 90.0
+      }
+    },
+    {
+      "key": "pose_41",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 4241169897463621543
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5020731057992911360
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_42",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "propInHand": 0,
+      "propName": "This pose is purposely blank",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_43",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -5816833676650531692
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6249053983548326580
+      },
+      "propInHand": 2,
+      "propName": "Lantern",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": -0.3,
+        "y": -1.8,
+        "z": 0.3
+      },
+      "propRotation": {
+        "x": 17.363,
+        "y": 93.128,
+        "z": 22.171
+      }
+    },
+    {
+      "key": "pose_44",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 8714030079859294888
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4289706371787026877
+      },
+      "propInHand": 1,
+      "propName": "Sparkler",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": -1.03,
+        "y": 1.31,
+        "z": 0.06
+      },
+      "propRotation": {
+        "x": 140.179,
+        "y": -1.10498,
+        "z": 8.994995
+      }
+    },
+    {
+      "key": "pose_45",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 2915632755274252814
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 225166962062594200
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_46",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -10442219511234083
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -7854306679981872697
+      },
+      "propInHand": 1,
+      "propName": "Popper",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": -0.56,
+        "y": -0.41,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": -10.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_47",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 5626121868848925976
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 8418166999742775448
+      },
+      "propInHand": 2,
+      "propName": "GiftBoxProp",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_48",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -1026516780719968850
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -962609306861155569
+      },
+      "propInHand": 2,
+      "propName": "RegularPokeBall",
+      "propScale": 40.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": -160.648,
+        "y": -49.789,
+        "z": -51.00201
+      }
+    },
+    {
+      "key": "pose_49",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -5259737077605221695
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 69712570366439915
+      },
+      "propInHand": 1,
+      "propName": "m_FestivalOfColorsProp",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_50",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "key": "pose_51",
+      "pose": {
+        "m_FileID": 0,
+        "m_PathID": -54636253558477315
+      },
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 7817421872580623855
+      },
+      "propInHand": 0,
+      "propName": "",
+      "propScale": 1.0,
+      "propPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "propRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ]
+}
