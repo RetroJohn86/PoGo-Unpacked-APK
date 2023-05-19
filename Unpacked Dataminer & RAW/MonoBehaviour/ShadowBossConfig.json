@@ -1,0 +1,186 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8051171060995691780
+  },
+  "m_Name": "ShadowBossConfig",
+  "GlowShader": {
+    "m_FileID": 0,
+    "m_PathID": 1059747133420168958
+  },
+  "shaderVariantCollection": {
+    "m_FileID": 0,
+    "m_PathID": -8846539645002282096
+  },
+  "shaderReplacements": [
+    {
+      "shaderName": "Niantic/Pokemon/UBER",
+      "glowShader": {
+        "m_FileID": 0,
+        "m_PathID": 1059747133420168958
+      }
+    },
+    {
+      "shaderName": "CrTestShader/Pokemon_EFFECT_UBER",
+      "glowShader": {
+        "m_FileID": 0,
+        "m_PathID": 1059747133420168958
+      }
+    },
+    {
+      "shaderName": "Niantic/Pokemon/UBER_ALPHA",
+      "glowShader": {
+        "m_FileID": 0,
+        "m_PathID": 5910089180573275722
+      }
+    }
+  ],
+  "pokemonMaterialOverrides": [
+    {
+      "pokemonId": 60,
+      "tempEvoId": 0,
+      "attenuationStart": 0.1,
+      "attenuationEnd": 0.4,
+      "intensity": 1.0,
+      "outlineThickness": 0.015,
+      "fresnelPower": 0.4
+    },
+    {
+      "pokemonId": 1,
+      "tempEvoId": 0,
+      "attenuationStart": 0.2,
+      "attenuationEnd": 0.6,
+      "intensity": 1.0,
+      "outlineThickness": 0.02,
+      "fresnelPower": 0.3
+    },
+    {
+      "pokemonId": 156,
+      "tempEvoId": 0,
+      "attenuationStart": 0.071,
+      "attenuationEnd": 0.366,
+      "intensity": 1.0,
+      "outlineThickness": 0.02,
+      "fresnelPower": 0.15
+    },
+    {
+      "pokemonId": 153,
+      "tempEvoId": 0,
+      "attenuationStart": 0.2,
+      "attenuationEnd": 0.6,
+      "intensity": 1.0,
+      "outlineThickness": 0.025,
+      "fresnelPower": 0.2
+    },
+    {
+      "pokemonId": 150,
+      "tempEvoId": 0,
+      "attenuationStart": 0.1,
+      "attenuationEnd": 0.66,
+      "intensity": 1.0,
+      "outlineThickness": 0.03,
+      "fresnelPower": 0.1
+    }
+  ],
+  "<MaterialChangeCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.2627544,
+        "outSlope": 2.2627544,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 0.75,
+        "value": 1.6970658,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -2.7882633,
+        "outSlope": -2.7882633,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<DamageAttackWaitInSeconds>k__BackingField": 1.0,
+  "<OutlineColor>k__BackingField": {
+    "r": 0.30588236,
+    "g": 0.078431375,
+    "b": 1.4980392,
+    "a": 1.0
+  },
+  "<OutlineThickness>k__BackingField": 0.03,
+  "<FresnelPower>k__BackingField": 0.1,
+  "<AuraColor1>k__BackingField": {
+    "r": 1.7568628,
+    "g": 0.5803922,
+    "b": 2.9960785,
+    "a": 1.0
+  },
+  "<AuraColor2>k__BackingField": {
+    "r": 1.253334,
+    "g": 0.6274508,
+    "b": 5.992157,
+    "a": 1.0
+  },
+  "<BlendAmount>k__BackingField": 0.0,
+  "<AttenuationStart>k__BackingField": 0.1,
+  "<AttenuationEnd>k__BackingField": 0.66,
+  "<Intensity>k__BackingField": 1.0,
+  "<TransitionEffect>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 5317161994803507729
+  },
+  "<AuraEffect>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "attackSocket": 0,
+  "<DebuffEffect>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hitSocket": 1,
+  "<DebuffHitEffect>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": -6189553139221829949
+  },
+  "<DebuffOngoingEffect>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 1881162618537982041
+  },
+  "<TransitionTimeInSeconds>k__BackingField": 1.25,
+  "<WaitTimeInSeconds>k__BackingField": 0.6,
+  "<AudioVolume>k__BackingField": 1.0,
+  "<EnragedAudio>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 7333311924955921528
+  },
+  "<DebuffAudio>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": -2916208341121037003
+  },
+  "<ReturnAudio>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 9075859530771782712
+  }
+}

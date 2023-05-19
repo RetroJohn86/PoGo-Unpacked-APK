@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1453484689918757339
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1249271072566783926
+  },
+  "m_Name": "",
+  "candyFx": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Socket": 1,
+  "RotationMatch": 2,
+  "MatchScale": 1,
+  "MinScale": 0.5,
+  "MaxScale": 1.5,
+  "AttachToSocket": 1,
+  "SocketedChildSystems": []
+}

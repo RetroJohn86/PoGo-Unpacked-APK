@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1342127147956819595
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6446941267760323100
+  },
+  "m_Name": "",
+  "rootParticleSystem": {
+    "m_FileID": 0,
+    "m_PathID": -6189553139221829949
+  },
+  "pokemonParticleSystem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "pokemonAttackFx": {
+    "m_FileID": 0,
+    "m_PathID": -645890512378273359
+  }
+}

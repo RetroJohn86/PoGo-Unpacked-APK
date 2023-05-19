@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1342127147956819595
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7326609552668139074
+  },
+  "m_Name": "",
+  "AttackerFxSystem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DefenderFxSystem": {
+    "m_FileID": 0,
+    "m_PathID": 8756130546170124252
+  },
+  "OrientMatches": []
+}

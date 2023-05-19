@@ -1,0 +1,92 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5533441303832444973
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6832359086959241436
+  },
+  "m_Name": "",
+  "topMeshRender": {
+    "m_FileID": 0,
+    "m_PathID": -4977305737518699886
+  },
+  "sideMeshRender": {
+    "m_FileID": 0,
+    "m_PathID": -7364149513128433214
+  },
+  "crowdBannerMeshRenders": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3397683951873634816
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2138033344269603012
+    }
+  ],
+  "crowdMeshRender": {
+    "m_FileID": 0,
+    "m_PathID": -1266787614996872119
+  },
+  "bannerMeshRender": {
+    "m_FileID": 0,
+    "m_PathID": -1872170605763189203
+  },
+  "monitors": {
+    "m_FileID": 0,
+    "m_PathID": 2025914376832904461
+  },
+  "takeoverMonitors": {
+    "m_FileID": 0,
+    "m_PathID": 2850136534801682660
+  },
+  "teamBannerSettings": [
+    {
+      "team": 1,
+      "textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    },
+    {
+      "team": 2,
+      "textureOffset": {
+        "x": 0.0,
+        "y": 0.66
+      },
+      "textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    },
+    {
+      "team": 3,
+      "textureOffset": {
+        "x": 0.0,
+        "y": 0.33
+      },
+      "textureScale": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "team": 4,
+      "textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "textureScale": {
+        "x": 1.0,
+        "y": 3.0
+      }
+    }
+  ]
+}
