@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -6624051568855776157
+    "m_PathID": -6109445896260172509
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,14 +11,14 @@
   "m_Name": "",
   "colorOptions": [
     {
-      "name": "f_hat_sandygasthat_0",
+      "name": "m_hat_sandygasthat_0",
       "color": {
         "m_FileID": 0,
         "m_PathID": 0
       },
       "pattern": {
         "m_FileID": 0,
-        "m_PathID": 599134846347070209
+        "m_PathID": 7883710734649725280
       },
       "useGradient": 0,
       "gradient": {
@@ -107,7 +107,7 @@
   "swapPart": 10,
   "swapMesh": {
     "m_FileID": 0,
-    "m_PathID": 1237892770751386380
+    "m_PathID": -5757742512714277658
   },
   "swapDoodadGameObject": {
     "m_FileID": 0,
