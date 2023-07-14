@@ -6,15 +6,18 @@
 Shader "" {
 Properties {
 _MainTex ("Sprite Texture", 2D) = "white" { }
-_Frame ("Frame", Vector) = (0.4,0.4,0.6,0.6)
-_ClipFrame ("Clip Frame", Vector) = (0,0,0.1,0.1)
-_Ratio ("Ratio", Float) = 1
-_StencilComp ("Stencil Comparison", Float) = 8
-_Stencil ("Stencil ID", Float) = 0
-_StencilOp ("Stencil Operation", Float) = 0
-_StencilWriteMask ("Stencil Write Mask", Float) = 255
-_StencilReadMask ("Stencil Read Mask", Float) = 255
 _ColorMask ("Color Mask", Float) = 15
+[Header(CIRCLE PROPERTIES)] _Color ("Tint", Color) = (1,1,1,1)
+_Radius ("Circle Radius", Range(0, 1)) = 0.5
+_Falloff ("Circle Falloff", Range(0, 11)) = 2
+[Enum(UnityEngine.Rendering.CompareFunction)] unity_GUIZTestMode ("ZTest", Float) = 4
+[Header(STENCIL PROPERTIES)] _Stencil ("Stencil ID [0;255]", Float) = 0
+_ReadMask ("Stencil Read Mask [0;255]", Float) = 255
+_WriteMask ("Stencil Write Mask [0;255]", Float) = 255
+[Enum(UnityEngine.Rendering.CompareFunction)] _StencilComp ("Stencil Comparison", Float) = 8
+[Enum(UnityEngine.Rendering.StencilOp)] _StencilOp ("Stencil Operation", Float) = 0
+[Enum(UnityEngine.Rendering.StencilOp)] _StencilFail ("Stencil Fail", Float) = 0
+[Enum(UnityEngine.Rendering.StencilOp)] _StencilZFail ("Stencil ZFail", Float) = 0
 }
 SubShader {
  Pass {
@@ -33,7 +36,7 @@ SubShader {
    Fail Keep
    ZFail Keep
   }
-  GpuProgramID 45813
+  GpuProgramID 46401
 }
 }
 }

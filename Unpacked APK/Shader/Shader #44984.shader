@@ -5,11 +5,10 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Base (RGB), Alpha (A)", 2D) = "white" { }
-_UVOffset ("UV Tiling / Offset", Vector) = (1,1,0,0)
+_MainTex ("Sprite Texture", 2D) = "white" { }
 _Color ("Tint", Color) = (1,1,1,1)
-_PanningSpeed ("Panning Speed", Float) = 0
-_PanningDirection ("Pan Direction (XY only)", Vector) = (0,0,0,0)
+_GradientA ("Gradient A", Color) = (1,1,1,1)
+_GradientB ("Gradient B", Color) = (1,1,1,1)
 _StencilComp ("Stencil Comparison", Float) = 8
 _Stencil ("Stencil ID", Float) = 0
 _StencilOp ("Stencil Operation", Float) = 0
@@ -35,7 +34,7 @@ SubShader {
    Fail Keep
    ZFail Keep
   }
-  GpuProgramID 49967
+  GpuProgramID 10732
 }
 }
 }

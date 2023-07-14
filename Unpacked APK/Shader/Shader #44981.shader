@@ -5,9 +5,11 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
+_MainTex ("Sprite Texture", 2D) = "white" { }
 _Color ("Tint", Color) = (1,1,1,1)
-_Radius ("Outer Radius", Float) = 1
-_Thickness ("Thickneses", Float) = 0.1
+_ShadowOffsetX ("Shadow Offset X", Float) = 0
+_ShadowOffsetY ("Shadow Offset Y", Float) = 0
+_ShadowColor ("Shadow Color", Color) = (0,0,0,0)
 _StencilComp ("Stencil Comparison", Float) = 8
 _Stencil ("Stencil ID", Float) = 0
 _StencilOp ("Stencil Operation", Float) = 0
@@ -33,7 +35,7 @@ SubShader {
    Fail Keep
    ZFail Keep
   }
-  GpuProgramID 34909
+  GpuProgramID 21974
 }
 }
 }

@@ -5,13 +5,15 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_Color ("Main Color", Color) = (1,1,1,1)
+_MainTex ("Base (RGB) Trans (A)", 2D) = "white" { }
 }
 SubShader {
  Pass {
   LOD 100
-  Tags { "RenderType" = "Opaque" }
-  GpuProgramID 63269
+  Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+  Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
+  ZWrite Off
+  GpuProgramID 13504
 }
 }
 }

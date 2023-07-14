@@ -5,38 +5,23 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Sprite Texture", 2D) = "white" { }
-_ColorMask ("Color Mask", Float) = 15
-[Header(CIRCLE PROPERTIES)] _Color ("Tint", Color) = (1,1,1,1)
-_Radius ("Circle Radius", Range(0, 1)) = 0.5
-_Falloff ("Circle Falloff", Range(0, 11)) = 2
-[Enum(UnityEngine.Rendering.CompareFunction)] unity_GUIZTestMode ("ZTest", Float) = 4
-[Header(STENCIL PROPERTIES)] _Stencil ("Stencil ID [0;255]", Float) = 0
-_ReadMask ("Stencil Read Mask [0;255]", Float) = 255
-_WriteMask ("Stencil Write Mask [0;255]", Float) = 255
-[Enum(UnityEngine.Rendering.CompareFunction)] _StencilComp ("Stencil Comparison", Float) = 8
-[Enum(UnityEngine.Rendering.StencilOp)] _StencilOp ("Stencil Operation", Float) = 0
-[Enum(UnityEngine.Rendering.StencilOp)] _StencilFail ("Stencil Fail", Float) = 0
-[Enum(UnityEngine.Rendering.StencilOp)] _StencilZFail ("Stencil ZFail", Float) = 0
+_yFaceColor ("Up Facing Color", Color) = (1,1,1,1)
+_blendedFaceColor ("Blended (distant) Face Color", Color) = (1,1,1,1)
+_wallColor ("Wall Color 1", Color) = (1,1,1,1)
+_wallColorSecondary ("Wall Color 2", Color) = (1,1,1,1)
+_NearOpacity ("Near Opacity", Range(0, 1)) = 0
+_FarOpacity ("Far Opacity", Range(0, 1)) = 1
+_NearDist ("Near Distance", Float) = 100
+_FarDist ("Far Distance", Float) = 250
+_BlendedColorNearDist ("Blended Near Distance", Float) = 80
+_BlendedColorFarDist ("Blended Far Distance", Float) = 250
 }
 SubShader {
  Pass {
-  Name "Default"
-  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+  Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent-1" "RenderType" = "Transparent" }
   Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
-  ColorMask 0 0
-  ZTest Off
   ZWrite Off
-  Cull Off
-  Stencil {
-   ReadMask 0
-   WriteMask 0
-   Comp Disabled
-   Pass Keep
-   Fail Keep
-   ZFail Keep
-  }
-  GpuProgramID 46401
+  GpuProgramID 25757
 }
 }
 }

@@ -5,13 +5,22 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Texture", 2D) = "white" { }
+_StencilMask ("Masked Stencil Id", Range(0, 255)) = 0
 }
 SubShader {
  Pass {
-  LOD 100
-  Tags { "RenderType" = "Opaque" }
-  GpuProgramID 54676
+  Tags { "QUEUE" = "Geometry" }
+  ColorMask 0 0
+  Stencil {
+   Comp Equal
+   Pass Replace
+   Fail Keep
+   ZFail Keep
+  }
+  Fog {
+   Mode Off
+  }
+  GpuProgramID 11839
 }
 }
 }

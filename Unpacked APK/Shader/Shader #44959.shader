@@ -5,15 +5,17 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Base (RGB) Trans (A)", 2D) = "white" { }
+_Tint ("Tint Color", Color) = (0.5,0.5,0.5,0.5)
+_Exposure ("Exposure", Range(0, 8)) = 1
+_Rotation ("Rotation", Range(0, 360)) = 0
+_Tex ("Cubemap   (HDR)", Cube) = "grey" { }
 }
 SubShader {
  Pass {
-  LOD 100
-  Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
-  Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
+  Tags { "PreviewType" = "Skybox" "QUEUE" = "Background" "RenderType" = "Background" }
   ZWrite Off
-  GpuProgramID 13504
+  Cull Off
+  GpuProgramID 52714
 }
 }
 }

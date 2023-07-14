@@ -5,15 +5,26 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
+_MainTex ("Main Texture", 2D) = "white" { }
 _Color ("Tint Color", Color) = (1,1,1,1)
-_CircleSize ("Circle Size", Range(0, 1)) = 0.2
-_CircleColor ("Circle Color", Color) = (0,0,0,1)
-_LineWidth ("Line Width", Range(0, 1)) = 0.2
-_LineLength ("Line Length", Range(0, 1)) = 0.5
-_LineColor ("Line Color", Color) = (1,1,1,1)
-_MaxNumber ("Maximum Indicator number", Float) = 4
-_Antialias ("Antialias Strength", Float) = 0.04
-_MainTex ("Texture", 2D) = "white" { }
+_IconTex ("Icon Texture", 2D) = "white" { }
+_ImageScale ("Scale Texture Down By", Float) = 3
+_InnerCircle ("Radius Ring Inside", Float) = 0.5
+_OuterCircle ("Radius Ring Outside", Float) = 0.65
+_OutestCircle ("Background Radius", Float) = 0.75
+_Feather ("Feather", Float) = 0.005
+_Background ("Background Color", Color) = (1,1,1,1)
+_RingBackground ("Ring Background Color", Color) = (0.2,0.2,0.2,1)
+_ScoreColor1 ("Score Color 1", Color) = (1,0.2,0,1)
+_ScoreColor2 ("Score Color 2", Color) = (1,1,0,1)
+_ScoreColor3 ("Score Color 3", Color) = (0,1,0,1)
+_ScoreColor4 ("Score Color 4", Color) = (0,1,1,1)
+_ScoreColor5 ("Score Color 5", Color) = (0.5,0.2,0,1)
+_ScoreColor6 ("Score Color 6", Color) = (0.5,0.5,0,1)
+_ScoreColor7 ("Score Color 7", Color) = (0,0.5,0,1)
+_ScoreColor8 ("Score Color 8", Color) = (0,0.5,0.5,1)
+_Scores ("Scores (accumulative)", Vector) = (0.1,0.2,0.3,0.4)
+_Scores1 ("Scores 1 (accumulative)", Vector) = (0.5,0.6,0.7,0.8)
 _StencilComp ("Stencil Comparison", Float) = 8
 _Stencil ("Stencil ID", Float) = 0
 _StencilOp ("Stencil Operation", Float) = 0
@@ -37,7 +48,7 @@ SubShader {
    Fail Keep
    ZFail Keep
   }
-  GpuProgramID 56681
+  GpuProgramID 20876
 }
 }
 }

@@ -5,14 +5,15 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Sprite Texture", 2D) = "white" { }
-_Ratio ("Element Ratio", Float) = 0.1
-_Progress ("Progress", Range(0, 1)) = 0.5
-_ProgressSteps ("Progress Steps", Float) = 8
-_GapWidth ("Gap Width", Float) = 0.05
-_ProgressColor ("Progress Color", Color) = (0.2,0.83,0.2,1)
-_BackgroundColor ("Background Color", Color) = (1,1,1,1)
-_GapColor ("Gap Color", Color) = (0.7,0.7,0.7,1)
+_Color ("Tint Color", Color) = (1,1,1,1)
+_CircleSize ("Circle Size", Range(0, 1)) = 0.2
+_CircleColor ("Circle Color", Color) = (0,0,0,1)
+_LineWidth ("Line Width", Range(0, 1)) = 0.2
+_LineLength ("Line Length", Range(0, 1)) = 0.5
+_LineColor ("Line Color", Color) = (1,1,1,1)
+_MaxNumber ("Maximum Indicator number", Float) = 4
+_Antialias ("Antialias Strength", Float) = 0.04
+_MainTex ("Texture", 2D) = "white" { }
 _StencilComp ("Stencil Comparison", Float) = 8
 _Stencil ("Stencil ID", Float) = 0
 _StencilOp ("Stencil Operation", Float) = 0
@@ -22,11 +23,10 @@ _ColorMask ("Color Mask", Float) = 15
 }
 SubShader {
  Pass {
-  Name "Default"
   Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
   Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
   ColorMask 0 0
-  ZTest Off
+  ZTest Always
   ZWrite Off
   Cull Off
   Stencil {
@@ -37,7 +37,7 @@ SubShader {
    Fail Keep
    ZFail Keep
   }
-  GpuProgramID 60922
+  GpuProgramID 56681
 }
 }
 }
