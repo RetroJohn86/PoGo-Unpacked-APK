@@ -1,0 +1,1050 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4009384210308908800
+  },
+  "m_Name": "PokedexMultiFormButtonSetData",
+  "MultiFormButtonSets": [
+    {
+      "_pokemonId": 351,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_normal",
+          "_form": 29,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_sun",
+          "_form": 30,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_rain",
+          "_form": 31,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_snow",
+          "_form": 32,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 412,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_plant_cloak",
+          "_form": 118,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_sandy_cloak",
+          "_form": 119,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_trash_cloak",
+          "_form": 120,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 413,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_plant_cloak",
+          "_form": 87,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_sandy_cloak",
+          "_form": 88,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "trash_cloak",
+          "_form": 89,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 421,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_overcast",
+          "_form": 94,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_sunshine",
+          "_form": 95,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 422,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_west_sea",
+          "_form": 96,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_east_sea",
+          "_form": 97,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 423,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_west_sea",
+          "_form": 98,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_east_sea",
+          "_form": 99,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 487,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_giratina_altered",
+          "_form": 90,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_giratina_origin",
+          "_form": 91,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 492,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_land",
+          "_form": 93,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_sky",
+          "_form": 92,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 479,
+      "_formButtonSets": [
+        {
+          "_labelKey": "pokemon_name_0479",
+          "_form": 81,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -8444973442989369224
+          }
+        },
+        {
+          "_labelKey": "form_heat",
+          "_form": 86,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -8948832056259094890
+          }
+        },
+        {
+          "_labelKey": "form_wash",
+          "_form": 85,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -1133970161965799795
+          }
+        },
+        {
+          "_labelKey": "form_frost",
+          "_form": 82,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -1459290629389551287
+          }
+        },
+        {
+          "_labelKey": "form_fan",
+          "_form": 83,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -3550921929176754618
+          }
+        },
+        {
+          "_labelKey": "form_mow",
+          "_form": 84,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -6014427906225309960
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 550,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_red_striped",
+          "_form": 136,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_blue_striped",
+          "_form": 137,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 585,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_spring",
+          "_form": 585,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_summer",
+          "_form": 586,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_autumn",
+          "_form": 587,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_winter",
+          "_form": 588,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 586,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_spring",
+          "_form": 589,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_summer",
+          "_form": 590,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_autumn",
+          "_form": 591,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_winter",
+          "_form": 592,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 641,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_incarnate",
+          "_form": 140,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_therian",
+          "_form": 141,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 642,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_incarnate",
+          "_form": 142,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_therian",
+          "_form": 143,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 645,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_incarnate",
+          "_form": 144,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_therian",
+          "_form": 145,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 646,
+      "_formButtonSets": [
+        {
+          "_labelKey": "pokemon_name_0646",
+          "_form": 146,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_white",
+          "_form": 148,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_black",
+          "_form": 147,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 647,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_ordinary",
+          "_form": 149,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_resolute",
+          "_form": 150,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 648,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_aria",
+          "_form": 151,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_pirouette",
+          "_form": 152,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 649,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_no_drive",
+          "_form": 593,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -4365584213126541573
+          }
+        },
+        {
+          "_labelKey": "form_shock_drive",
+          "_form": 594,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -9032394776578386107
+          }
+        },
+        {
+          "_labelKey": "form_burn_drive",
+          "_form": 595,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -1296629892215910302
+          }
+        },
+        {
+          "_labelKey": "form_chill_drive",
+          "_form": 596,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -1934154771240664420
+          }
+        },
+        {
+          "_labelKey": "form_douse_drive",
+          "_form": 597,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": -2860309846934388899
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 710,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_pumpkaboo_small",
+          "_form": 2641,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_pumpkaboo_average",
+          "_form": 2642,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_pumpkaboo_large",
+          "_form": 2643,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_pumpkaboo_super",
+          "_form": 2644,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 711,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_gourgeist_small",
+          "_form": 2645,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_gourgeist_average",
+          "_form": 2646,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_gourgeist_large",
+          "_form": 2647,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_gourgeist_super",
+          "_form": 2648,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 720,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_hoopa_confined",
+          "_form": 2651,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_hoopa_unbound",
+          "_form": 2652,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 669,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_flabebe_red",
+          "_form": 2614,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_flabebe_yellow",
+          "_form": 2615,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_flabebe_orange",
+          "_form": 2616,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_flabebe_blue",
+          "_form": 2617,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_flabebe_white",
+          "_form": 2618,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 670,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_floette_red",
+          "_form": 2619,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_floette_yellow",
+          "_form": 2620,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_floette_orange",
+          "_form": 2621,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_floette_blue",
+          "_form": 2622,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_floette_white",
+          "_form": 2623,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 671,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_florges_red",
+          "_form": 2624,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_florges_yellow",
+          "_form": 2625,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_florges_orange",
+          "_form": 2626,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_florges_blue",
+          "_form": 2627,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_florges_white",
+          "_form": 2628,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 745,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_lycanroc_midday",
+          "_form": 2684,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_lycanroc_midnight",
+          "_form": 2685,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_lycanroc_dusk",
+          "_form": 2686,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 741,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_oricorio_baile",
+          "_form": 2679,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_oricorio_pompom",
+          "_form": 2680,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_oricorio_pau",
+          "_form": 2681,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_oricorio_sensu",
+          "_form": 2683,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 676,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_furfrou_natural",
+          "_form": 2629,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_furfrou_heart",
+          "_form": 2630,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_furfrou_star",
+          "_form": 2631,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_furfrou_diamond",
+          "_form": 2632,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_furfrou_debutante",
+          "_form": 2633,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_furfrou_matron",
+          "_form": 2634,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_furfrou_dandy",
+          "_form": 2635,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_furfrou_la_reine",
+          "_form": 2636,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_furfrou_kabuki",
+          "_form": 2637,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_furfrou_pharaoh",
+          "_form": 2638,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_pokemonId": 718,
+      "_formButtonSets": [
+        {
+          "_labelKey": "form_zygarde_ten_percent",
+          "_form": 2591,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_zygarde_fifty_percent",
+          "_form": 2592,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_labelKey": "form_zygarde_complete",
+          "_form": 2593,
+          "_allowShiny": 1,
+          "_sprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    }
+  ]
+}

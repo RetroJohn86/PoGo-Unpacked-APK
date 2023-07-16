@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1128584571059277402
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8360868896352658943
+  },
+  "m_Name": "",
+  "type": 0,
+  "targetImage": {
+    "m_FileID": 0,
+    "m_PathID": -3094661727957978206
+  },
+  "startColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.0
+  },
+  "endColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.3529412
+  },
+  "startDelayInSeconds": 3.0,
+  "durationInSeconds": 0.5
+}

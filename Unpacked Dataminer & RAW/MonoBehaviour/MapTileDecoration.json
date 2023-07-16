@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 127335187268322300
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1451822689294772974
+  },
+  "m_Name": "",
+  "minimumHeightOffset": 0.006,
+  "maximumHeightOffset": 0.01,
+  "minimumScaleLimit": {
+    "x": 0.6,
+    "y": 1.0,
+    "z": 0.6
+  },
+  "maximumScaleLimit": {
+    "x": 0.8,
+    "y": 1.0,
+    "z": 0.8
+  },
+  "minMaxRotationLimitInDegrees": {
+    "x": 0.0,
+    "y": 360.0
+  }
+}

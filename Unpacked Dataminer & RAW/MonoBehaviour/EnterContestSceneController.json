@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2259532169424500304
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2668444754686162977
+  },
+  "m_Name": "",
+  "poiImageRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 3657717639069893795
+  },
+  "mediumHeightCutoff": 2.0,
+  "largeHeightCutoff": 3.5,
+  "celebrationParticlesSmall": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5924685142880919165
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6551875578733911724
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4542289307917700079
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9215502603255696484
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8597911790912963359
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -832102115997523961
+    }
+  ],
+  "celebrationParticlesMedium": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2993913858712275051
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7006173398628178288
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4542289307917700079
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9215502603255696484
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8597911790912963359
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4511432997605537603
+    }
+  ],
+  "celebrationParticlesLarge": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8597183458187014798
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6186871550169120399
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4542289307917700079
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9215502603255696484
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8597911790912963359
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 943046822691824335
+    }
+  ]
+}

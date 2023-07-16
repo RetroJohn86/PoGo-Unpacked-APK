@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 581119277028812149
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -494493819780511519
+  },
+  "m_Name": "",
+  "useEventColors": 1,
+  "mapPaletteDataEvent": {
+    "m_FileID": 0,
+    "m_PathID": 5710115066724109170
+  },
+  "fadeDuration": 2.0
+}

@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9020510177280066055
+  },
+  "m_Name": "winter_poi_theme_config",
+  "pokestopColorSettings": [],
+  "spawnAtLoad": 1,
+  "spawnOnFixedPois": 0,
+  "normalPokestopSpawnRate": 0.05,
+  "normalPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "e07cb080f93c04433967e4c1eaaf5ae7",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "205b890cf318b4272aa55c6a783bbe7f",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "c34b96e92409a4f85ae804ad200bd072",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "tallPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "773a1d441eb0e44338a3bc943a827318",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "7804c9bc375664ffe805bdcd09de064b",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "invasionPokestopSpawnRate": 1.0,
+  "invasionPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "1bdc7c08a3f164c53bfc4b7f9c2f375f",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "5f3479e6819ef4ce38130fad6fde53ea",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "d2f25d6ee7af44f33a03a16d77265fef",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "neutralGymSpawnRate": 0.5,
+  "neutralGymDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "773a1d441eb0e44338a3bc943a827318",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "7804c9bc375664ffe805bdcd09de064b",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "teamGymSpawnRate": 1.0,
+  "blueGymDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "303dd69fddf2242ee92df3ebdb5aad51",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "redGymDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "e97e9be1f94f74b06ba09344e78e34a1",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "yellowGymDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "d27d6af9857214978b647f9702edd26a",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ]
+}

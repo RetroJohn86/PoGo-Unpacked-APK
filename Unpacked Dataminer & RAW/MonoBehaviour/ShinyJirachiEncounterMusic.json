@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "ShinyJirachiEncounterMusic",
+  "Clip": {
+    "m_FileID": 16,
+    "m_PathID": 4121391311236263738
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 2.0,
+  "Looping": 1,
+  "LoopStart": 0.0,
+  "LoopEnd": 167.0,
+  "StartTimes": []
+}

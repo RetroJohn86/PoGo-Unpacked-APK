@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5596539294940691615
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4158442111092062605
+  },
+  "m_Name": "",
+  "areaFeatureKinds": [
+    33,
+    17,
+    16,
+    35,
+    29,
+    59,
+    60,
+    91,
+    15,
+    13,
+    12,
+    14,
+    20,
+    31,
+    59
+  ],
+  "borderSmoothDistance": 0.3,
+  "borderPointsPerTileUnit": 10.0,
+  "minimumScaleLimit": {
+    "x": 0.7,
+    "y": 0.25,
+    "z": 0.7
+  },
+  "maximumScaleLimit": {
+    "x": 1.2,
+    "y": 0.55,
+    "z": 1.2
+  },
+  "minMaxRotationLimitInDegrees": {
+    "x": 0.0,
+    "y": 360.0
+  },
+  "spawnObj": {
+    "m_FileID": 0,
+    "m_PathID": -3873954614422925467
+  },
+  "grassShader": {
+    "m_FileID": 0,
+    "m_PathID": 1064035467906199849
+  },
+  "ambientStrength": 0.55,
+  "mapLayers": [
+    4
+  ]
+}

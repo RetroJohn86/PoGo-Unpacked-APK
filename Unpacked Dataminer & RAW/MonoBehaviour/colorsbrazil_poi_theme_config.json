@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9020510177280066055
+  },
+  "m_Name": "colorsbrazil_poi_theme_config",
+  "pokestopColorSettings": [],
+  "spawnAtLoad": 0,
+  "spawnOnFixedPois": 0,
+  "normalPokestopSpawnRate": 1.0,
+  "normalPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "bbfd06a40752543ca965ec4f8ea79d3c",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 1,
+      "usesPokestopStateLogic": 1,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "3eba30fe12b264b1a90d88ffc54a72ea",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 1,
+      "usesPokestopStateLogic": 1,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "d85703ac6915640009a20d9738edf8a1",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 1,
+      "usesPokestopStateLogic": 1,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "42cee8dd1bc2d4dc692707e7621a0a59",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 1,
+      "usesPokestopStateLogic": 1,
+      "decorationAddress": ""
+    }
+  ],
+  "tallPokestopDecorations": [],
+  "invasionPokestopSpawnRate": 1.0,
+  "invasionPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "bbfd06a40752543ca965ec4f8ea79d3c",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "3eba30fe12b264b1a90d88ffc54a72ea",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "neutralGymSpawnRate": 0.0,
+  "neutralGymDecorations": [],
+  "teamGymSpawnRate": 0.0,
+  "blueGymDecorations": [],
+  "redGymDecorations": [],
+  "yellowGymDecorations": []
+}

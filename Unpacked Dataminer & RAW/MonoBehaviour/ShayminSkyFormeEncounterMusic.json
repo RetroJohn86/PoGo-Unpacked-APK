@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "ShayminSkyFormeEncounterMusic",
+  "Clip": {
+    "m_FileID": 1,
+    "m_PathID": -5942760737318318245
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 2.0,
+  "Looping": 1,
+  "LoopStart": 9.846,
+  "LoopEnd": 59.07691,
+  "StartTimes": []
+}

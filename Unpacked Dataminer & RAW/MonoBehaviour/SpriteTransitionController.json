@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6408377700524458383
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8559636108454317466
+  },
+  "m_Name": "",
+  "fadeTransition": {
+    "m_FileID": 0,
+    "m_PathID": 1679342069182670282
+  },
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -5093915633560719031
+  },
+  "resetColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.0
+  }
+}

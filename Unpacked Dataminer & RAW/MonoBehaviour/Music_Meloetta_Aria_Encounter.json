@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "Music_Meloetta_Aria_Encounter",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": -2311653951702035435
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 0.0,
+  "Looping": 1,
+  "LoopStart": 20.8,
+  "LoopEnd": 72.0,
+  "StartTimes": []
+}

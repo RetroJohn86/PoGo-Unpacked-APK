@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9201757493355748531
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8797238614672040712
+  },
+  "m_Name": "",
+  "m_UiScaleMode": 1,
+  "m_ReferencePixelsPerUnit": 100.0,
+  "m_ScaleFactor": 1.0,
+  "m_ReferenceResolution": {
+    "x": 720.0,
+    "y": 1030.0
+  },
+  "m_ScreenMatchMode": 1,
+  "m_MatchWidthOrHeight": 0.0,
+  "m_PhysicalUnit": 3,
+  "m_FallbackScreenDPI": 96.0,
+  "m_DefaultSpriteDPI": 96.0,
+  "m_DynamicPixelsPerUnit": 1.0,
+  "m_PresetInfoIsWorld": 0
+}

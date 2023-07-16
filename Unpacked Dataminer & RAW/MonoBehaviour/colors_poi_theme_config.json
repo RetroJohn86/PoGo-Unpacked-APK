@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9020510177280066055
+  },
+  "m_Name": "colors_poi_theme_config",
+  "pokestopColorSettings": [],
+  "spawnAtLoad": 0,
+  "spawnOnFixedPois": 0,
+  "normalPokestopSpawnRate": 1.0,
+  "normalPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "db2773074a4764f3188e5da5a5daae8b",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 1,
+      "usesPokestopStateLogic": 1,
+      "decorationAddress": ""
+    }
+  ],
+  "tallPokestopDecorations": [],
+  "invasionPokestopSpawnRate": 1.0,
+  "invasionPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "db2773074a4764f3188e5da5a5daae8b",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "neutralGymSpawnRate": 0.0,
+  "neutralGymDecorations": [],
+  "teamGymSpawnRate": 0.0,
+  "blueGymDecorations": [],
+  "redGymDecorations": [],
+  "yellowGymDecorations": []
+}

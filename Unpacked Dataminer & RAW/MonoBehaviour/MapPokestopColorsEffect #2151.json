@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5321909065301261356
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7008763238121008768
+  },
+  "m_Name": "",
+  "useProximityFX": 1,
+  "useInteractionFX": 0,
+  "useLodFX": 0,
+  "nearParticleFX": {
+    "m_FileID": 0,
+    "m_PathID": -4633724446641709632
+  },
+  "farParticleFX": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "farParticleLOD": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

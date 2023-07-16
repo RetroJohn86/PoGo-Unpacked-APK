@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1435542770521537686
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8409974118651022282
+  },
+  "m_Name": "",
+  "pokeballMeshRenderer": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3555204657797109980
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8027754529394258262
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6956571114893334032
+    }
+  ]
+}

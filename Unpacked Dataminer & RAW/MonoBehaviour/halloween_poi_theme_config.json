@@ -1,0 +1,309 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9020510177280066055
+  },
+  "m_Name": "halloween_poi_theme_config",
+  "pokestopColorSettings": [
+    {
+      "Material": 0,
+      "AmbientColor": {
+        "r": 0.5764706,
+        "g": 0.3152564,
+        "b": 0.10196076,
+        "a": 0.5019608
+      },
+      "AmbientColor2": {
+        "r": 0.5764706,
+        "g": 0.31764707,
+        "b": 0.101960786,
+        "a": 0.5019608
+      },
+      "DiffuseColor": {
+        "r": 1.0,
+        "g": 0.4861994,
+        "b": 0.051886797,
+        "a": 1.0
+      },
+      "DiffuseColor2": {
+        "r": 1.0,
+        "g": 0.4862745,
+        "b": 0.050980393,
+        "a": 1.0
+      },
+      "Specular": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "Specular2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "RimTop": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "RimTop2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "RimBottom": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.5019608
+      },
+      "AmbientColorAlt": {
+        "r": 0.5764706,
+        "g": 0.31764707,
+        "b": 0.101960786,
+        "a": 1.0
+      },
+      "DiffuseColorAlt": {
+        "r": 1.0,
+        "g": 0.4862745,
+        "b": 0.050980393,
+        "a": 1.0
+      },
+      "SpecularAlt": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "RimTopAlt": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "ColorOverride": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "RimLightMult": 1.0
+    },
+    {
+      "Material": 4,
+      "AmbientColor": {
+        "r": 0.5764706,
+        "g": 0.31764707,
+        "b": 0.101960786,
+        "a": 0.5019608
+      },
+      "AmbientColor2": {
+        "r": 0.3764706,
+        "g": 0.20025752,
+        "b": 0.12156861,
+        "a": 0.5019608
+      },
+      "DiffuseColor": {
+        "r": 1.0,
+        "g": 0.4862745,
+        "b": 0.050980393,
+        "a": 1.0
+      },
+      "DiffuseColor2": {
+        "r": 0.3764706,
+        "g": 0.2,
+        "b": 0.12156863,
+        "a": 1.0
+      },
+      "Specular": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "Specular2": {
+        "r": 0.3764706,
+        "g": 0.2,
+        "b": 0.12156863,
+        "a": 1.0
+      },
+      "RimTop": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "RimTop2": {
+        "r": 0.3764706,
+        "g": 0.2,
+        "b": 0.12156863,
+        "a": 1.0
+      },
+      "RimBottom": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.5019608
+      },
+      "AmbientColorAlt": {
+        "r": 0.5764706,
+        "g": 0.31764707,
+        "b": 0.101960786,
+        "a": 1.0
+      },
+      "DiffuseColorAlt": {
+        "r": 1.0,
+        "g": 0.4862745,
+        "b": 0.050980393,
+        "a": 1.0
+      },
+      "SpecularAlt": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "RimTopAlt": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.5019608
+      },
+      "ColorOverride": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "RimLightMult": 1.0
+    }
+  ],
+  "spawnAtLoad": 1,
+  "spawnOnFixedPois": 0,
+  "normalPokestopSpawnRate": 0.05,
+  "normalPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "07e3f3e159db844b691470f8df2b3c0e",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "2ed67ac5808524ac5a4bea9819266b50",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "bfa944e315a874703b6b33dc0aa691bc",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "tallPokestopDecorations": [],
+  "invasionPokestopSpawnRate": 1.0,
+  "invasionPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "a66a48ea0cc6d4a77b6a470476a8b002",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "neutralGymSpawnRate": 1.0,
+  "neutralGymDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "07e3f3e159db844b691470f8df2b3c0e",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "2ed67ac5808524ac5a4bea9819266b50",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "bfa944e315a874703b6b33dc0aa691bc",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "teamGymSpawnRate": 1.0,
+  "blueGymDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "3841469468eec49fb8a09ff76879b513",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "redGymDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "3a6b22100fa074497bfc119289847725",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ],
+  "yellowGymDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "baa5931f719de4e8d9ce37e54ec120ad",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": ""
+    }
+  ]
+}

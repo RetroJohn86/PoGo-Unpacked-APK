@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4208903928021397621
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3367155920357036893
+  },
+  "m_Name": "",
+  "renderToTextureCamera": {
+    "m_FileID": 0,
+    "m_PathID": -2792630361019247662
+  },
+  "mysteryBoxAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 524888539690268210
+  },
+  "smokeParticle": {
+    "m_FileID": 0,
+    "m_PathID": 7692208483846413288
+  }
+}

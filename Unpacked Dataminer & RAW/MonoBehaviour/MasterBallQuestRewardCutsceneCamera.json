@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3645384428619450886
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4608082717551711662
+  },
+  "m_Name": "",
+  "masterBallCamera": {
+    "m_FileID": 0,
+    "m_PathID": -2604373898417366679
+  },
+  "masterBallCameraLayers": {
+    "m_Bits": 16777216
+  }
+}

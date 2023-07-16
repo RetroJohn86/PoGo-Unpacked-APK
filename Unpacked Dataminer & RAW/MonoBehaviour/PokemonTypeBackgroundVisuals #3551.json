@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7627118016057826988
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7748810524698468065
+  },
+  "m_Name": "",
+  "parentCanvas": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "canvas": {
+    "m_FileID": 0,
+    "m_PathID": -6458820891582565503
+  },
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 2359506245358267397
+  },
+  "particleSystems": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7747956436530913762
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1534269192215486532
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3360487311075879871
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4379051444729974238
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3921126161048119007
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1057846458781068605
+    }
+  ],
+  "particleSystemRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4622125683413009010
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2646675400055759953
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4118627128743894716
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 518954986072812311
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -478947814702417335
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1162577118140585713
+    }
+  ],
+  "IsFadedIn": 0
+}

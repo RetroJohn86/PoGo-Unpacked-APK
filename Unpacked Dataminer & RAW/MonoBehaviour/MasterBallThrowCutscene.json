@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3182439855506192633
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7062154424003609601
+  },
+  "m_Name": "",
+  "throwAnimationDurationSeconds": 5.5,
+  "pokemonRoot": {
+    "m_FileID": 0,
+    "m_PathID": -8411939879908663103
+  },
+  "masterBallTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7330101651531687883
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -6803343964538104247
+  },
+  "masterBallThrowCutsceneCamera": {
+    "m_FileID": 0,
+    "m_PathID": 6444279392458348358
+  },
+  "masterBallThrowCutsceneCameraLayers": {
+    "m_Bits": 16777249
+  },
+  "tweenDurationSeconds": 0.5,
+  "ballTweenDurationSeconds": 1.5,
+  "tweenCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

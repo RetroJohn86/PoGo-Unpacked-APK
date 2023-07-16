@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8792467219543933831
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5130705514589068765
+  },
+  "m_Name": "",
+  "cameraAnimator": {
+    "m_FileID": 0,
+    "m_PathID": -291160001384633721
+  },
+  "containerAnimator": {
+    "m_FileID": 0,
+    "m_PathID": -2624118857354327148
+  },
+  "masterBallQuestRewardCutsceneCamera": {
+    "m_FileID": 0,
+    "m_PathID": 746085456533643690
+  },
+  "musicReference": {
+    "m_AssetGUID": "7878d31a9d6a6443f86cdeb3d8c2c615",
+    "m_SubObjectName": "",
+    "m_SubObjectType": ""
+  }
+}

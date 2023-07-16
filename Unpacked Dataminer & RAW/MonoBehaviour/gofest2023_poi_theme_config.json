@@ -1,0 +1,97 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9020510177280066055
+  },
+  "m_Name": "gofest2023_poi_theme_config",
+  "pokestopColorSettings": [],
+  "spawnAtLoad": 1,
+  "spawnOnFixedPois": 1,
+  "normalPokestopSpawnRate": 1.0,
+  "normalPokestopDecorations": [
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "bb52afbcf626442598e61705bcfbb31d",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": "poi_athletic"
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "8e2bc502dd8ad466183235d1eed4ffde",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": "poi_fairy"
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "c62a9bc8724d14b2fb5cd68d6bc6a7c2",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": "poi_treasure"
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "a96cf840766664f1eb7ea922830b982f",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": "poi_jungle"
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "aec9e18c320a14aa3abc7cf8c38ff5d1",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": "poi_volcano"
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "f0dbc946ff3764578abfd038557be43c",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": "poi_glacier"
+    },
+    {
+      "decorationPrefab": {
+        "m_AssetGUID": "8cdbade5c5ddb449eb2b29d5cf3d8aa4",
+        "m_SubObjectName": "",
+        "m_SubObjectType": ""
+      },
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0,
+      "decorationAddress": "poi_swamp"
+    }
+  ],
+  "tallPokestopDecorations": [],
+  "invasionPokestopSpawnRate": 0.0,
+  "invasionPokestopDecorations": [],
+  "neutralGymSpawnRate": 0.0,
+  "neutralGymDecorations": [],
+  "teamGymSpawnRate": 0.0,
+  "blueGymDecorations": [],
+  "redGymDecorations": [],
+  "yellowGymDecorations": []
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5089210668259472180
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9120611754235662984
+  },
+  "m_Name": "",
+  "lightType": 1,
+  "lightTransform": {
+    "m_FileID": 0,
+    "m_PathID": -308078952415302160
+  },
+  "materialList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4494997014127043700
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3942869580063762830
+    }
+  ],
+  "intensity": 10.0
+}
