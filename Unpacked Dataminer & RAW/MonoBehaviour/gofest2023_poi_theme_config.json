@@ -20,7 +20,7 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0,
+      "showOnSponsoredPois": 1,
       "usesPokestopStateLogic": 0,
       "decorationAddress": "poi_athletic"
     },
@@ -30,7 +30,7 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0,
+      "showOnSponsoredPois": 1,
       "usesPokestopStateLogic": 0,
       "decorationAddress": "poi_fairy"
     },
@@ -40,7 +40,7 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0,
+      "showOnSponsoredPois": 1,
       "usesPokestopStateLogic": 0,
       "decorationAddress": "poi_treasure"
     },
@@ -50,7 +50,7 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0,
+      "showOnSponsoredPois": 1,
       "usesPokestopStateLogic": 0,
       "decorationAddress": "poi_jungle"
     },
@@ -60,7 +60,7 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0,
+      "showOnSponsoredPois": 1,
       "usesPokestopStateLogic": 0,
       "decorationAddress": "poi_volcano"
     },
@@ -70,7 +70,7 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0,
+      "showOnSponsoredPois": 1,
       "usesPokestopStateLogic": 0,
       "decorationAddress": "poi_glacier"
     },
@@ -80,7 +80,7 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0,
+      "showOnSponsoredPois": 1,
       "usesPokestopStateLogic": 0,
       "decorationAddress": "poi_swamp"
     }
