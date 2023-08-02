@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 798901934614411104
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7115792337821452219
+  },
+  "m_Name": "",
+  "costumeSets": [
+    {
+      "costumeId": "UNSET",
+      "prefabs": [],
+      "setEvents": {
+        "m_PersistentCalls": {
+          "m_Calls": []
+        }
+      }
+    },
+    {
+      "costumeId": "NOVEMBER_2018",
+      "prefabs": [
+        {
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "costumeMaterialSwaps": [],
+          "socket": {
+            "m_FileID": 0,
+            "m_PathID": -3539352850553876890
+          },
+          "customOffset": {
+            "x": 0.0004,
+            "y": 0.0,
+            "z": -0.0005
+          },
+          "customRotation": {
+            "x": 0.0,
+            "y": -40.6,
+            "z": 90.0
+          }
+        }
+      ],
+      "setEvents": {
+        "m_PersistentCalls": {
+          "m_Calls": []
+        }
+      }
+    }
+  ]
+}

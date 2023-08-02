@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 5533441303832444973
+    "m_PathID": 3415205737990441157
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,37 +11,37 @@
   "m_Name": "",
   "topMeshRender": {
     "m_FileID": 0,
-    "m_PathID": -4977305737518699886
+    "m_PathID": -6999245816762417979
   },
   "sideMeshRender": {
     "m_FileID": 0,
-    "m_PathID": -7364149513128433214
+    "m_PathID": 3656609912143778724
   },
   "crowdBannerMeshRenders": [
     {
       "m_FileID": 0,
-      "m_PathID": 3397683951873634816
+      "m_PathID": -8019352857882205033
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2138033344269603012
+      "m_PathID": -5753727843773828679
     }
   ],
   "crowdMeshRender": {
     "m_FileID": 0,
-    "m_PathID": -1266787614996872119
+    "m_PathID": 777048055860594342
   },
   "bannerMeshRender": {
     "m_FileID": 0,
-    "m_PathID": -1872170605763189203
+    "m_PathID": 1489241947120931066
   },
   "monitors": {
     "m_FileID": 0,
-    "m_PathID": 2025914376832904461
+    "m_PathID": -726722463671245771
   },
   "takeoverMonitors": {
     "m_FileID": 0,
-    "m_PathID": 2850136534801682660
+    "m_PathID": -1980678031251497020
   },
   "teamBannerSettings": [
     {
@@ -52,40 +52,29 @@
       },
       "textureScale": {
         "x": 1.0,
-        "y": 1.0
+        "y": 2.58
       }
     },
     {
       "team": 2,
       "textureOffset": {
         "x": 0.0,
-        "y": 0.66
+        "y": 0.0
       },
       "textureScale": {
         "x": 1.0,
-        "y": 1.0
+        "y": 2.58
       }
     },
     {
       "team": 3,
       "textureOffset": {
         "x": 0.0,
-        "y": 0.33
-      },
-      "textureScale": {
-        "x": 0.0,
-        "y": 0.0
-      }
-    },
-    {
-      "team": 4,
-      "textureOffset": {
-        "x": 0.0,
         "y": 0.0
       },
       "textureScale": {
         "x": 1.0,
-        "y": 3.0
+        "y": 2.58
       }
     }
   ]

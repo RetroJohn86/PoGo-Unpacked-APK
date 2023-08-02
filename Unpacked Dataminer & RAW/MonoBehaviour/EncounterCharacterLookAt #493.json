@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3362277810977695603
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -132508322058425665
+  },
+  "m_Name": "",
+  "_lookTarget": {
+    "m_FileID": 0,
+    "m_PathID": -3362625264140992556
+  },
+  "_activationLimitDegrees": 180.0,
+  "_topSpeedDegrees": 60.0,
+  "_lookSpeedDegreesMin": 0.0,
+  "_lookSpeedDegreesMax": 600.0,
+  "_rotationLimitDegrees": 60.0
+}

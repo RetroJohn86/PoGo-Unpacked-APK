@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2082827385713703876
+  },
+  "m_Name": "Diancie_HappyTrigger",
+  "<characterIndex>k__BackingField": 0,
+  "<audioIndex>k__BackingField": 0,
+  "<controlHead>k__BackingField": 1,
+  "<pokemonAnimation>k__BackingField": 10
+}

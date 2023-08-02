@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 4194608748214216125
+    "m_PathID": -6631011125399511851
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -13,7 +13,7 @@
     {
       "Renderer": {
         "m_FileID": 0,
-        "m_PathID": 5036031022374556896
+        "m_PathID": -5408752407594478166
       },
       "MaterialIndex": 0,
       "ColorProperties": [
@@ -31,22 +31,22 @@
     }
   ],
   "pokemonAlignmentVFX": {
-    "m_FileID": 2,
+    "m_FileID": 1,
     "m_PathID": -1837003159581947012
   },
   "skinnedMeshRenderer": {
     "m_FileID": 0,
-    "m_PathID": 6191256738768783826
+    "m_PathID": -5408752407594478166
   },
-  "radiusOverride": 1.75,
-  "heightOverride": 2.67,
+  "radiusOverride": 1.65,
+  "heightOverride": 2.5,
   "shadowLocalPositionOverride": {
     "x": 0.0,
     "y": 0.0,
     "z": 0.0
   },
   "shadowStartSizeOverride": 0.0,
-  "shadowFrontShapeType": 4,
+  "shadowFrontShapeType": 14,
   "shadowFrontShapeScale": {
     "x": 1.0,
     "y": 1.0,
@@ -58,7 +58,7 @@
     "z": 0.0
   },
   "purifiedEmissionOverride": 0.0,
-  "purifiedShapeType": 2,
+  "purifiedShapeType": 14,
   "purifiedShapeScale": {
     "x": 1.0,
     "y": 1.0,

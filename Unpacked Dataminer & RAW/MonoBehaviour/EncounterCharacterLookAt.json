@@ -17,5 +17,5 @@
   "_topSpeedDegrees": 60.0,
   "_lookSpeedDegreesMin": 0.0,
   "_lookSpeedDegreesMax": 600.0,
-  "_rotationLimitDegrees": 40.0
+  "_rotationLimitDegrees": 60.0
 }

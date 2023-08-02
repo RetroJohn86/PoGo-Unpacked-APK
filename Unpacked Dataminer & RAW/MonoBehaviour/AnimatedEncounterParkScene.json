@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 7934730140927695806
+    "m_PathID": -5089210668259472180
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,25 +11,31 @@
   "m_Name": "",
   "_animator": {
     "m_FileID": 0,
-    "m_PathID": -4176751638541973109
+    "m_PathID": 9040384132602907843
   },
-  "_usesCustomColliders": 1,
+  "_usesCustomColliders": 0,
   "_pokemonPositioner": {
     "m_FileID": 0,
-    "m_PathID": -8946682801627037496
+    "m_PathID": -2727446702250839527
   },
-  "_audioClipReferences": [],
+  "_audioClipReferences": [
+    {
+      "m_AssetGUID": "e575fa513034546dea5db27c86b7f858",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    }
+  ],
   "<LightSetup>k__BackingField": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 2524293314057026383
   },
   "_animatedCamStartTransform": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 4723858131362633381
   },
   "_animatedCamStartTarget": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -1000592498380247257
   },
   "cameraHeight": 1.0,
   "posCurve": {
@@ -38,19 +44,19 @@
         "time": 0.0,
         "value": 0.0,
         "inSlope": 0.0,
-        "outSlope": 1.0,
+        "outSlope": 0.0,
         "weightedMode": 0,
-        "inWeight": 0.0,
-        "outWeight": 0.0
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 1.0,
         "value": 1.0,
-        "inSlope": 1.0,
+        "inSlope": 0.0,
         "outSlope": 0.0,
         "weightedMode": 0,
-        "inWeight": 0.0,
-        "outWeight": 0.0
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       }
     ],
     "m_PreInfinity": 2,
@@ -63,35 +69,61 @@
         "time": 0.0,
         "value": 0.0,
         "inSlope": 0.0,
-        "outSlope": 1.0,
+        "outSlope": 0.0,
         "weightedMode": 0,
-        "inWeight": 0.0,
-        "outWeight": 0.0
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 1.0,
         "value": 1.0,
-        "inSlope": 1.0,
+        "inSlope": 0.0,
         "outSlope": 0.0,
         "weightedMode": 0,
-        "inWeight": 0.0,
-        "outWeight": 0.0
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       }
     ],
     "m_PreInfinity": 2,
     "m_PostInfinity": 2,
     "m_RotationOrder": 4
   },
-  "tweenDurationSeconds": 7.0,
-  "pauseDurationSeconds": 4.0,
+  "tweenDurationSeconds": 4.0,
+  "pauseDurationSeconds": 1.0,
   "_pokemonPathTarget": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 9147249209083771939
   },
   "<_pokemonLookAt>k__BackingField": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 5855992636696391298
   },
-  "<_backgroundPokemonTargets>k__BackingField": [],
-  "<_backgroundCharacterLookAts>k__BackingField": []
+  "<_backgroundPokemonTargets>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8296808175230053133
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7419364012647964920
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7961585588230583683
+    }
+  ],
+  "<_backgroundCharacterLookAts>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6851687286936510738
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6691186745981148262
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1636078677065578697
+    }
+  ]
 }
