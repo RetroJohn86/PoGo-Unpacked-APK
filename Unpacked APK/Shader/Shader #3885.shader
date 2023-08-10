@@ -6,16 +6,17 @@
 Shader "" {
 Properties {
 _MainTex ("Particle Texture", 2D) = "white" { }
-_InvFade ("Soft Particles Factor", Range(0.01, 3)) = 1
 }
 SubShader {
  Pass {
   Tags { "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
-  Blend One OneMinusSrcAlpha, One OneMinusSrcAlpha
-  ColorMask RGB 0
+  Blend Zero SrcColor, Zero SrcColor
   ZWrite Off
   Cull Off
-  GpuProgramID 13284
+  Fog {
+   Mode Off
+  }
+  GpuProgramID 9742
 }
 }
 }
