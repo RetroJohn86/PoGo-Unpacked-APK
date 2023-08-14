@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -5802065909875912198
+    "m_PathID": 3829869548571614352
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -24,15 +24,15 @@
       {
         "xformDriver": {
           "m_FileID": 0,
-          "m_PathID": 2956770271113422754
+          "m_PathID": -704616586981694620
         },
         "xformDriverAuto": {
           "m_FileID": 0,
-          "m_PathID": 2956770271113422754
+          "m_PathID": -704616586981694620
         },
         "xformDriverCustom": {
           "m_FileID": 0,
-          "m_PathID": 2956770271113422754
+          "m_PathID": -704616586981694620
         },
         "isOverrideDriver": 1,
         "drivenProperty": {
@@ -58,15 +58,15 @@
       {
         "xformDriver": {
           "m_FileID": 0,
-          "m_PathID": 5983614932462149344
+          "m_PathID": -3553890746182655965
         },
         "xformDriverAuto": {
           "m_FileID": 0,
-          "m_PathID": 5983614932462149344
+          "m_PathID": -3553890746182655965
         },
         "xformDriverCustom": {
           "m_FileID": 0,
-          "m_PathID": 5983614932462149344
+          "m_PathID": -3553890746182655965
         },
         "isOverrideDriver": 1,
         "drivenProperty": {
@@ -92,7 +92,7 @@
       {
         "xformDriver": {
           "m_FileID": 0,
-          "m_PathID": -8921972735484372554
+          "m_PathID": -8940074739867399252
         },
         "xformDriverAuto": {
           "m_FileID": 0,
@@ -100,7 +100,7 @@
         },
         "xformDriverCustom": {
           "m_FileID": 0,
-          "m_PathID": -8921972735484372554
+          "m_PathID": -8940074739867399252
         },
         "isOverrideDriver": 1,
         "drivenProperty": {
@@ -128,7 +128,7 @@
       {
         "xformDriver": {
           "m_FileID": 0,
-          "m_PathID": 2956770271113422754
+          "m_PathID": -704616586981694620
         },
         "xformDataIndices": [
           0
@@ -140,7 +140,7 @@
       {
         "xformDriver": {
           "m_FileID": 0,
-          "m_PathID": 5983614932462149344
+          "m_PathID": -3553890746182655965
         },
         "xformDataIndices": [
           1
@@ -152,7 +152,7 @@
       {
         "xformDriver": {
           "m_FileID": 0,
-          "m_PathID": -8921972735484372554
+          "m_PathID": -8940074739867399252
         },
         "xformDataIndices": [
           2
@@ -166,7 +166,7 @@
       {
         "Default": {
           "m_FileID": 0,
-          "m_PathID": -3601119689484945280
+          "m_PathID": -4941236990637919651
         },
         "Custom": {
           "m_FileID": 0,
@@ -177,7 +177,7 @@
       {
         "Default": {
           "m_FileID": 0,
-          "m_PathID": -834615916427048766
+          "m_PathID": -2858402297744516368
         },
         "Custom": {
           "m_FileID": 0,
@@ -189,11 +189,11 @@
     "cachedRenderers": [
       {
         "m_FileID": 0,
-        "m_PathID": -3601119689484945280
+        "m_PathID": -4941236990637919651
       },
       {
         "m_FileID": 0,
-        "m_PathID": -834615916427048766
+        "m_PathID": -2858402297744516368
       }
     ],
     "uvFaceA": {
