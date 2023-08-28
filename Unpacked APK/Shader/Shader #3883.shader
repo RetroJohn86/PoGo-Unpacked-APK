@@ -10,13 +10,13 @@ _MainTex ("Particle Texture", 2D) = "white" { }
 SubShader {
  Pass {
   Tags { "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
-  Blend SrcAlpha One, SrcAlpha One
+  Blend Zero SrcColor, Zero SrcColor
   ZWrite Off
   Cull Off
   Fog {
    Mode Off
   }
-  GpuProgramID 10119
+  GpuProgramID 9742
 }
 }
 }

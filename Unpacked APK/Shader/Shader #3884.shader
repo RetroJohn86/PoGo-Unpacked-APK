@@ -5,18 +5,13 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Particle Texture", 2D) = "white" { }
+_MainTex ("Base (RGB)", 2D) = "white" { }
 }
 SubShader {
  Pass {
-  Tags { "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
-  Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
-  ZWrite Off
-  Cull Off
-  Fog {
-   Mode Off
-  }
-  GpuProgramID 10119
+  LOD 100
+  Tags { "RenderType" = "Opaque" }
+  GpuProgramID 6102
 }
 }
 }
