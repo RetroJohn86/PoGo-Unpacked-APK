@@ -1,0 +1,121 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5879923278508930226
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3227642854647831317
+  },
+  "m_Name": "",
+  "drivenMaterials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 471586681308686762
+    }
+  ],
+  "materialPropertyDriver": {
+    "xformDatas": [
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": 686888812611868901
+        },
+        "xformDriverAuto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "xformDriverCustom": {
+          "m_FileID": 0,
+          "m_PathID": 686888812611868901
+        },
+        "isOverrideDriver": 1,
+        "drivenProperty": {
+          "m_FileID": 5,
+          "m_PathID": -4448334258314495917
+        },
+        "isOverrideValues": 1,
+        "_magnitude": 0.0,
+        "_min": 0.0,
+        "_max": 0.0,
+        "uvColumns": 4,
+        "uvRows": 4,
+        "uvSets": 1,
+        "uvIsStepped": 1,
+        "DrivenPropertyIDs": [
+          {
+            "ID": 285,
+            "type": 1,
+            "block": 0
+          }
+        ]
+      }
+    ],
+    "xformCache": [
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": 686888812611868901
+        },
+        "xformDataIndices": [
+          0
+        ],
+        "xformDataIndexList": [
+          0
+        ]
+      }
+    ],
+    "drivenMeshRenderers": [
+      {
+        "Default": {
+          "m_FileID": 0,
+          "m_PathID": 6940151029413735336
+        },
+        "Custom": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "isOverride": 0
+      }
+    ],
+    "cachedRenderers": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 6940151029413735336
+      }
+    ],
+    "uvFaceA": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "uvFaceB": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "uvDirectA": {
+      "isActive": 1,
+      "uvStep": {
+        "x": 0.25,
+        "y": 0.25
+      }
+    },
+    "uvDirectB": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "originalFaceJointY": 0.0,
+    "angryFaceJointY": 4.0,
+    "smileFaceJointY": 0.0,
+    "extraFaceJointOverride": []
+  }
+}

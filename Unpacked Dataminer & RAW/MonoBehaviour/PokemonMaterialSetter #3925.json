@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4009105682931938314
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5800165002046869275
+  },
+  "m_Name": "",
+  "materialSets": [
+    {
+      "defaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": 4401934256014538771
+      },
+      "shinyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": 1667634831621308907
+      },
+      "materialMode": 0,
+      "genderId": {
+        "gender": 0,
+        "defaultMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shinyMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      "formIds": []
+    }
+  ],
+  "alignmentTextures": [],
+  "alignmentOverride": {
+    "useIrisShader": 0,
+    "useTextureAndEyeTint": 0,
+    "overrideLightFxColor": 0
+  },
+  "rendererSharedMaterials": [
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": 4331313279149589272
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 4401934256014538771
+        }
+      ]
+    },
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": -8809244770750895458
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 4401934256014538771
+        }
+      ]
+    }
+  ]
+}

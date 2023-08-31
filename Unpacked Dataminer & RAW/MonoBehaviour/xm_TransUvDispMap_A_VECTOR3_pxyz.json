@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7447792677839319854
+  },
+  "m_Name": "xm_TransUvDispMap_A_VECTOR3_pxyz",
+  "driverTransform": "[EMPTY]",
+  "axis": 3,
+  "transformType": 1,
+  "spaceType": 0,
+  "propertyBlocks": [
+    {
+      "drivenProperty": "_TransUvDispMap_A",
+      "magnitude": -100.0,
+      "min": -100.0,
+      "max": -100.0,
+      "DrawerIsVector": 1
+    }
+  ],
+  "blockType": 0,
+  "uvType": 0,
+  "uvColumns": 2,
+  "uvRows": 4,
+  "uvSets": 1,
+  "uvIsStepped": 0
+}

@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -6631011125399511851
+    "m_PathID": 4401588117289805161
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -13,7 +13,7 @@
     {
       "Renderer": {
         "m_FileID": 0,
-        "m_PathID": -5408752407594478166
+        "m_PathID": -6346990763183878264
       },
       "MaterialIndex": 0,
       "ColorProperties": [
@@ -36,21 +36,21 @@
   },
   "skinnedMeshRenderer": {
     "m_FileID": 0,
-    "m_PathID": -5408752407594478166
+    "m_PathID": -6346990763183878264
   },
-  "radiusOverride": 1.65,
-  "heightOverride": 2.5,
+  "radiusOverride": 0.3,
+  "heightOverride": 0.4,
   "shadowLocalPositionOverride": {
     "x": 0.0,
     "y": 0.0,
     "z": 0.0
   },
   "shadowStartSizeOverride": 0.0,
-  "shadowFrontShapeType": 14,
+  "shadowFrontShapeType": 4,
   "shadowFrontShapeScale": {
     "x": 1.0,
     "y": 1.0,
-    "z": 1.0
+    "z": 0.79
   },
   "purifiedLocalPositionOverride": {
     "x": 0.0,
@@ -58,10 +58,10 @@
     "z": 0.0
   },
   "purifiedEmissionOverride": 0.0,
-  "purifiedShapeType": 14,
+  "purifiedShapeType": 2,
   "purifiedShapeScale": {
     "x": 1.0,
     "y": 1.0,
-    "z": 1.0
+    "z": 0.75
   }
 }

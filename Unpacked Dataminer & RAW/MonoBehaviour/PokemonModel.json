@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 6398261579635493911
+    "m_PathID": 2522867594131967504
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -9,25 +9,25 @@
     "m_PathID": 6078370316984442699
   },
   "m_Name": "",
-  "ViewID": 25,
+  "ViewID": 110,
   "formId": -1,
-  "walkSpeed": 0.6,
-  "runSpeed": 2.1,
+  "walkSpeed": 1.1999999,
+  "runSpeed": 2.3999999,
   "Origin": {
     "m_FileID": 0,
-    "m_PathID": -3709744277260663506
+    "m_PathID": -4296472055722045344
   },
   "Waist": {
     "m_FileID": 0,
-    "m_PathID": 2761399962827187451
+    "m_PathID": 7570667855123990477
   },
   "Head": {
     "m_FileID": 0,
-    "m_PathID": -3598846394374232197
+    "m_PathID": 7570667855123990477
   },
   "ViewFBX": {
     "m_FileID": 0,
-    "m_PathID": 2235607137790199533
+    "m_PathID": 9075519688584579669
   },
   "customCollisionTransforms": [],
   "attentionBonesTransformsIsSet": 1,
@@ -36,41 +36,41 @@
   "attentionBonesTransforms": [
     {
       "m_FileID": 0,
-      "m_PathID": -3598846394374232197
+      "m_PathID": 7570667855123990477
     }
   ],
   "animator": {
     "m_FileID": 0,
-    "m_PathID": -688577128536092689
+    "m_PathID": 2206575525933521852
   },
-  "isFlying": 0,
+  "isFlying": 1,
   "haloSocket": {
     "m_FileID": 0,
-    "m_PathID": -3056298372363744264
+    "m_PathID": 4147030273886437770
   },
   "faceSocket": {
     "m_FileID": 0,
-    "m_PathID": 3733883891903030625
+    "m_PathID": -3849341220286150319
   },
   "bodySocket": {
     "m_FileID": 0,
-    "m_PathID": -2706359400505707400
+    "m_PathID": -7554719511883722770
   },
   "groundSocket": {
     "m_FileID": 0,
-    "m_PathID": 4465937207115106501
+    "m_PathID": -2953534647571592909
   },
   "centerSocket": {
     "m_FileID": 0,
-    "m_PathID": 5406872424852477198
+    "m_PathID": -6278391529507852646
   },
   "feedingSocket": {
     "m_FileID": 0,
-    "m_PathID": 1418414688481924667
+    "m_PathID": -7197185295427851343
   },
   "badgeSocket": {
     "m_FileID": 0,
-    "m_PathID": 4342575178596825379
+    "m_PathID": -1570655182620575163
   },
   "defaultContext": 0,
   "glowEffect": {

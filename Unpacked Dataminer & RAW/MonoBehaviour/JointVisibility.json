@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 199765249226189458
+    "m_PathID": 3397414036567702038
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,7 +11,7 @@
   "m_Name": "",
   "driverJoint": {
     "m_FileID": 0,
-    "m_PathID": -91740192776568152
+    "m_PathID": -7824984788180742550
   },
   "invisTranslateX": {
     "m_FileID": 0,
@@ -19,15 +19,15 @@
   },
   "visTranslateX": {
     "m_FileID": 0,
-    "m_PathID": -3600481014015821099
+    "m_PathID": -2557649857629940546
   },
   "visTranslateY": {
     "m_FileID": 0,
-    "m_PathID": 6283971328848978089
+    "m_PathID": 0
   },
   "visTranslateZ": {
     "m_FileID": 0,
-    "m_PathID": 3964393089440947820
+    "m_PathID": 0
   },
   "visRotateX": {
     "m_FileID": 0,

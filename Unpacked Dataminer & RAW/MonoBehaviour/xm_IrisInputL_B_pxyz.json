@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7447792677839319854
+  },
+  "m_Name": "xm_IrisInputL_B_pxyz",
+  "driverTransform": "CusAnimUv_Iris_float",
+  "axis": 3,
+  "transformType": 1,
+  "spaceType": 0,
+  "propertyBlocks": [
+    {
+      "drivenProperty": "_IrisInputL_B",
+      "magnitude": -100.0,
+      "min": -100.0,
+      "max": -100.0,
+      "DrawerIsVector": 1
+    }
+  ],
+  "blockType": 1,
+  "uvType": 0,
+  "uvColumns": 2,
+  "uvRows": 4,
+  "uvSets": 1,
+  "uvIsStepped": 1
+}

@@ -1,0 +1,213 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5904013058949214136
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3227642854647831317
+  },
+  "m_Name": "",
+  "drivenMaterials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2536590972818320934
+    }
+  ],
+  "materialPropertyDriver": {
+    "xformDatas": [
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": -7566601788163123768
+        },
+        "xformDriverAuto": {
+          "m_FileID": 0,
+          "m_PathID": -7566601788163123768
+        },
+        "xformDriverCustom": {
+          "m_FileID": 0,
+          "m_PathID": -7566601788163123768
+        },
+        "isOverrideDriver": 1,
+        "drivenProperty": {
+          "m_FileID": 1,
+          "m_PathID": 8480405069437696144
+        },
+        "isOverrideValues": 0,
+        "_magnitude": 1.0,
+        "_min": 1.0,
+        "_max": 1.0,
+        "uvColumns": 2,
+        "uvRows": 4,
+        "uvSets": 1,
+        "uvIsStepped": 1,
+        "DrivenPropertyIDs": [
+          {
+            "ID": 562,
+            "type": 1,
+            "block": 0
+          }
+        ]
+      },
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": 3155555945743993855
+        },
+        "xformDriverAuto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "xformDriverCustom": {
+          "m_FileID": 0,
+          "m_PathID": 3155555945743993855
+        },
+        "isOverrideDriver": 1,
+        "drivenProperty": {
+          "m_FileID": 2,
+          "m_PathID": 4788681928378843167
+        },
+        "isOverrideValues": 0,
+        "_magnitude": 1.0,
+        "_min": 1.0,
+        "_max": 1.0,
+        "uvColumns": 2,
+        "uvRows": 4,
+        "uvSets": 1,
+        "uvIsStepped": 1,
+        "DrivenPropertyIDs": [
+          {
+            "ID": 550,
+            "type": 0,
+            "block": 0
+          }
+        ]
+      },
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": 3665984305618667811
+        },
+        "xformDriverAuto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "xformDriverCustom": {
+          "m_FileID": 0,
+          "m_PathID": 3665984305618667811
+        },
+        "isOverrideDriver": 1,
+        "drivenProperty": {
+          "m_FileID": 3,
+          "m_PathID": -8390654056402433675
+        },
+        "isOverrideValues": 0,
+        "_magnitude": 1.0,
+        "_min": 1.0,
+        "_max": 1.0,
+        "uvColumns": 2,
+        "uvRows": 4,
+        "uvSets": 1,
+        "uvIsStepped": 1,
+        "DrivenPropertyIDs": [
+          {
+            "ID": 551,
+            "type": 0,
+            "block": 0
+          }
+        ]
+      }
+    ],
+    "xformCache": [
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": -7566601788163123768
+        },
+        "xformDataIndices": [
+          0
+        ],
+        "xformDataIndexList": [
+          0
+        ]
+      },
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": 3155555945743993855
+        },
+        "xformDataIndices": [
+          1
+        ],
+        "xformDataIndexList": [
+          1
+        ]
+      },
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": 3665984305618667811
+        },
+        "xformDataIndices": [
+          2
+        ],
+        "xformDataIndexList": [
+          2
+        ]
+      }
+    ],
+    "drivenMeshRenderers": [
+      {
+        "Default": {
+          "m_FileID": 0,
+          "m_PathID": 5539080418485479298
+        },
+        "Custom": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "isOverride": 0
+      }
+    ],
+    "cachedRenderers": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5539080418485479298
+      }
+    ],
+    "uvFaceA": {
+      "isActive": 1,
+      "uvStep": {
+        "x": 0.5,
+        "y": 0.25
+      }
+    },
+    "uvFaceB": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "uvDirectA": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "uvDirectB": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "originalFaceJointY": 0.0,
+    "angryFaceJointY": 4.0,
+    "smileFaceJointY": 0.0,
+    "extraFaceJointOverride": []
+  }
+}
