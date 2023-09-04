@@ -5,13 +5,15 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_Color ("Main Color", Color) = (1,1,1,1)
+_MainTex ("Texture", 2D) = "white" { }
+_AmbientStrength ("Ambient Strength", Range(0, 1)) = 0
 }
 SubShader {
  Pass {
   LOD 100
   Tags { "RenderType" = "Opaque" }
-  GpuProgramID 63269
+  Cull Off
+  GpuProgramID 41247
 }
 }
 }
