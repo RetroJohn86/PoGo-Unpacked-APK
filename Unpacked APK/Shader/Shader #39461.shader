@@ -5,36 +5,26 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_Color ("Tint", Color) = (1,1,1,1)
-_Radius ("Outer Radius", Float) = 1
-_Thickness ("Thickneses", Float) = 0.1
-_DashFrequency ("Dash Frequency", Float) = 0.06
-_StencilComp ("Stencil Comparison", Float) = 8
-_Stencil ("Stencil ID", Float) = 0
-_StencilOp ("Stencil Operation", Float) = 0
-_StencilWriteMask ("Stencil Write Mask", Float) = 255
-_StencilReadMask ("Stencil Read Mask", Float) = 255
-_ColorMask ("Color Mask", Float) = 15
-[Toggle(UNITY_UI_ALPHACLIP)] _UseUIAlphaClip ("Use Alpha Clip", Float) = 0
+_MainTex ("Texture", 2D) = "white" { }
+_IconColor ("Icon Color", Color) = (1,1,1,1)
+_IconOutlineColorA ("Icon Outline Color A", Color) = (1,1,1,1)
+_IconOutlineColorB ("Icon Outline Color B", Color) = (1,1,1,1)
+_IconDetailColor ("Icon Detail Color", Color) = (1,1,1,1)
+_BorderColorA ("Border Color A", Color) = (1,1,1,1)
+_BorderColorB ("Border Color A", Color) = (1,1,1,1)
+_BackgroundColorA ("Background Color A", Color) = (1,1,1,1)
+_BackgroundColorB ("Background Color B", Color) = (1,1,1,1)
+_DetailColor ("Detail Color", Color) = (0,0,0,0)
+_IconThreshold ("Icon Threshold", Range(0, 1)) = 0.5
+_BorderThresholdA ("Border Threshold A", Range(0, 1)) = 0.5
+_BorderThresholdB ("Border Threshold B", Range(0, 1)) = 0.5
+[Toggle(USE_DETAIL_COLOR)] _UseDetailColor ("Use Detail Color", Float) = 0
 }
 SubShader {
  Pass {
-  Name "Default"
-  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
-  Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
-  ColorMask 0 0
-  ZTest Off
-  ZWrite Off
-  Cull Off
-  Stencil {
-   ReadMask 0
-   WriteMask 0
-   Comp Disabled
-   Pass Keep
-   Fail Keep
-   ZFail Keep
-  }
-  GpuProgramID 51620
+  LOD 100
+  Tags { "RenderType" = "Opaque" }
+  GpuProgramID 51573
 }
 }
 }
