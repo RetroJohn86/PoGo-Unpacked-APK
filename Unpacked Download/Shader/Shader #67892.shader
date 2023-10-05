@@ -26,7 +26,7 @@ SubShader {
   Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
   ZWrite Off
   Cull Off
-  GpuProgramID 20373
+  GpuProgramID 28828
 }
 }
 }
