@@ -5,29 +5,27 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Base (RGB)", 2D) = "white" { }
-_Color ("Tint", Color) = (1,1,1,1)
-_MainColor ("Main Color", Color) = (1,1,1,1)
-_ProgressColor ("Progress Color", Color) = (1,0,0,1)
-_Progress ("Progress", Range(0, 1)) = 0.2
-_DividerColor ("Divider Color", Color) = (0.5,0.5,0.5,1)
-_Divisions ("Radial Divisions", Float) = 3
-_OutlineColor ("Outline Color", Color) = (0,0,0,1)
-_OutlineWidth ("Outline Width", Range(0, 1)) = 0.2
-[Space] _Radius ("Circle Radius", Range(0, 1)) = 1
-_DivisionThickness ("Division Thickness", Range(0, 1)) = 0.1
-_OutlineAmount ("Master Outline Visibility", Range(0, 1)) = 1
-[Space] _StencilComp ("Stencil Comparison", Float) = 8
+_MainTex ("Texture", 2D) = "white" { }
+_DetailTex ("Detail Texture", 2D) = "white" { }
+_DetailScale ("Detail Texture Scale", Vector) = (1,1,1,0)
+_Color ("Color", Color) = (1,1,1,1)
+[Enum(UnityEngine.Rendering.CullMode)] _Cull ("Culling Mode (None = double-sided)", Float) = 2
+_PanningSpeed ("Panning Speed", Vector) = (0,0,0,0)
+_Interval ("Gap Between Each Repeat", Float) = 0
+_Rate ("Show Rate On Each Repeat", Range(0, 1)) = 1
+_StencilComp ("Stencil Comparison", Float) = 8
 _Stencil ("Stencil ID", Float) = 0
 _StencilOp ("Stencil Operation", Float) = 0
 _StencilWriteMask ("Stencil Write Mask", Float) = 255
 _StencilReadMask ("Stencil Read Mask", Float) = 255
+_ColorMask ("Color Mask", Float) = 15
+[Toggle(UNITY_UI_ALPHACLIP)] _UseUIAlphaClip ("Use Alpha Clip", Float) = 0
 }
 SubShader {
  Pass {
-  Name "Default"
   Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
   Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
+  ColorMask 0 0
   ZTest Off
   ZWrite Off
   Cull Off
@@ -39,7 +37,7 @@ SubShader {
    Fail Keep
    ZFail Keep
   }
-  GpuProgramID 50790
+  GpuProgramID 39540
 }
 }
 }

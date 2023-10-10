@@ -7,38 +7,22 @@ Shader "" {
 Properties {
 _MainTex ("Sprite Texture", 2D) = "white" { }
 _Color ("Tint", Color) = (1,1,1,1)
-_Ramp ("Ramp", 2D) = "white" { }
-_Mask ("Mask", 2D) = "white" { }
-_Gray ("Gray", Color) = (1,1,1,1)
-_GrayLerp ("Gray Lerp", Range(0, 1)) = 0.5
-_RampScale ("Ramp Scale", Float) = 0.3
-_Speed ("Speed", Float) = 0.25
-_StencilComp ("Stencil Comparison", Float) = 8
-_Stencil ("Stencil ID", Float) = 0
-_StencilOp ("Stencil Operation", Float) = 0
-_StencilWriteMask ("Stencil Write Mask", Float) = 255
-_StencilReadMask ("Stencil Read Mask", Float) = 255
-_ColorMask ("Color Mask", Float) = 15
-[Toggle(UNITY_UI_ALPHACLIP)] _UseUIAlphaClip ("Use Alpha Clip", Float) = 0
+_Boost ("Boost", Float) = 0
+_FogBias ("fogBias", Range(0, 10)) = 0
+_OrbitRadius ("OrbitRadius", Float) = 1
+_SpriteScale ("Sprite Scale", Float) = 1
+_ScaleInOutSpeed ("Scale In/Out Speed", Float) = 0.25
+_OrbitSpeed ("Orbit Speed", Float) = 0.25
+_PhaseOffset ("Phase Offset", Float) = 0
+_Alpha ("Alpha", Float) = 1
 }
 SubShader {
  Pass {
-  Name "Default"
-  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
-  Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
-  ColorMask 0 0
-  ZTest Off
+  Name "FORWARD"
+  Tags { "CanUseSpriteAtlas" = "true" "DisableBatching" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent+1" "RenderType" = "Transparent" }
+  Blend One One, One One
   ZWrite Off
-  Cull Off
-  Stencil {
-   ReadMask 0
-   WriteMask 0
-   Comp Disabled
-   Pass Keep
-   Fail Keep
-   ZFail Keep
-  }
-  GpuProgramID 40382
+  GpuProgramID 29517
 }
 }
 }

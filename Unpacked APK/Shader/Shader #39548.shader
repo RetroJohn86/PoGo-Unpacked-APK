@@ -6,15 +6,18 @@
 Shader "" {
 Properties {
 _MainTex ("Texture", 2D) = "white" { }
-_Color ("Main Color", Color) = (1,1,1,1)
+_FillAmt ("Fill Amount", Range(0, 1)) = 0
+_FillColor ("FillColor", Color) = (0.38,0.47,0.518,1)
+_Feather ("Feather", Float) = 0.005
+_Scale ("Scale", Range(0, 1)) = 1
 }
 SubShader {
  Pass {
-  LOD 100
-  Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+  Name "FORWARD"
+  Tags { "LIGHTMODE" = "FORWARDBASE" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
   Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
   ZWrite Off
-  GpuProgramID 41306
+  GpuProgramID 8034
 }
 }
 }

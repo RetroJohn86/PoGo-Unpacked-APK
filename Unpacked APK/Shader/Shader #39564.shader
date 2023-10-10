@@ -6,18 +6,27 @@
 Shader "" {
 Properties {
 _MainTex ("Texture", 2D) = "white" { }
-_FillAmt ("Fill Amount", Range(0, 1)) = 0
-_FillColor ("FillColor", Color) = (0.38,0.47,0.518,1)
-_Feather ("Feather", Float) = 0.005
-_Scale ("Scale", Range(0, 1)) = 1
+[Header(STENCIL PROPERTIES)] _Stencil ("Stencil ID [0;255]", Float) = 0
+_ReadMask ("Stencil Read Mask [0;255]", Float) = 255
+_WriteMask ("Stencil Write Mask [0;255]", Float) = 255
+[Enum(UnityEngine.Rendering.CompareFunction)] _StencilComp ("Stencil Comparison", Float) = 8
+[Enum(UnityEngine.Rendering.StencilOp)] _StencilOp ("Stencil Operation", Float) = 0
+[Enum(UnityEngine.Rendering.StencilOp)] _StencilFail ("Stencil Fail", Float) = 0
+[Enum(UnityEngine.Rendering.StencilOp)] _StencilZFail ("Stencil ZFail", Float) = 0
 }
 SubShader {
  Pass {
-  Name "FORWARD"
-  Tags { "LIGHTMODE" = "FORWARDBASE" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
-  Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
-  ZWrite Off
-  GpuProgramID 8034
+  LOD 100
+  Tags { "RenderType" = "Opaque" }
+  Stencil {
+   ReadMask 0
+   WriteMask 0
+   Comp Disabled
+   Pass Keep
+   Fail Keep
+   ZFail Keep
+  }
+  GpuProgramID 45448
 }
 }
 }

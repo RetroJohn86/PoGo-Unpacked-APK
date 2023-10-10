@@ -5,27 +5,37 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_Color ("Tint Color", Color) = (1,1,1,1)
 _MainTex ("Texture", 2D) = "white" { }
-_RampTex ("Ramp", 2D) = "white" { }
-_ScanFrequency ("Scan Line Frequency", Float) = 1
-_ScanSpeed ("Scan Line Speed", Float) = 1
-_ScanMin ("Scan Strength (Minimum)", Float) = 0.7
-_ScanMax ("Scan Strength (Maximum)", Float) = 1.25
-_ScanColor ("Scan Color", Color) = (0.2,0.2,0.2,0.7)
-_RandomOffset ("Random Offset (set by code per instance)", Vector) = (0,0,0,0)
-_FlickerOffsetTime ("Flicker Offset Time", Float) = 1
-_FlickerSpeed ("Flicker Speed", Float) = 10
-_PhaseSpeed ("Phase Speed", Float) = 0.03
-_PhaseEndBias ("Phase End Bias", Float) = 4
-_PhaseInBias ("Phase In Bias", Range(0, 1)) = 0.5
-_UseRampTex ("Use Ramp Tex", Float) = 0
+_Color ("Tint", Color) = (1,1,1,1)
+_Columns ("Columns", Float) = 1
+_Rows ("Rows", Float) = 1
+_FPS ("Frames Per Second", Float) = 30
+[Header(UI COMPONENTS)] _StencilComp ("Stencil Comparison", Float) = 8
+_Stencil ("Stencil ID", Float) = 0
+_StencilOp ("Stencil Operation", Float) = 0
+_StencilWriteMask ("Stencil Write Mask", Float) = 255
+_StencilReadMask ("Stencil Read Mask", Float) = 255
+_ColorMask ("Color Mask", Float) = 15
+[Toggle(UNITY_UI_ALPHACLIP)] _UseUIAlphaClip ("Use Alpha Clip", Float) = 0
 }
 SubShader {
  Pass {
-  Tags { "DisableBatching" = "true" "IGNOREPROJECTOR" = "true" "QUEUE" = "Geometry" "RenderType" = "Opaque" }
+  Name "Default"
+  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+  Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
+  ColorMask 0 0
+  ZTest Off
+  ZWrite Off
   Cull Off
-  GpuProgramID 11461
+  Stencil {
+   ReadMask 0
+   WriteMask 0
+   Comp Disabled
+   Pass Keep
+   Fail Keep
+   ZFail Keep
+  }
+  GpuProgramID 43430
 }
 }
 }

@@ -5,8 +5,7 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Texture", 2D) = "white" { }
-_Color ("Main Color", Color) = (1,1,1,1)
+_MainTex ("Base (RGB) Trans (A)", 2D) = "white" { }
 }
 SubShader {
  Pass {
@@ -14,7 +13,7 @@ SubShader {
   Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
   Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
   ZWrite Off
-  GpuProgramID 41306
+  GpuProgramID 13504
 }
 }
 }

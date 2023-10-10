@@ -7,8 +7,8 @@ Shader "" {
 Properties {
 _MainTex ("Sprite Texture", 2D) = "white" { }
 _Color ("Tint", Color) = (1,1,1,1)
-_GradientA ("Gradient A", Color) = (1,1,1,1)
-_GradientB ("Gradient B", Color) = (1,1,1,1)
+_SDFThreshold ("SDF Threshold", Range(0, 1)) = 0.5
+_Smoothness ("Smoothness", Range(0, 1)) = 0.2
 _StencilComp ("Stencil Comparison", Float) = 8
 _Stencil ("Stencil ID", Float) = 0
 _StencilOp ("Stencil Operation", Float) = 0
@@ -34,7 +34,7 @@ SubShader {
    Fail Keep
    ZFail Keep
   }
-  GpuProgramID 10732
+  GpuProgramID 63335
 }
 }
 }

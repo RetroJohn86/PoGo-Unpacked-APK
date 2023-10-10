@@ -5,19 +5,27 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Base (RGB)", 2D) = "" { }
-_TintColor ("Tint Color", Color) = (1,1,1,1)
-_Edge ("Edge", Range(0, 1)) = 0.2
-[Enum(UnityEngine.Rendering.CompareFunction)] _ZComp ("Z Compare Function", Float) = 0
+_MainTex ("Texture", 2D) = "white" { }
+_Color ("Color", Color) = (1,1,1,1)
+_DistortIntensity ("Distortion Intensity", Float) = 1
+_DistortFrequency ("Distortion Frequency", Float) = 1
+_Speed ("Speed", Float) = 1
 }
 SubShader {
  Pass {
+  LOD 100
   Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
   Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
-  ZTest Off
   ZWrite Off
   Cull Off
-  GpuProgramID 56758
+  Stencil {
+   Ref 2
+   Comp Equal
+   Pass IncrSat
+   Fail Keep
+   ZFail Keep
+  }
+  GpuProgramID 27636
 }
 }
 }

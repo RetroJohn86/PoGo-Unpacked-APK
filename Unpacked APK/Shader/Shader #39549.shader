@@ -5,19 +5,12 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Base (RGB)", 2D) = "white" { }
+_MainTex ("Sprite Texture", 2D) = "white" { }
 _Color ("Tint", Color) = (1,1,1,1)
-_MainColor ("Main Color", Color) = (1,1,1,1)
-_ProgressColor ("Progress Color", Color) = (1,0,0,1)
-_Progress ("Progress", Range(0, 1)) = 0.2
-_DividerColor ("Divider Color", Color) = (0.5,0.5,0.5,1)
-_Divisions ("Radial Divisions", Float) = 3
-_OutlineColor ("Outline Color", Color) = (0,0,0,1)
-_OutlineWidth ("Outline Width", Range(0, 1)) = 0.2
-[Space] _Radius ("Circle Radius", Range(0, 1)) = 1
-_DivisionThickness ("Division Thickness", Range(0, 1)) = 0.1
-_OutlineAmount ("Master Outline Visibility", Range(0, 1)) = 1
-[Space] _StencilComp ("Stencil Comparison", Float) = 8
+_CenterColor ("Center Color", Color) = (1,1,1,1)
+_Radius ("Circle Radius", Range(0, 1)) = 0.5
+_OutlineWidth ("Outline Width", Range(0, 1)) = 0.1
+_StencilComp ("Stencil Comparison", Float) = 8
 _Stencil ("Stencil ID", Float) = 0
 _StencilOp ("Stencil Operation", Float) = 0
 _StencilWriteMask ("Stencil Write Mask", Float) = 255
@@ -28,7 +21,6 @@ SubShader {
   Name "Default"
   Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
   Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
-  ZTest Off
   ZWrite Off
   Cull Off
   Stencil {
@@ -39,7 +31,7 @@ SubShader {
    Fail Keep
    ZFail Keep
   }
-  GpuProgramID 50790
+  GpuProgramID 61475
 }
 }
 }

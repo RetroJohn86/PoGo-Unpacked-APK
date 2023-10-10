@@ -5,14 +5,15 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Texture", 2D) = "white" { }
+_MainTex ("Texture", any) = "" { }
+_Color ("Multiplicative color", Color) = (1,1,1,1)
 }
 SubShader {
  Pass {
-  Tags { "QUEUE" = "Geometry-1" "RenderType" = "Opaque" }
+  ZTest Always
   ZWrite Off
   Cull Off
-  GpuProgramID 32539
+  GpuProgramID 52757
 }
 }
 }

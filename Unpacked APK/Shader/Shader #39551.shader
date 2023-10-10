@@ -5,16 +5,19 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Texture", 2D) = "white" { }
-_Color ("Main Color", Color) = (1,1,1,1)
+_MainTex ("Base (RGB)", 2D) = "" { }
+_TintColor ("Tint Color", Color) = (1,1,1,1)
+_Edge ("Edge", Range(0, 1)) = 0.2
+[Enum(UnityEngine.Rendering.CompareFunction)] _ZComp ("Z Compare Function", Float) = 0
 }
 SubShader {
  Pass {
-  LOD 100
   Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
   Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
+  ZTest Off
   ZWrite Off
-  GpuProgramID 41306
+  Cull Off
+  GpuProgramID 56758
 }
 }
 }

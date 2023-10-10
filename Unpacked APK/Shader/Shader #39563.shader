@@ -5,26 +5,18 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Texture", 2D) = "white" { }
-_Color ("Main Color", Color) = (0,0,1,1)
-_ColorUnderlay ("Underlay Color", Color) = (0.6,0.6,0.6,1)
-_OffsetWidth ("Offset Width", Range(0, 1)) = 0.3
-_OutlineColor ("Outline Color", Color) = (1,1,1,1)
-_OutlineWidth ("Outline Width", Range(0, 0.5)) = 0.1
-_LineLength ("Line Length", Float) = 1
-_GlowLength ("Glow Length", Float) = 0.1
-_GlowPosition ("Glow Position", Range(0, 1)) = 0.5
-_GlowColor ("Glow Color", Color) = (1,1,1,1)
-_LineWidth ("Line Width (FROM LINERENDERER)", Float) = 0.3
-_LineWidthMul ("Line Width Multiplier", Float) = 1
+_MainTex ("Texture 1", 2D) = "white" { }
+_Tex2 ("Texture 2", 2D) = "white" { }
+_PanSpeeds ("Pan Speeds: (XY=Tex1, ZW=Tex2)", Vector) = (0,0,0,0)
 }
 SubShader {
  Pass {
-  LOD 100
   Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
-  Blend SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha
+  Blend One OneMinusSrcAlpha, One OneMinusSrcAlpha
+  ColorMask RGB 0
   ZWrite Off
-  GpuProgramID 708
+  Cull Off
+  GpuProgramID 37093
 }
 }
 }

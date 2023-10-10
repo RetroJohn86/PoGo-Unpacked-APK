@@ -5,14 +5,15 @@
 ///////////////////////////////////////////
 Shader "" {
 Properties {
-_MainTex ("Texture", 2D) = "white" { }
 }
 SubShader {
  Pass {
-  Tags { "QUEUE" = "Geometry-1" "RenderType" = "Opaque" }
-  ZWrite Off
-  Cull Off
-  GpuProgramID 32539
+  Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent-2" "RenderType" = "Transparent" }
+  ColorMask 0 0
+  Fog {
+   Mode Off
+  }
+  GpuProgramID 11839
 }
 }
 }
