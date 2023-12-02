@@ -15,7 +15,7 @@ __**Files and Folder Structure Unpacked Asset&RAW Version. APK + Dataminer + Dow
 
 All images, sound effects/music and files from the assets file that i found and mined are located in these Listed Folders.
 
-For Tidy and More Structure Repository go to the Pokemon Go Asset Repository, Thank You.
+For Tidy and More Structure Repository go to the Others Repository : [Click Here](https://github.com/RetroJohn86?tab=repositories), Thank You.
 
 **NOTE:** Looking for something Old in a previous Asset APK that's not in the repo? Check out the APK Records: [Click Here](https://mega.nz/folder/B6Qn3ahS#TCNhmVq3bklCpalAzYbcDQ). You will need Software too get asset for this location e.g. Asset Studio, Unity and more.
 
