@@ -2,6 +2,8 @@
 
 **This Repository is of all thinks found and mined in the APK File, including Images and More. This repo is organized based on category and is a combination of remote assets found inside the APK. NOTE: This repository has doubles files in it.**
 
+As from the March 1st 2024, the Download Size of this Repo is : 3.65 GB ( Please Note This Size Can Change At Anytime. )
+
 __**Files and Folder Structure Unpacked Asset&RAW Version. APK + Dataminer + Download**__
 
 **Animator** **:**
