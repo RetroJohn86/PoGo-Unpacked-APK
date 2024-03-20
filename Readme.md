@@ -1,4 +1,4 @@
-# __**Pokemon GO**__ __**:**__ __**APK**__
+# __**Pokemon GO**__ __**:**__ __**Unpacked APK**__
 
 **This Repository is of all thinks found and mined in the APK File, including Images and More. This repo is organized based on category and is a combination of remote assets found inside the APK. NOTE: This repository has doubles files in it.**
 
