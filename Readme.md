@@ -1,25 +1,26 @@
 # __**Pokemon GO**__ __**:**__ __**Unpacked APK**__
 
+
+**+** __**Repository Info**__
+
+As from the March 2024, the Download Size for this Repo is : **3.65 GB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all thinks found and mined in the APK File, including Images and More. This repo is organized based on category and is a combination of remote assets found inside the APK. NOTE: This repository has doubles files in it.**
 
-As from the March 1st 2024, the Download Size of this Repo is : 3.65 GB ( Please Note This Size Can Change At Anytime. )
 
-__**Files and Folder Structure Unpacked Asset&RAW Version. APK + Dataminer + Download**__
+__**Files and Folder Structure**__
 
-**Animator** **:**
-**AudioClip** **:** 
-**Mesh** **:**
-**Sprite** **:**
-**Texture2D** **:**
-**Font** **:** NOT IN DATAMINERS FOLDER
-**TextAsset** **:** NOT IN DATAMINERS FOLDER
-**Raw** **:** ONLY IN DATAMINERS FOLDER
+**Unpacked APK** **:**
+All images in this repo are found and mined and are located are organized based on category e.g. Animator, AudioClip, Font, Mesh, Shader, Sprite, TextAsset and Texture2D.
 
-All images, sound effects/music and files from the assets file that i found and mined are located in these Listed Folders.
+**Unpacked Dataminer & RAW** **:**
+All images in this repo are found and mined and are located are organized based on category e.g. Animator, AudioClip, Font, Mesh, Shader, Sprite, TextAsset, Texture2D, Orthers and BUNDLE.
 
-For Tidy and More Structure Repository go to the **Others Collection Links**, linked Below, Thank You.
+**Unpacked Download** **:**
+All images in this repo are found and mined and are located are organized based on category e.g. Animator, AudioClip, Font, Mesh, Shader, Sprite, TextAsset and Texture2D.
 
-**NOTE:** Looking for something Old in a previous Asset APK that's not in the repo? Check out the APK Records: [Click Here](https://mega.nz/folder/B6Qn3ahS#TCNhmVq3bklCpalAzYbcDQ). You will need Software too get asset for this location e.g. Asset Studio, Unity and more.
+
+**+** **NOTE:** For Tidy and More Structure Repository go to the **Others Collection Links**, linked Below, Thank You. Looking for something Old in a previous Asset APK that's not in the repo? Check out the APK Records: [Click Here](https://mega.nz/folder/B6Qn3ahS#TCNhmVq3bklCpalAzYbcDQ). You will need Software too get asset for this location e.g. Asset Studio, Unity and more.
+
 
 ## __**Disclaimer**__
 
