@@ -1,0 +1,3862 @@
+[
+  {
+    "ArticleID": "n_backpack_alolaitemslittenbp_0",
+    "HexColor": "#F56667FF"
+  },
+  {
+    "ArticleID": "n_backpack_alolaitemspoppliobp_0",
+    "HexColor": "#88D5F8FF"
+  },
+  {
+    "ArticleID": "n_backpack_alolaitemsrowletbp_0",
+    "HexColor": "#B6E484FF"
+  },
+  {
+    "ArticleID": "n_backpack_animegou_0",
+    "HexColor": "#6C543DFF"
+  },
+  {
+    "ArticleID": "n_backpack_backpacker_0",
+    "HexColor": "#EA5A35FF"
+  },
+  {
+    "ArticleID": "n_backpack_cute_0",
+    "HexColor": "#FFC1C4FF"
+  },
+  {
+    "ArticleID": "n_backpack_dedenneitems_0",
+    "HexColor": "#DF9821FF"
+  },
+  {
+    "ArticleID": "n_backpack_default-new_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_backpack_default_a_0",
+    "HexColor": "#6FD3E5FF"
+  },
+  {
+    "ArticleID": "n_backpack_default_a_1",
+    "HexColor": "#FEEA6CFF"
+  },
+  {
+    "ArticleID": "n_backpack_default_a_2",
+    "HexColor": "#D88BF4FF"
+  },
+  {
+    "ArticleID": "n_backpack_default_a_3",
+    "HexColor": "#FF9A9AFF"
+  },
+  {
+    "ArticleID": "n_backpack_default_b_0",
+    "HexColor": "#3E9268FF"
+  },
+  {
+    "ArticleID": "n_backpack_default_b_1",
+    "HexColor": "#565757FF"
+  },
+  {
+    "ArticleID": "n_backpack_default_b_2",
+    "HexColor": "#F9F347FF"
+  },
+  {
+    "ArticleID": "n_backpack_default_b_3",
+    "HexColor": "#4861C0FF"
+  },
+  {
+    "ArticleID": "n_backpack_default_b_4",
+    "HexColor": "#8F0201FF"
+  },
+  {
+    "ArticleID": "n_backpack_default_b_5",
+    "HexColor": "#1F5D00FF"
+  },
+  {
+    "ArticleID": "n_backpack_dp_0",
+    "HexColor": "#FFC552FF"
+  },
+  {
+    "ArticleID": "n_backpack_eggbackpack_0",
+    "HexColor": "#73924EFF"
+  },
+  {
+    "ArticleID": "n_backpack_eggbackpack_1",
+    "HexColor": "#E88B29FF"
+  },
+  {
+    "ArticleID": "n_backpack_eggbackpack_2",
+    "HexColor": "#68568FFF"
+  },
+  {
+    "ArticleID": "n_backpack_frlg_a_0",
+    "HexColor": "#F8E85AFF"
+  },
+  {
+    "ArticleID": "n_backpack_frlg_b_0",
+    "HexColor": "#F8E85AFF"
+  },
+  {
+    "ArticleID": "n_backpack_genesecteventitem_0",
+    "HexColor": "#9B64ABFF"
+  },
+  {
+    "ArticleID": "n_backpack_gengar_0",
+    "HexColor": "#6F00BDFF"
+  },
+  {
+    "ArticleID": "n_backpack_guccibackpack_0",
+    "HexColor": "#FFFFFFFF"
+  },
+  {
+    "ArticleID": "n_backpack_guitarcasebackpack_0",
+    "HexColor": "#2E2E2FFF"
+  },
+  {
+    "ArticleID": "n_backpack_hgss_a_0",
+    "HexColor": "#EED38CFF"
+  },
+  {
+    "ArticleID": "n_backpack_hgss_b_0",
+    "HexColor": "#EED38CFF"
+  },
+  {
+    "ArticleID": "n_backpack_hououbackpack_0",
+    "HexColor": "#EE5A3BFF"
+  },
+  {
+    "ArticleID": "n_backpack_kakureonpouch_0",
+    "HexColor": "#92B170FF"
+  },
+  {
+    "ArticleID": "n_backpack_longchampbp_0",
+    "HexColor": "#FFFFFFFF"
+  },
+  {
+    "ArticleID": "n_backpack_lunalaitems_0",
+    "HexColor": "#471DA0FF"
+  },
+  {
+    "ArticleID": "n_backpack_lunarnewyr_0",
+    "HexColor": "#842921FF"
+  },
+  {
+    "ArticleID": "n_backpack_mimikyubp_0",
+    "HexColor": "#D6D180FF"
+  },
+  {
+    "ArticleID": "n_backpack_movie2020_0",
+    "HexColor": "#4892BDFF"
+  },
+  {
+    "ArticleID": "n_backpack_nike2021_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_backpack_pamobackpack_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_backpack_pkmnhoodie001_0",
+    "HexColor": "#31AF67FF"
+  },
+  {
+    "ArticleID": "n_backpack_pkmnhoodie004_0",
+    "HexColor": "#FF872CFF"
+  },
+  {
+    "ArticleID": "n_backpack_pkmnhoodie007_0",
+    "HexColor": "#70D6FFFF"
+  },
+  {
+    "ArticleID": "n_backpack_ruinmaniac_0",
+    "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_backpack_snapcamera_0",
+    "HexColor": "#EE6842FF"
+  },
+  {
+    "ArticleID": "n_backpack_ss_a_0",
+    "HexColor": "#7F4126FF"
+  },
+  {
+    "ArticleID": "n_backpack_ss_b_0",
+    "HexColor": "#7F4126FF"
+  },
+  {
+    "ArticleID": "n_backpack_svcostumescarletschool_0",
+    "HexColor": "#4D484AFF"
+  },
+  {
+    "ArticleID": "n_backpack_svcostumevioletschool_0",
+    "HexColor": "#965E3AFF"
+  },
+  {
+    "ArticleID": "n_backpack_svdlc1_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_backpack_swshdlc2costume_a_0",
+    "HexColor": "#B08247FF"
+  },
+  {
+    "ArticleID": "n_backpack_swshdlc2costume_b_0",
+    "HexColor": "#B08247FF"
+  },
+  {
+    "ArticleID": "n_backpack_swshdlccostume_a_0",
+    "HexColor": "#FFD60DFF"
+  },
+  {
+    "ArticleID": "n_backpack_swshdlccostume_b_0",
+    "HexColor": "#FFD60DFF"
+  },
+  {
+    "ArticleID": "n_backpack_togepibackpack_0",
+    "HexColor": "#DDD9CAFF"
+  },
+  {
+    "ArticleID": "n_backpack_ultra_a_0",
+    "HexColor": "#C55042FF"
+  },
+  {
+    "ArticleID": "n_backpack_ultra_b_0",
+    "HexColor": "#C55042FF"
+  },
+  {
+    "ArticleID": "n_backpack_verizon2021_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_backpack_zubatbp_0",
+    "HexColor": "#092B8FFF"
+  },
+  {
+    "ArticleID": "n_belt_acetrainerbw_0",
+    "HexColor": "#E56D2CFF"
+  },
+  {
+    "ArticleID": "n_belt_default_a_0",
+    "HexColor": "#FC973FFF"
+  },
+  {
+    "ArticleID": "n_belt_default_a_1",
+    "HexColor": "#FFE070FF"
+  },
+  {
+    "ArticleID": "n_belt_default_a_2",
+    "HexColor": "#FFF67BFF"
+  },
+  {
+    "ArticleID": "n_belt_default_a_3",
+    "HexColor": "#253172FF"
+  },
+  {
+    "ArticleID": "n_belt_default_a_4",
+    "HexColor": "#97090CFF"
+  },
+  {
+    "ArticleID": "n_belt_default_a_5",
+    "HexColor": "#A4292CFF"
+  },
+  {
+    "ArticleID": "n_belt_default_a_6",
+    "HexColor": "#FFDC19FF"
+  },
+  {
+    "ArticleID": "n_belt_default_a_7",
+    "HexColor": "#DBAB13FF"
+  },
+  {
+    "ArticleID": "n_belt_default_a_8",
+    "HexColor": "#BE6A17FF"
+  },
+  {
+    "ArticleID": "n_belt_simple_0",
+    "HexColor": "#FFDD06FF"
+  },
+  {
+    "ArticleID": "n_belt_simple_1",
+    "HexColor": "#067FFFFF"
+  },
+  {
+    "ArticleID": "n_belt_simple_2",
+    "HexColor": "#BCBCBCFF"
+  },
+  {
+    "ArticleID": "n_belt_simple_3",
+    "HexColor": "#4F4F4FFF"
+  },
+  {
+    "ArticleID": "n_belt_teamrocket_0",
+    "HexColor": "#4C4C4CFF"
+  },
+  {
+    "ArticleID": "n_belt_teamrocket_1",
+    "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_face_3dmask_0",
+    "HexColor": "#186F1DFF"
+  },
+  {
+    "ArticleID": "n_face_3dmask_1",
+    "HexColor": "#E57B1EFF"
+  },
+  {
+    "ArticleID": "n_face_3dmask_2",
+    "HexColor": "#0A78CCFF"
+  },
+  {
+    "ArticleID": "n_face_banettemask_0",
+    "HexColor": "#98979BFF"
+  },
+  {
+    "ArticleID": "n_face_dayofthedead_0",
+    "HexColor": "#98979BFF"
+  },
+  {
+    "ArticleID": "n_face_defaultmask_0",
+    "HexColor": "#DFE2EAFF"
+  },
+  {
+    "ArticleID": "n_face_facestickerghostpika_0",
+    "HexColor": "#A206A2FF"
+  },
+  {
+    "ArticleID": "n_face_facestickerpikachu_0",
+    "HexColor": "#FFDE00FF"
+  },
+  {
+    "ArticleID": "n_face_facestickerpokeball_0",
+    "HexColor": "#EF2E2DFF"
+  },
+  {
+    "ArticleID": "n_face_festofcolors_0",
+    "HexColor": "#EF2E2DFF"
+  },
+  {
+    "ArticleID": "n_face_festofcolors_1",
+    "HexColor": "#EFDE2DFF"
+  },
+  {
+    "ArticleID": "n_face_festofcolors_2",
+    "HexColor": "#2D7DEFFF"
+  },
+  {
+    "ArticleID": "n_face_gracidea_0",
+    "HexColor": "#DD7578FF"
+  },
+  {
+    "ArticleID": "n_face_holiday2022santacostumes_0",
+    "HexColor": "#DD3937FF"
+  },
+  {
+    "ArticleID": "n_face_pikachumask_0",
+    "HexColor": "#F7C308FF"
+  },
+  {
+    "ArticleID": "n_face_sableyemask_0",
+    "HexColor": "#5B308AFF"
+  },
+  {
+    "ArticleID": "n_face_teamskull_0",
+    "HexColor": "#3F3B37FF"
+  },
+  {
+    "ArticleID": "n_face_verizon2020mask_0",
+    "HexColor": "#2E313BFF"
+  },
+  {
+    "ArticleID": "n_glasses_3d_0",
+    "HexColor": "#D8D8D8FF"
+  },
+  {
+    "ArticleID": "n_glasses_aviator_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_glasses_cutieflysleepmask_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_glasses_divingsuit_0",
+    "HexColor": "#293960FF"
+  },
+  {
+    "ArticleID": "n_glasses_drpikachu_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_glasses_frillishglasses_0",
+    "HexColor": "#90C0CAFF"
+  },
+  {
+    "ArticleID": "n_glasses_fw2022_0",
+    "HexColor": "#A5823BFF"
+  },
+  {
+    "ArticleID": "n_glasses_gimmighoulitems_0",
+    "HexColor": "#F1CF00FF"
+  },
+  {
+    "ArticleID": "n_glasses_goteamrocketarlo_0",
+    "HexColor": "#FF3C36FF"
+  },
+  {
+    "ArticleID": "n_glasses_grandoakglasses_0",
+    "HexColor": "#5EDB8AFF"
+  },
+  {
+    "ArticleID": "n_glasses_jogger_0",
+    "HexColor": "#353535FF"
+  },
+  {
+    "ArticleID": "n_glasses_lugiaglasses_0",
+    "HexColor": "#C7C8D3FF"
+  },
+  {
+    "ArticleID": "n_glasses_lv40glasses_0",
+    "HexColor": "#F8C6D6FF"
+  },
+  {
+    "ArticleID": "n_glasses_mask_0",
+    "HexColor": "#111111FF"
+  },
+  {
+    "ArticleID": "n_glasses_mask_1",
+    "HexColor": "#9A1C1CFF"
+  },
+  {
+    "ArticleID": "n_glasses_newyear2022_0",
+    "HexColor": "#F90D0EFF"
+  },
+  {
+    "ArticleID": "n_glasses_newyearglasses2020_0",
+    "HexColor": "#F90D0EFF"
+  },
+  {
+    "ArticleID": "n_glasses_newyearglasses2021_0",
+    "HexColor": "#F90D0EFF"
+  },
+  {
+    "ArticleID": "n_glasses_obstagoonitems_0",
+    "HexColor": "#FC5661FF"
+  },
+  {
+    "ArticleID": "n_glasses_roundsunglasses_0",
+    "HexColor": "#212121FF"
+  },
+  {
+    "ArticleID": "n_glasses_teardrop_0",
+    "HexColor": "#CCDAE8FF"
+  },
+  {
+    "ArticleID": "n_glasses_thick_0",
+    "HexColor": "#353535FF"
+  },
+  {
+    "ArticleID": "n_glasses_thick_1",
+    "HexColor": "#C2C2C2FF"
+  },
+  {
+    "ArticleID": "n_glasses_thick_2",
+    "HexColor": "#CF3535FF"
+  },
+  {
+    "ArticleID": "n_glasses_thick_3",
+    "HexColor": "#77B7B9FF"
+  },
+  {
+    "ArticleID": "n_glasses_thick_4",
+    "HexColor": "#F7BEEBFF"
+  },
+  {
+    "ArticleID": "n_gloves_acetrainersm_0",
+    "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_gloves_battlegirl_0",
+    "HexColor": "#D47006FF"
+  },
+  {
+    "ArticleID": "n_gloves_bea_0",
+    "HexColor": "#EA761BFF"
+  },
+  {
+    "ArticleID": "n_gloves_bwn_0",
+    "HexColor": "#B9A03DFF"
+  },
+  {
+    "ArticleID": "n_gloves_default-new_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_gloves_default_a_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_gloves_default_a_1",
+    "HexColor": "#247BB4FF"
+  },
+  {
+    "ArticleID": "n_gloves_default_a_2",
+    "HexColor": "#B42424FF"
+  },
+  {
+    "ArticleID": "n_gloves_default_a_3",
+    "HexColor": "#EEC11EFF"
+  },
+  {
+    "ArticleID": "n_gloves_default_b_0",
+    "HexColor": "#CF2D39FF"
+  },
+  {
+    "ArticleID": "n_gloves_default_b_1",
+    "HexColor": "#F69039FF"
+  },
+  {
+    "ArticleID": "n_gloves_default_b_2",
+    "HexColor": "#F7F14AFF"
+  },
+  {
+    "ArticleID": "n_gloves_default_b_3",
+    "HexColor": "#1F3AA1FF"
+  },
+  {
+    "ArticleID": "n_gloves_delibird_0",
+    "HexColor": "#A21616FF"
+  },
+  {
+    "ArticleID": "n_gloves_frlg_a_0",
+    "HexColor": "#363636FF"
+  },
+  {
+    "ArticleID": "n_gloves_frlg_b_0",
+    "HexColor": "#363636FF"
+  },
+  {
+    "ArticleID": "n_gloves_geeta_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_gloves_giovanni_0",
+    "HexColor": "#DFE3E7FF"
+  },
+  {
+    "ArticleID": "n_gloves_guzma_0",
+    "HexColor": "#C7B711FF"
+  },
+  {
+    "ArticleID": "n_gloves_gymleader_a_0",
+    "HexColor": "#525252FF"
+  },
+  {
+    "ArticleID": "n_gloves_gymleader_b_0",
+    "HexColor": "#525252FF"
+  },
+  {
+    "ArticleID": "n_gloves_hoopabangle_0",
+    "HexColor": "#D6AB20FF"
+  },
+  {
+    "ArticleID": "n_gloves_jogger_0",
+    "HexColor": "#282628FF"
+  },
+  {
+    "ArticleID": "n_gloves_korrina_0",
+    "HexColor": "#EAE9EAFF"
+  },
+  {
+    "ArticleID": "n_gloves_lysandre_0",
+    "HexColor": "#353131FF"
+  },
+  {
+    "ArticleID": "n_gloves_megabangle_0",
+    "HexColor": "#FFFFFFFF"
+  },
+  {
+    "ArticleID": "n_gloves_megabangle_1",
+    "HexColor": "#353535FF"
+  },
+  {
+    "ArticleID": "n_gloves_megabangle_2",
+    "HexColor": "#0029FFFF"
+  },
+  {
+    "ArticleID": "n_gloves_megabangle_3",
+    "HexColor": "#D90909FF"
+  },
+  {
+    "ArticleID": "n_gloves_megabangle_4",
+    "HexColor": "#FFCA00FF"
+  },
+  {
+    "ArticleID": "n_gloves_obstagoonitems_0",
+    "HexColor": "#7D7F7DFF"
+  },
+  {
+    "ArticleID": "n_gloves_palmer_0",
+    "HexColor": "#3D3C42FF"
+  },
+  {
+    "ArticleID": "n_gloves_profwillowoutfit_0",
+    "HexColor": "#C8AE74FF"
+  },
+  {
+    "ArticleID": "n_gloves_stevenfirst_0",
+    "HexColor": "#585C5BFF"
+  },
+  {
+    "ArticleID": "n_gloves_swshdlc2costume_0",
+    "HexColor": "#39312EFF"
+  },
+  {
+    "ArticleID": "n_gloves_swshdlccostume_0",
+    "HexColor": "#EAEAEDFF"
+  },
+  {
+    "ArticleID": "n_gloves_swshuniformchampion_0",
+    "HexColor": "#393B39FF"
+  },
+  {
+    "ArticleID": "n_gloves_swshuniformdark_0",
+    "HexColor": "#C91772FF"
+  },
+  {
+    "ArticleID": "n_gloves_swshuniformdefault_0",
+    "HexColor": "#E0E0E0FF"
+  },
+  {
+    "ArticleID": "n_gloves_swshuniformdragon_0",
+    "HexColor": "#29395DFF"
+  },
+  {
+    "ArticleID": "n_gloves_teamaqua_a_0",
+    "HexColor": "#1AAAFFFF"
+  },
+  {
+    "ArticleID": "n_gloves_teamaqua_b_0",
+    "HexColor": "#1AAAFFFF"
+  },
+  {
+    "ArticleID": "n_gloves_teammagma_0",
+    "HexColor": "#893927FF"
+  },
+  {
+    "ArticleID": "n_gloves_teamrocket_0",
+    "HexColor": "#999999FF"
+  },
+  {
+    "ArticleID": "n_gloves_teamspark_a_0",
+    "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_gloves_teamspark_b_0",
+    "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_hair_coilyshort_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_curlymedium_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_default_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_default_b_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_kinkylong_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_kinkymedium_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_kinkyshort_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_straightlong_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_straightmedium_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_straightshort_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_wavylong_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_wavymedium_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_wavyshort_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_6thanniversary_a_0",
+    "HexColor": "#F0ECE8FF"
+  },
+  {
+    "ArticleID": "n_hat_6thanniversary_b_0",
+    "HexColor": "#F0ECE8FF"
+  },
+  {
+    "ArticleID": "n_hat_acetrainersm_a_0",
+    "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_hat_acetrainersm_b_0",
+    "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_hat_adventure_0",
+    "HexColor": "#2B2111FF"
+  },
+  {
+    "ArticleID": "n_hat_aseries_0",
+    "HexColor": "#C5B6B7FF"
+  },
+  {
+    "ArticleID": "n_hat_bea_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_bea_b_0",
+    "HexColor": "#EA761BFF"
+  },
+  {
+    "ArticleID": "n_hat_bidoofhat_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_bounsweetitems_0",
+    "HexColor": "#BEE39BFF"
+  },
+  {
+    "ArticleID": "n_hat_bwn_0",
+    "HexColor": "#6E6558FF"
+  },
+  {
+    "ArticleID": "n_hat_casket_0",
+    "HexColor": "#171717FF"
+  },
+  {
+    "ArticleID": "n_hat_clay_0",
+    "HexColor": "#DFE0E7FF"
+  },
+  {
+    "ArticleID": "n_hat_cofagrigusitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_cosmog_0",
+    "HexColor": "#00EDF8FF"
+  },
+  {
+    "ArticleID": "n_hat_cubonehat_0",
+    "HexColor": "#E9DFDFFF"
+  },
+  {
+    "ArticleID": "n_hat_darumakahat_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_dedenneitems_0",
+    "HexColor": "#DF9821FF"
+  },
+  {
+    "ArticleID": "n_hat_default_a_0",
+    "HexColor": "#980945FF"
+  },
+  {
+    "ArticleID": "n_hat_default_a_1",
+    "HexColor": "#2D57CDFF"
+  },
+  {
+    "ArticleID": "n_hat_default_a_2",
+    "HexColor": "#353535FF"
+  },
+  {
+    "ArticleID": "n_hat_default_a_3",
+    "HexColor": "#B32838FF"
+  },
+  {
+    "ArticleID": "n_hat_default_a_4",
+    "HexColor": "#F2DB00FF"
+  },
+  {
+    "ArticleID": "n_hat_default_a_5",
+    "HexColor": "#2D2C2DFF"
+  },
+  {
+    "ArticleID": "n_hat_default_a_6",
+    "HexColor": "#222222FF"
+  },
+  {
+    "ArticleID": "n_hat_default_a_7",
+    "HexColor": "#CA8FF0FF"
+  },
+  {
+    "ArticleID": "n_hat_default_b_0",
+    "HexColor": "#1A1E22FF"
+  },
+  {
+    "ArticleID": "n_hat_default_b_1",
+    "HexColor": "#172026FF"
+  },
+  {
+    "ArticleID": "n_hat_default_b_2",
+    "HexColor": "#F2C200FF"
+  },
+  {
+    "ArticleID": "n_hat_default_b_3",
+    "HexColor": "#B70000FF"
+  },
+  {
+    "ArticleID": "n_hat_default_b_4",
+    "HexColor": "#2024B8FF"
+  },
+  {
+    "ArticleID": "n_hat_default_b_5",
+    "HexColor": "#658094FF"
+  },
+  {
+    "ArticleID": "n_hat_deino_0",
+    "HexColor": "#333540FF"
+  },
+  {
+    "ArticleID": "n_hat_delibird_0",
+    "HexColor": "#A21616FF"
+  },
+  {
+    "ArticleID": "n_hat_detectivepikachu_0",
+    "HexColor": "#8B7465FF"
+  },
+  {
+    "ArticleID": "n_hat_diancie_0",
+    "HexColor": "#FFE1ECFF"
+  },
+  {
+    "ArticleID": "n_hat_dp_a_0",
+    "HexColor": "#F09B9BFF"
+  },
+  {
+    "ArticleID": "n_hat_dp_b_0",
+    "HexColor": "#F09B9BFF"
+  },
+  {
+    "ArticleID": "n_hat_drifloon_0",
+    "HexColor": "#E3CDF0FF"
+  },
+  {
+    "ArticleID": "n_hat_drpikachu_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_dusclopsmummy_0",
+    "HexColor": "#AEABAEFF"
+  },
+  {
+    "ArticleID": "n_hat_eeveecap_0",
+    "HexColor": "#D4A561FF"
+  },
+  {
+    "ArticleID": "n_hat_elesa_0",
+    "HexColor": "#E8ECF0FF"
+  },
+  {
+    "ArticleID": "n_hat_fedora_0",
+    "HexColor": "#474747FF"
+  },
+  {
+    "ArticleID": "n_hat_fedora_1",
+    "HexColor": "#B1AE98FF"
+  },
+  {
+    "ArticleID": "n_hat_fisher_0",
+    "HexColor": "#C44234FF"
+  },
+  {
+    "ArticleID": "n_hat_flabebepack_0",
+    "HexColor": "#EDEBDFFF"
+  },
+  {
+    "ArticleID": "n_hat_fragment_0",
+    "HexColor": "#CECECEFF"
+  },
+  {
+    "ArticleID": "n_hat_frlg_a_0",
+    "HexColor": "#CECECEFF"
+  },
+  {
+    "ArticleID": "n_hat_frlg_b_0",
+    "HexColor": "#CECECEFF"
+  },
+  {
+    "ArticleID": "n_hat_furfrouwig_0",
+    "HexColor": "#D7D4CFFF"
+  },
+  {
+    "ArticleID": "n_hat_fw2022_0",
+    "HexColor": "#AE80CFFF"
+  },
+  {
+    "ArticleID": "n_hat_galarfarfetchditems_0",
+    "HexColor": "#6A5C53FF"
+  },
+  {
+    "ArticleID": "n_hat_genesecteventitem_0",
+    "HexColor": "#8D63A1FF"
+  },
+  {
+    "ArticleID": "n_hat_gengar_0",
+    "HexColor": "#6F00BDFF"
+  },
+  {
+    "ArticleID": "n_hat_gimmighoulitems_0",
+    "HexColor": "#919BB2FF"
+  },
+  {
+    "ArticleID": "n_hat_gladion_0",
+    "HexColor": "#CBC9C5FF"
+  },
+  {
+    "ArticleID": "n_hat_gofest-pikachuvisor_0",
+    "HexColor": "#F0DC55FF"
+  },
+  {
+    "ArticleID": "n_hat_goomy_0",
+    "HexColor": "#A86DBEFF"
+  },
+  {
+    "ArticleID": "n_hat_greavardwig_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_greencoat_0",
+    "HexColor": "#055537FF"
+  },
+  {
+    "ArticleID": "n_hat_growlithehelmet_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_guccihat_0",
+    "HexColor": "#1D1E1FFF"
+  },
+  {
+    "ArticleID": "n_hat_guzma_0",
+    "HexColor": "#C7B711FF"
+  },
+  {
+    "ArticleID": "n_hat_gyaradoscap_0",
+    "HexColor": "#3CA4D0FF"
+  },
+  {
+    "ArticleID": "n_hat_hgss_a_0",
+    "HexColor": "#EAEAEAFF"
+  },
+  {
+    "ArticleID": "n_hat_hgss_b_0",
+    "HexColor": "#EAEAEAFF"
+  },
+  {
+    "ArticleID": "n_hat_holiday2022santacostumes_0",
+    "HexColor": "#DD3937FF"
+  },
+  {
+    "ArticleID": "n_hat_holidaybeanie_0",
+    "HexColor": "#AF3636FF"
+  },
+  {
+    "ArticleID": "n_hat_hoopaearmuffs_0",
+    "HexColor": "#DD4574FF"
+  },
+  {
+    "ArticleID": "n_hat_jogger_0",
+    "HexColor": "#325A8AFF"
+  },
+  {
+    "ArticleID": "n_hat_kantotourcapgreen_0",
+    "HexColor": "#105F10FF"
+  },
+  {
+    "ArticleID": "n_hat_kantotourcapred_0",
+    "HexColor": "#B62E3EFF"
+  },
+  {
+    "ArticleID": "n_hat_knitted_0",
+    "HexColor": "#ED9C99FF"
+  },
+  {
+    "ArticleID": "n_hat_knitted_1",
+    "HexColor": "#A31214FF"
+  },
+  {
+    "ArticleID": "n_hat_korrina_0",
+    "HexColor": "#EAE9EAFF"
+  },
+  {
+    "ArticleID": "n_hat_laprasbandana_a_0",
+    "HexColor": "#4292D7FF"
+  },
+  {
+    "ArticleID": "n_hat_laprasbandana_b_0",
+    "HexColor": "#4292D7FF"
+  },
+  {
+    "ArticleID": "n_hat_legendofarceus_a_0",
+    "HexColor": "#DFE3EDFF"
+  },
+  {
+    "ArticleID": "n_hat_legendofarceus_b_0",
+    "HexColor": "#DFE3EDFF"
+  },
+  {
+    "ArticleID": "n_hat_litwickhat_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_hat_loneearrings_0",
+    "HexColor": "#E59B18FF"
+  },
+  {
+    "ArticleID": "n_hat_lvl50cap_0",
+    "HexColor": "#1D1E1FFF"
+  },
+  {
+    "ArticleID": "n_hat_magikarp_0",
+    "HexColor": "#E77351FF"
+  },
+  {
+    "ArticleID": "n_hat_mareaniehat_0",
+    "HexColor": "#AB82C9FF"
+  },
+  {
+    "ArticleID": "n_hat_megalopunnyitems_0",
+    "HexColor": "#9B5F4AFF"
+  },
+  {
+    "ArticleID": "n_hat_megarayquaza_0",
+    "HexColor": "#8AB879FF"
+  },
+  {
+    "ArticleID": "n_hat_meltan_0",
+    "HexColor": "#CBCFD1FF"
+  },
+  {
+    "ArticleID": "n_hat_meltanearrings_0",
+    "HexColor": "#E9C228FF"
+  },
+  {
+    "ArticleID": "n_hat_mewtwo_a_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_hat_mewtwo_b_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_hat_mimikyu_0",
+    "HexColor": "#E9E199FF"
+  },
+  {
+    "ArticleID": "n_hat_mismagius_0",
+    "HexColor": "#A200BDFF"
+  },
+  {
+    "ArticleID": "n_hat_movie2020_0",
+    "HexColor": "#CDCAC5FF"
+  },
+  {
+    "ArticleID": "n_hat_munnapack_0",
+    "HexColor": "#D6A2B5FF"
+  },
+  {
+    "ArticleID": "n_hat_munnapack_1",
+    "HexColor": "#313031FF"
+  },
+  {
+    "ArticleID": "n_hat_newyear2022_0",
+    "HexColor": "#055537FF"
+  },
+  {
+    "ArticleID": "n_hat_newyearhat2021_0",
+    "HexColor": "#993EBFFF"
+  },
+  {
+    "ArticleID": "n_hat_newyearhat2023_0",
+    "HexColor": "#102C84FF"
+  },
+  {
+    "ArticleID": "n_hat_nihilegoitems_0",
+    "HexColor": "#E8ECE8FF"
+  },
+  {
+    "ArticleID": "n_hat_noibat_0",
+    "HexColor": "#532561FF"
+  },
+  {
+    "ArticleID": "n_hat_obstagoonitems_0",
+    "HexColor": "#DCDDDCFF"
+  },
+  {
+    "ArticleID": "n_hat_oras_a_0",
+    "HexColor": "#F83E3CFF"
+  },
+  {
+    "ArticleID": "n_hat_oras_b_0",
+    "HexColor": "#F83E3CFF"
+  },
+  {
+    "ArticleID": "n_hat_oricoriopink_0",
+    "HexColor": "#F6B6CAFF"
+  },
+  {
+    "ArticleID": "n_hat_oricoriopurple_0",
+    "HexColor": "#8F6BD4FF"
+  },
+  {
+    "ArticleID": "n_hat_oricoriored_0",
+    "HexColor": "#D95C6FFF"
+  },
+  {
+    "ArticleID": "n_hat_oricorioyellow_0",
+    "HexColor": "#ECDD4AFF"
+  },
+  {
+    "ArticleID": "n_hat_partneritemsjan2024hat_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_phantump_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_pikachucap_0",
+    "HexColor": "#F0DC55FF"
+  },
+  {
+    "ArticleID": "n_hat_pikachufan_0",
+    "HexColor": "#FBC510FF"
+  },
+  {
+    "ArticleID": "n_hat_pikachulibre_0",
+    "HexColor": "#F68815FF"
+  },
+  {
+    "ArticleID": "n_hat_pikachupumpkinhead_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_pkmncap_0",
+    "HexColor": "#6BDDA2FF"
+  },
+  {
+    "ArticleID": "n_hat_pkmncap_1",
+    "HexColor": "#EA9B57FF"
+  },
+  {
+    "ArticleID": "n_hat_pkmncap_2",
+    "HexColor": "#63CBE7FF"
+  },
+  {
+    "ArticleID": "n_hat_profwillowoutfit_0",
+    "HexColor": "#C8AE74FF"
+  },
+  {
+    "ArticleID": "n_hat_regiicejersies_0",
+    "HexColor": "#6BA4B9FF"
+  },
+  {
+    "ArticleID": "n_hat_regirockjersies_0",
+    "HexColor": "#9A725CFF"
+  },
+  {
+    "ArticleID": "n_hat_registeeljersies_0",
+    "HexColor": "#373536FF"
+  },
+  {
+    "ArticleID": "n_hat_ruinmaniac_a_0",
+    "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_hat_ruinmaniac_b_0",
+    "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_hat_sableyegoggles_0",
+    "HexColor": "#2E313BFF"
+  },
+  {
+    "ArticleID": "n_hat_samsungsummer2020_0",
+    "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_hat_sandygasthat_0",
+    "HexColor": "#E5CD63FF"
+  },
+  {
+    "ArticleID": "n_hat_shayminhat_0",
+    "HexColor": "#AEE563FF"
+  },
+  {
+    "ArticleID": "n_hat_slowpoketailshirts_0",
+    "HexColor": "#E9A7B9FF"
+  },
+  {
+    "ArticleID": "n_hat_snorlaxnightcap_0",
+    "HexColor": "#319CE2FF"
+  },
+  {
+    "ArticleID": "n_hat_solgaleoitems_0",
+    "HexColor": "#D4DBDDFF"
+  },
+  {
+    "ArticleID": "n_hat_ss_a_0",
+    "HexColor": "#296243FF"
+  },
+  {
+    "ArticleID": "n_hat_ss_b_0",
+    "HexColor": "#296243FF"
+  },
+  {
+    "ArticleID": "n_hat_stantlerheadband_0",
+    "HexColor": "#E2C957FF"
+  },
+  {
+    "ArticleID": "n_hat_strawhat_0",
+    "HexColor": "#C4B462FF"
+  },
+  {
+    "ArticleID": "n_hat_summer2023_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_svcostumescarletschool_0",
+    "HexColor": "#1E4D95FF"
+  },
+  {
+    "ArticleID": "n_hat_svcostumevioletschool_0",
+    "HexColor": "#9B9B9BFF"
+  },
+  {
+    "ArticleID": "n_hat_swshdlc2costume_0",
+    "HexColor": "#39312EFF"
+  },
+  {
+    "ArticleID": "n_hat_swshuniformchampion_0",
+    "HexColor": "#393B39FF"
+  },
+  {
+    "ArticleID": "n_hat_sylveonitems_a_0",
+    "HexColor": "#E2E3E2FF"
+  },
+  {
+    "ArticleID": "n_hat_sylveonitems_b_0",
+    "HexColor": "#E2E3E2FF"
+  },
+  {
+    "ArticleID": "n_hat_tcgcollabtshirtandcap_0",
+    "HexColor": "#3759A6FF"
+  },
+  {
+    "ArticleID": "n_hat_teamaqua_0",
+    "HexColor": "#1AAAFFFF"
+  },
+  {
+    "ArticleID": "n_hat_teamleadercap_0",
+    "HexColor": "#A02122FF"
+  },
+  {
+    "ArticleID": "n_hat_teamleadercap_1",
+    "HexColor": "#DFA90DFF"
+  },
+  {
+    "ArticleID": "n_hat_teamleadercap_2",
+    "HexColor": "#1B3C86FF"
+  },
+  {
+    "ArticleID": "n_hat_teamrocket_0",
+    "HexColor": "#5A5F63FF"
+  },
+  {
+    "ArticleID": "n_hat_teamrocketcap_0",
+    "HexColor": "#2E313BFF"
+  },
+  {
+    "ArticleID": "n_hat_teamskull_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_tophat_0",
+    "HexColor": "#292929FF"
+  },
+  {
+    "ArticleID": "n_hat_ultrareconsquad_0",
+    "HexColor": "#87D4DCFF"
+  },
+  {
+    "ArticleID": "n_hat_ultrareconsquadb_0",
+    "HexColor": "#87D4DCFF"
+  },
+  {
+    "ArticleID": "n_hat_ultra_a_0",
+    "HexColor": "#F4AD4CFF"
+  },
+  {
+    "ArticleID": "n_hat_ultra_b_0",
+    "HexColor": "#F4AD4CFF"
+  },
+  {
+    "ArticleID": "n_hat_verizon2021_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_hat_wcs2022winnersitems_0",
+    "HexColor": "#263152FF"
+  },
+  {
+    "ArticleID": "n_hat_whimsicottearmuff_0",
+    "HexColor": "#E5C37BFF"
+  },
+  {
+    "ArticleID": "n_hat_willowglasses_0",
+    "HexColor": "#47494FFF"
+  },
+  {
+    "ArticleID": "n_hat_woobatearrings_0",
+    "HexColor": "#DFFBEFFF"
+  },
+  {
+    "ArticleID": "n_hat_yamaskhat_0",
+    "HexColor": "#5D5D60FF"
+  },
+  {
+    "ArticleID": "n_hat_yamaskmask_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_zubathat_0",
+    "HexColor": "#61B6CEFF"
+  },
+  {
+    "ArticleID": "n_necklace_default_0",
+    "HexColor": "#353535FF"
+  },
+  {
+    "ArticleID": "n_necklace_default_1",
+    "HexColor": "#D0D0D0FF"
+  },
+  {
+    "ArticleID": "n_necklace_heart_0",
+    "HexColor": "#353535FF"
+  },
+  {
+    "ArticleID": "n_necklace_star_0",
+    "HexColor": "#353535FF"
+  },
+  {
+    "ArticleID": "n_pants_6thanniversary_0",
+    "HexColor": "#F0ECE8FF"
+  },
+  {
+    "ArticleID": "n_pants_7thanniversary_0",
+    "HexColor": "#FFEAE9FF"
+  },
+  {
+    "ArticleID": "n_pants_acetrainerbw_a_0",
+    "HexColor": "#E56D2CFF"
+  },
+  {
+    "ArticleID": "n_pants_acetrainerbw_b_0",
+    "HexColor": "#E56D2CFF"
+  },
+  {
+    "ArticleID": "n_pants_acetrainersm_0",
+    "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_pants_animegou_0",
+    "HexColor": "#373737FF"
+  },
+  {
+    "ArticleID": "n_pants_backpacker_a_0",
+    "HexColor": "#B6AF9FFF"
+  },
+  {
+    "ArticleID": "n_pants_backpacker_b_0",
+    "HexColor": "#B6AF9FFF"
+  },
+  {
+    "ArticleID": "n_pants_battlegirl_0",
+    "HexColor": "#F18908FF"
+  },
+  {
+    "ArticleID": "n_pants_bounsweetitems_0",
+    "HexColor": "#AD4D7BFF"
+  },
+  {
+    "ArticleID": "n_pants_brock_0",
+    "HexColor": "#6E72A3FF"
+  },
+  {
+    "ArticleID": "n_pants_bwn_0",
+    "HexColor": "#C1B6A8FF"
+  },
+  {
+    "ArticleID": "n_pants_casual_a_0",
+    "HexColor": "#6E8876FF"
+  },
+  {
+    "ArticleID": "n_pants_casual_a_1",
+    "HexColor": "#AB9C78FF"
+  },
+  {
+    "ArticleID": "n_pants_casual_b_0",
+    "HexColor": "#6E8876FF"
+  },
+  {
+    "ArticleID": "n_pants_casual_b_1",
+    "HexColor": "#AB9C78FF"
+  },
+  {
+    "ArticleID": "n_pants_clay_0",
+    "HexColor": "#B19F4DFF"
+  },
+  {
+    "ArticleID": "n_pants_default-new_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_pants_default_a_0",
+    "HexColor": "#9B1643FF"
+  },
+  {
+    "ArticleID": "n_pants_default_a_1",
+    "HexColor": "#3970ADFF"
+  },
+  {
+    "ArticleID": "n_pants_default_a_2",
+    "HexColor": "#3A3D36FF"
+  },
+  {
+    "ArticleID": "n_pants_default_a_3",
+    "HexColor": "#0A0A34FF"
+  },
+  {
+    "ArticleID": "n_pants_default_a_4",
+    "HexColor": "#590A0AFF"
+  },
+  {
+    "ArticleID": "n_pants_default_a_5",
+    "HexColor": "#F7CD1AFF"
+  },
+  {
+    "ArticleID": "n_pants_default_b_0",
+    "HexColor": "#9B1643FF"
+  },
+  {
+    "ArticleID": "n_pants_denimfashionweek2023_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_pants_dp_a_0",
+    "HexColor": "#DD7D8AFF"
+  },
+  {
+    "ArticleID": "n_pants_dp_b_0",
+    "HexColor": "#DD7D8AFF"
+  },
+  {
+    "ArticleID": "n_pants_elesa_0",
+    "HexColor": "#524055FF"
+  },
+  {
+    "ArticleID": "n_pants_fashionweek2022_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_pants_fisher_0",
+    "HexColor": "#87875EFF"
+  },
+  {
+    "ArticleID": "n_pants_flabebepack_0",
+    "HexColor": "#D7266FFF"
+  },
+  {
+    "ArticleID": "n_pants_frlg_a_0",
+    "HexColor": "#F06161FF"
+  },
+  {
+    "ArticleID": "n_pants_frlg_b_0",
+    "HexColor": "#F06161FF"
+  },
+  {
+    "ArticleID": "n_pants_fw2022_a_0",
+    "HexColor": "#AE80CFFF"
+  },
+  {
+    "ArticleID": "n_pants_fw2022_b_0",
+    "HexColor": "#AE80CFFF"
+  },
+  {
+    "ArticleID": "n_pants_geeta_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_pants_genderlessskirt_0",
+    "HexColor": "#636563FF"
+  },
+  {
+    "ArticleID": "n_pants_giovanni_0",
+    "HexColor": "#47464FFF"
+  },
+  {
+    "ArticleID": "n_pants_gladion_0",
+    "HexColor": "#27221FFF"
+  },
+  {
+    "ArticleID": "n_pants_gothitelleitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_pants_greencoat_0",
+    "HexColor": "#055537FF"
+  },
+  {
+    "ArticleID": "n_pants_green_a_0",
+    "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_pants_green_b_0",
+    "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_pants_guzma_0",
+    "HexColor": "#393734FF"
+  },
+  {
+    "ArticleID": "n_pants_gymleader_a_0",
+    "HexColor": "#C7302DFF"
+  },
+  {
+    "ArticleID": "n_pants_gymleader_a_1",
+    "HexColor": "#2D4177FF"
+  },
+  {
+    "ArticleID": "n_pants_gymleader_a_2",
+    "HexColor": "#FFBF29FF"
+  },
+  {
+    "ArticleID": "n_pants_gymleader_b_0",
+    "HexColor": "#C7302DFF"
+  },
+  {
+    "ArticleID": "n_pants_gymleader_b_1",
+    "HexColor": "#2D4177FF"
+  },
+  {
+    "ArticleID": "n_pants_gymleader_b_2",
+    "HexColor": "#FFBF29FF"
+  },
+  {
+    "ArticleID": "n_pants_hgss_a_0",
+    "HexColor": "#476280FF"
+  },
+  {
+    "ArticleID": "n_pants_hgss_b_0",
+    "HexColor": "#476280FF"
+  },
+  {
+    "ArticleID": "n_pants_jogger_0",
+    "HexColor": "#DD5D45FF"
+  },
+  {
+    "ArticleID": "n_pants_korrina_0",
+    "HexColor": "#EAE9EAFF"
+  },
+  {
+    "ArticleID": "n_pants_loosepants_0",
+    "HexColor": "#747474FF"
+  },
+  {
+    "ArticleID": "n_pants_lunalaitems_0",
+    "HexColor": "#471DA0FF"
+  },
+  {
+    "ArticleID": "n_pants_luvdiscpack_a_0",
+    "HexColor": "#F088A4FF"
+  },
+  {
+    "ArticleID": "n_pants_luvdiscpack_b_0",
+    "HexColor": "#F088A4FF"
+  },
+  {
+    "ArticleID": "n_pants_lysandre_0",
+    "HexColor": "#423E3CFF"
+  },
+  {
+    "ArticleID": "n_pants_mewtwo_a_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_pants_mewtwo_b_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_pants_miniskirt_0",
+    "HexColor": "#9F0000FF"
+  },
+  {
+    "ArticleID": "n_pants_miniskirt_1",
+    "HexColor": "#2B2B2BFF"
+  },
+  {
+    "ArticleID": "n_pants_miniskirt_2",
+    "HexColor": "#9E33B6FF"
+  },
+  {
+    "ArticleID": "n_pants_miniskirt_3",
+    "HexColor": "#00929FFF"
+  },
+  {
+    "ArticleID": "n_pants_miniskirt-wave_0",
+    "HexColor": "#7BD0F6FF"
+  },
+  {
+    "ArticleID": "n_pants_miniskirt-wave_1",
+    "HexColor": "#F1E64CFF"
+  },
+  {
+    "ArticleID": "n_pants_miniskirt-wave_2",
+    "HexColor": "#AAAAAAFF"
+  },
+  {
+    "ArticleID": "n_pants_misty_0",
+    "HexColor": "#4D96D0FF"
+  },
+  {
+    "ArticleID": "n_pants_munnapack_0",
+    "HexColor": "#D8A8BAFF"
+  },
+  {
+    "ArticleID": "n_pants_neon-solid_0",
+    "HexColor": "#CACACAFF"
+  },
+  {
+    "ArticleID": "n_pants_neon-solid_1",
+    "HexColor": "#363536FF"
+  },
+  {
+    "ArticleID": "n_pants_neon-solid_2",
+    "HexColor": "#F59621FF"
+  },
+  {
+    "ArticleID": "n_pants_neon-stripes_0",
+    "HexColor": "#FF45EEFF"
+  },
+  {
+    "ArticleID": "n_pants_neon-stripes_1",
+    "HexColor": "#2FBCF7FF"
+  },
+  {
+    "ArticleID": "n_pants_newyear2022_0",
+    "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_pants_oras_a_0",
+    "HexColor": "#F4FDFFFF"
+  },
+  {
+    "ArticleID": "n_pants_oras_b_0",
+    "HexColor": "#F4FDFFFF"
+  },
+  {
+    "ArticleID": "n_pants_pajamas2022_0",
+    "HexColor": "#082473FF"
+  },
+  {
+    "ArticleID": "n_pants_pajamas2022_1",
+    "HexColor": "#B41010FF"
+  },
+  {
+    "ArticleID": "n_pants_palmer_0",
+    "HexColor": "#8D724AFF"
+  },
+  {
+    "ArticleID": "n_pants_pikachufan_a_0",
+    "HexColor": "#1C2734FF"
+  },
+  {
+    "ArticleID": "n_pants_pikachufan_b_0",
+    "HexColor": "#1C2734FF"
+  },
+  {
+    "ArticleID": "n_pants_pikachulibre_a_0",
+    "HexColor": "#DF6A0BFF"
+  },
+  {
+    "ArticleID": "n_pants_pikachulibre_b_0",
+    "HexColor": "#DF6A0BFF"
+  },
+  {
+    "ArticleID": "n_pants_profwillowoutfit_0",
+    "HexColor": "#C8AE74FF"
+  },
+  {
+    "ArticleID": "n_pants_pumpkabooitems_0",
+    "HexColor": "#CF7868FF"
+  },
+  {
+    "ArticleID": "n_pants_regiicejersies_0",
+    "HexColor": "#6BA4B9FF"
+  },
+  {
+    "ArticleID": "n_pants_regirockjersies_0",
+    "HexColor": "#9A725CFF"
+  },
+  {
+    "ArticleID": "n_pants_registeeljersies_0",
+    "HexColor": "#373536FF"
+  },
+  {
+    "ArticleID": "n_pants_shorts_0",
+    "HexColor": "#282928FF"
+  },
+  {
+    "ArticleID": "n_pants_shorts_1",
+    "HexColor": "#466070FF"
+  },
+  {
+    "ArticleID": "n_pants_shorts_2",
+    "HexColor": "#7F0C17FF"
+  },
+  {
+    "ArticleID": "n_pants_shorts_3",
+    "HexColor": "#D2DBE5FF"
+  },
+  {
+    "ArticleID": "n_pants_skinnyjeans_a_0",
+    "HexColor": "#92B6C2FF"
+  },
+  {
+    "ArticleID": "n_pants_skinnyjeans_b_0",
+    "HexColor": "#222120FF"
+  },
+  {
+    "ArticleID": "n_pants_skinnyjeans_b_1",
+    "HexColor": "#F2BA6CFF"
+  },
+  {
+    "ArticleID": "n_pants_skinnyjeans_b_2",
+    "HexColor": "#82B4C9FF"
+  },
+  {
+    "ArticleID": "n_pants_ss_0",
+    "HexColor": "#293862FF"
+  },
+  {
+    "ArticleID": "n_pants_steven_0",
+    "HexColor": "#6E367CFF"
+  },
+  {
+    "ArticleID": "n_pants_stevenfirst_0",
+    "HexColor": "#6E367CFF"
+  },
+  {
+    "ArticleID": "n_pants_sweats_0",
+    "HexColor": "#CE0057FF"
+  },
+  {
+    "ArticleID": "n_pants_sweats_1",
+    "HexColor": "#6B6B6BFF"
+  },
+  {
+    "ArticleID": "n_pants_sweats_2",
+    "HexColor": "#CCCCCCFF"
+  },
+  {
+    "ArticleID": "n_pants_sweats_3",
+    "HexColor": "#E9D43FFF"
+  },
+  {
+    "ArticleID": "n_pants_sweats_4",
+    "HexColor": "#3A3A3BFF"
+  },
+  {
+    "ArticleID": "n_pants_swshdlc2costume_0",
+    "HexColor": "#D15520FF"
+  },
+  {
+    "ArticleID": "n_pants_swshuniformchampion_0",
+    "HexColor": "#EAECEAFF"
+  },
+  {
+    "ArticleID": "n_pants_swshuniformdark_a_0",
+    "HexColor": "#C91772FF"
+  },
+  {
+    "ArticleID": "n_pants_swshuniformdark_b_0",
+    "HexColor": "#C91772FF"
+  },
+  {
+    "ArticleID": "n_pants_swshuniformdefault_a_0",
+    "HexColor": "#E0E0E0FF"
+  },
+  {
+    "ArticleID": "n_pants_swshuniformdefault_b_0",
+    "HexColor": "#E0E0E0FF"
+  },
+  {
+    "ArticleID": "n_pants_swshuniformdragon_a_0",
+    "HexColor": "#29395DFF"
+  },
+  {
+    "ArticleID": "n_pants_swshuniformdragon_b_0",
+    "HexColor": "#29395DFF"
+  },
+  {
+    "ArticleID": "n_pants_teamaqua_a_0",
+    "HexColor": "#1AAAFFFF"
+  },
+  {
+    "ArticleID": "n_pants_teamaqua_b_0",
+    "HexColor": "#1AAAFFFF"
+  },
+  {
+    "ArticleID": "n_pants_teamblanche_a_0",
+    "HexColor": "#65A1C8DE"
+  },
+  {
+    "ArticleID": "n_pants_teamblanche_b_0",
+    "HexColor": "#65A1C8DE"
+  },
+  {
+    "ArticleID": "n_pants_teamcandela_a_0",
+    "HexColor": "#C84242DE"
+  },
+  {
+    "ArticleID": "n_pants_teamcandela_b_0",
+    "HexColor": "#C84242DE"
+  },
+  {
+    "ArticleID": "n_pants_teammagma_a_0",
+    "HexColor": "#893927FF"
+  },
+  {
+    "ArticleID": "n_pants_teammagma_b_0",
+    "HexColor": "#893927FF"
+  },
+  {
+    "ArticleID": "n_pants_teamrocket_a_0",
+    "HexColor": "#282928FF"
+  },
+  {
+    "ArticleID": "n_pants_teamrocket_b_0",
+    "HexColor": "#282928FF"
+  },
+  {
+    "ArticleID": "n_pants_teamskull_a_0",
+    "HexColor": "#DCDCE0FF"
+  },
+  {
+    "ArticleID": "n_pants_teamskull_b_0",
+    "HexColor": "#DCDCE0FF"
+  },
+  {
+    "ArticleID": "n_pants_teamspark_a_0",
+    "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_pants_teamspark_b_0",
+    "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_pants_turbine_0",
+    "HexColor": "#313F51FF"
+  },
+  {
+    "ArticleID": "n_pants_turbine_1",
+    "HexColor": "#600000FF"
+  },
+  {
+    "ArticleID": "n_pants_turbine_2",
+    "HexColor": "#404040FF"
+  },
+  {
+    "ArticleID": "n_pants_ultra_a_0",
+    "HexColor": "#D9D7D3FF"
+  },
+  {
+    "ArticleID": "n_pants_ultra_b_0",
+    "HexColor": "#D9D7D3FF"
+  },
+  {
+    "ArticleID": "n_pants_veterantrainerxy_a_0",
+    "HexColor": "#654037FF"
+  },
+  {
+    "ArticleID": "n_pants_veterantrainerxy_b_0",
+    "HexColor": "#654037FF"
+  },
+  {
+    "ArticleID": "n_pants_wcs2022winnersitems_0",
+    "HexColor": "#263152FF"
+  },
+  {
+    "ArticleID": "n_shirt_6thanniversary_a_0",
+    "HexColor": "#F0ECE8FF"
+  },
+  {
+    "ArticleID": "n_shirt_6thanniversary_b_0",
+    "HexColor": "#F0ECE8FF"
+  },
+  {
+    "ArticleID": "n_shirt_7thanniversary_0",
+    "HexColor": "#FFF5F0FF"
+  },
+  {
+    "ArticleID": "n_shirt_acetrainerbw_a_0",
+    "HexColor": "#E56D2CFF"
+  },
+  {
+    "ArticleID": "n_shirt_acetrainerbw_b_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_acetrainersm_a_0",
+    "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_shirt_acetrainersm_b_0",
+    "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_shirt_alolacomfey_0",
+    "HexColor": "#FFD800FF"
+  },
+  {
+    "ArticleID": "n_shirt_animegou_0",
+    "HexColor": "#6A6C6BFF"
+  },
+  {
+    "ArticleID": "n_shirt_aseries_0",
+    "HexColor": "#C5B6B7FF"
+  },
+  {
+    "ArticleID": "n_shirt_backpacker_a_0",
+    "HexColor": "#E8E8E5FF"
+  },
+  {
+    "ArticleID": "n_shirt_backpacker_b_0",
+    "HexColor": "#E8E8E5FF"
+  },
+  {
+    "ArticleID": "n_shirt_ballguy_0",
+    "HexColor": "#E0381BFF"
+  },
+  {
+    "ArticleID": "n_shirt_battlegirl_0",
+    "HexColor": "#F58124FF"
+  },
+  {
+    "ArticleID": "n_shirt_bea_a_0",
+    "HexColor": "#E5E4E2FF"
+  },
+  {
+    "ArticleID": "n_shirt_bea_b_0",
+    "HexColor": "#E5E4E2FF"
+  },
+  {
+    "ArticleID": "n_shirt_blazer_0",
+    "HexColor": "#1D1D1BFF"
+  },
+  {
+    "ArticleID": "n_shirt_bounsweetitems_0",
+    "HexColor": "#BEE39BFF"
+  },
+  {
+    "ArticleID": "n_shirt_brock_0",
+    "HexColor": "#9D9D67FF"
+  },
+  {
+    "ArticleID": "n_shirt_buttondown_0",
+    "HexColor": "#9A1B21FF"
+  },
+  {
+    "ArticleID": "n_shirt_buzzwoleitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_bwn_0",
+    "HexColor": "#EEEEEEFF"
+  },
+  {
+    "ArticleID": "n_shirt_casual_a_0",
+    "HexColor": "#8E5695FF"
+  },
+  {
+    "ArticleID": "n_shirt_casual_a_1",
+    "HexColor": "#FFC393FF"
+  },
+  {
+    "ArticleID": "n_shirt_casual_a_2",
+    "HexColor": "#85FFCFFF"
+  },
+  {
+    "ArticleID": "n_shirt_casual_a_3",
+    "HexColor": "#929FFFFF"
+  },
+  {
+    "ArticleID": "n_shirt_casual_b_0",
+    "HexColor": "#8E5695FF"
+  },
+  {
+    "ArticleID": "n_shirt_casual_b_1",
+    "HexColor": "#FFC393FF"
+  },
+  {
+    "ArticleID": "n_shirt_casual_b_2",
+    "HexColor": "#85FFCFFF"
+  },
+  {
+    "ArticleID": "n_shirt_casual_b_3",
+    "HexColor": "#929FFFFF"
+  },
+  {
+    "ArticleID": "n_shirt_celebi_0",
+    "HexColor": "#186B63FF"
+  },
+  {
+    "ArticleID": "n_shirt_chimcharonesie_0",
+    "HexColor": "#D78018FF"
+  },
+  {
+    "ArticleID": "n_shirt_clay_0",
+    "HexColor": "#B19F4DFF"
+  },
+  {
+    "ArticleID": "n_shirt_cofagrigusitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_cosmog_0",
+    "HexColor": "#00EDF8FF"
+  },
+  {
+    "ArticleID": "n_shirt_cowichansweater_0",
+    "HexColor": "#B1AC98FF"
+  },
+  {
+    "ArticleID": "n_shirt_dayofdead_0",
+    "HexColor": "#181614FF"
+  },
+  {
+    "ArticleID": "n_shirt_default-new_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_default_a_0",
+    "HexColor": "#A41F4AFF"
+  },
+  {
+    "ArticleID": "n_shirt_default_a_1",
+    "HexColor": "#336A9DFF"
+  },
+  {
+    "ArticleID": "n_shirt_default_a_2",
+    "HexColor": "#F0D221FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_a_3",
+    "HexColor": "#1B4955FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_a_4",
+    "HexColor": "#AE0000FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_a_5",
+    "HexColor": "#690000FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_a_6",
+    "HexColor": "#F4E571FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_a_7",
+    "HexColor": "#E3A800FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_a_8",
+    "HexColor": "#E17D00FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_b_0",
+    "HexColor": "#990000FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_b_1",
+    "HexColor": "#F2971BFF"
+  },
+  {
+    "ArticleID": "n_shirt_default_b_2",
+    "HexColor": "#F0D221FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_b_3",
+    "HexColor": "#12236DFF"
+  },
+  {
+    "ArticleID": "n_shirt_default_b_4",
+    "HexColor": "#193DB1FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_b_5",
+    "HexColor": "#870024FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_b_6",
+    "HexColor": "#5AFBD1FF"
+  },
+  {
+    "ArticleID": "n_shirt_default_b_7",
+    "HexColor": "#8B2CAEFF"
+  },
+  {
+    "ArticleID": "n_shirt_default_b_8",
+    "HexColor": "#4589DAFF"
+  },
+  {
+    "ArticleID": "n_shirt_delibird_0",
+    "HexColor": "#A21616FF"
+  },
+  {
+    "ArticleID": "n_shirt_denimfashionweek2023_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_denimjacket_0",
+    "HexColor": "#6D7D87FF"
+  },
+  {
+    "ArticleID": "n_shirt_detectivepikachu_0",
+    "HexColor": "#2C2D2CFF"
+  },
+  {
+    "ArticleID": "n_shirt_diancie_0",
+    "HexColor": "#FFD1EEFF"
+  },
+  {
+    "ArticleID": "n_shirt_divingsuit_0",
+    "HexColor": "#293960FF"
+  },
+  {
+    "ArticleID": "n_shirt_diwali2021_0",
+    "HexColor": "#8A326DFF"
+  },
+  {
+    "ArticleID": "n_shirt_dp_a_0",
+    "HexColor": "#DD7D8AFF"
+  },
+  {
+    "ArticleID": "n_shirt_dp_b_0",
+    "HexColor": "#DD7D8AFF"
+  },
+  {
+    "ArticleID": "n_shirt_drifblim_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_shirt_dusclopsmummy_0",
+    "HexColor": "#AEABAEFF"
+  },
+  {
+    "ArticleID": "n_shirt_earthday-2018_0",
+    "HexColor": "#65D9FFFF"
+  },
+  {
+    "ArticleID": "n_shirt_eeveestshirt-00_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_eeveestshirt-01_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_eeveestshirt-02_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_eeveestshirt-03_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_elesa_a_0",
+    "HexColor": "#CED3DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_elesa_b_0",
+    "HexColor": "#CED3DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_fashionweek2022_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_shirt_festivaloflights-00_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_festivaloflights-01_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_fisher_0",
+    "HexColor": "#9C2E21FF"
+  },
+  {
+    "ArticleID": "n_shirt_flabebepack_0",
+    "HexColor": "#E5E5E5FF"
+  },
+  {
+    "ArticleID": "n_shirt_fragment_0",
+    "HexColor": "#DBDEDFFF"
+  },
+  {
+    "ArticleID": "n_shirt_frlg_a_0",
+    "HexColor": "#61C7F0FF"
+  },
+  {
+    "ArticleID": "n_shirt_frlg_b_0",
+    "HexColor": "#61C7F0FF"
+  },
+  {
+    "ArticleID": "n_shirt_fw2022_a_0",
+    "HexColor": "#AE80CFFF"
+  },
+  {
+    "ArticleID": "n_shirt_fw2022_b_0",
+    "HexColor": "#AE80CFFF"
+  },
+  {
+    "ArticleID": "n_shirt_galarfarfetchditems_0",
+    "HexColor": "#584F49FF"
+  },
+  {
+    "ArticleID": "n_shirt_geeta_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_genderlessskirt_0",
+    "HexColor": "#29282EFF"
+  },
+  {
+    "ArticleID": "n_shirt_gengar_0",
+    "HexColor": "#6F00BDFF"
+  },
+  {
+    "ArticleID": "n_shirt_gengaronesie_0",
+    "HexColor": "#5B4D9DFF"
+  },
+  {
+    "ArticleID": "n_shirt_giovanni_a_0",
+    "HexColor": "#47464FFF"
+  },
+  {
+    "ArticleID": "n_shirt_giovanni_b_0",
+    "HexColor": "#47464FFF"
+  },
+  {
+    "ArticleID": "n_shirt_gladion_0",
+    "HexColor": "#312E29FF"
+  },
+  {
+    "ArticleID": "n_shirt_gofest-2019_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_shirt_gofest-2020_0",
+    "HexColor": "#903236FF"
+  },
+  {
+    "ArticleID": "n_shirt_gofest-2021_0",
+    "HexColor": "#131313FF"
+  },
+  {
+    "ArticleID": "n_shirt_gofest2022_0",
+    "HexColor": "#131313FF"
+  },
+  {
+    "ArticleID": "n_shirt_gofest2023_0",
+    "HexColor": "#6C6968FF"
+  },
+  {
+    "ArticleID": "n_shirt_gofestglobal2023_0",
+    "HexColor": "#842E33FF"
+  },
+  {
+    "ArticleID": "n_shirt_goteamrocketarlo_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_goteamrocketcliff_a_0",
+    "HexColor": "#CED3DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_goteamrocketcliff_b_0",
+    "HexColor": "#CED3DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_goteamrocketsierra_a_0",
+    "HexColor": "#CED3DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_goteamrocketsierra_b_0",
+    "HexColor": "#CED3DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_gothitelleitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_gotour2023_0",
+    "HexColor": "#131313FF"
+  },
+  {
+    "ArticleID": "n_shirt_greedentsweater_0",
+    "HexColor": "#AF132BFF"
+  },
+  {
+    "ArticleID": "n_shirt_green_0",
+    "HexColor": "#2E2B2BFF"
+  },
+  {
+    "ArticleID": "n_shirt_greencoat_0",
+    "HexColor": "#2E2B2BFF"
+  },
+  {
+    "ArticleID": "n_shirt_gtrtshirt2022_0",
+    "HexColor": "#274054FF"
+  },
+  {
+    "ArticleID": "n_shirt_gtrtshirt2022_1",
+    "HexColor": "#6C322EFF"
+  },
+  {
+    "ArticleID": "n_shirt_guccitshirts_0",
+    "HexColor": "#CFC8BBFF"
+  },
+  {
+    "ArticleID": "n_shirt_guzma_0",
+    "HexColor": "#393734FF"
+  },
+  {
+    "ArticleID": "n_shirt_gymleader_a_0",
+    "HexColor": "#C7302DFF"
+  },
+  {
+    "ArticleID": "n_shirt_gymleader_a_1",
+    "HexColor": "#2D4177FF"
+  },
+  {
+    "ArticleID": "n_shirt_gymleader_a_2",
+    "HexColor": "#FFBF29FF"
+  },
+  {
+    "ArticleID": "n_shirt_gymleader_b_0",
+    "HexColor": "#C7302DFF"
+  },
+  {
+    "ArticleID": "n_shirt_gymleader_b_1",
+    "HexColor": "#2D4177FF"
+  },
+  {
+    "ArticleID": "n_shirt_gymleader_b_2",
+    "HexColor": "#FFBF29FF"
+  },
+  {
+    "ArticleID": "n_shirt_happi_0",
+    "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_shirt_happi_1",
+    "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_shirt_happi_2",
+    "HexColor": "#C84242DE"
+  },
+  {
+    "ArticleID": "n_shirt_hgss_a_0",
+    "HexColor": "#C6414FFF"
+  },
+  {
+    "ArticleID": "n_shirt_hgss_b_0",
+    "HexColor": "#C6414FFF"
+  },
+  {
+    "ArticleID": "n_shirt_holiday2022santacostumes_0",
+    "HexColor": "#DD3937FF"
+  },
+  {
+    "ArticleID": "n_shirt_holifestival2021black_0",
+    "HexColor": "#262626FF"
+  },
+  {
+    "ArticleID": "n_shirt_holifestival2021white_0",
+    "HexColor": "#E6E6E6FF"
+  },
+  {
+    "ArticleID": "n_shirt_hoopaunboundtshirt_0",
+    "HexColor": "#C3D6E2FF"
+  },
+  {
+    "ArticleID": "n_shirt_ingress_0",
+    "HexColor": "#352F3AFF"
+  },
+  {
+    "ArticleID": "n_shirt_ingress-e_0",
+    "HexColor": "#352F3AFF"
+  },
+  {
+    "ArticleID": "n_shirt_ingress-r_0",
+    "HexColor": "#352F3AFF"
+  },
+  {
+    "ArticleID": "n_shirt_jacket-newyear2022_0",
+    "HexColor": "#2E2B2BFF"
+  },
+  {
+    "ArticleID": "n_shirt_james_0",
+    "HexColor": "#D6D7DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_jessie_0",
+    "HexColor": "#CED3DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_jirachi_0",
+    "HexColor": "#FFFF72FF"
+  },
+  {
+    "ArticleID": "n_shirt_jogger_0",
+    "HexColor": "#2B59A4FF"
+  },
+  {
+    "ArticleID": "n_shirt_keldeotshirt_0",
+    "HexColor": "#49A7D2FF"
+  },
+  {
+    "ArticleID": "n_shirt_korrina_a_0",
+    "HexColor": "#EAE9EAFF"
+  },
+  {
+    "ArticleID": "n_shirt_korrina_b_0",
+    "HexColor": "#EAE9EAFF"
+  },
+  {
+    "ArticleID": "n_shirt_latias-latios_0",
+    "HexColor": "#2D3332FF"
+  },
+  {
+    "ArticleID": "n_shirt_legendofarceus_a_0",
+    "HexColor": "#2D3B57FF"
+  },
+  {
+    "ArticleID": "n_shirt_legendofarceus_b_0",
+    "HexColor": "#2D3B57FF"
+  },
+  {
+    "ArticleID": "n_shirt_longsleeves-charizard_0",
+    "HexColor": "#DA4F21FF"
+  },
+  {
+    "ArticleID": "n_shirt_longsleeves-charizard_1",
+    "HexColor": "#878787FF"
+  },
+  {
+    "ArticleID": "n_shirt_longsleeves-charizard_2",
+    "HexColor": "#C23311FF"
+  },
+  {
+    "ArticleID": "n_shirt_longsleeves-pikachu_0",
+    "HexColor": "#FDB72FFF"
+  },
+  {
+    "ArticleID": "n_shirt_longsleeves-pikachu_1",
+    "HexColor": "#2CB7FCFF"
+  },
+  {
+    "ArticleID": "n_shirt_longsleeves-pikachu_2",
+    "HexColor": "#878787FF"
+  },
+  {
+    "ArticleID": "n_shirt_luvdiscpack_a_0",
+    "HexColor": "#F088A4FF"
+  },
+  {
+    "ArticleID": "n_shirt_luvdiscpack_b_0",
+    "HexColor": "#F088A4FF"
+  },
+  {
+    "ArticleID": "n_shirt_lvl50_0",
+    "HexColor": "#1E1D1FFF"
+  },
+  {
+    "ArticleID": "n_shirt_lvl50_1",
+    "HexColor": "#60724DFF"
+  },
+  {
+    "ArticleID": "n_shirt_lysandre_0",
+    "HexColor": "#423E3CFF"
+  },
+  {
+    "ArticleID": "n_shirt_megalopunnyitems_0",
+    "HexColor": "#9B5F4AFF"
+  },
+  {
+    "ArticleID": "n_shirt_megarayquaza_0",
+    "HexColor": "#87A470FF"
+  },
+  {
+    "ArticleID": "n_shirt_melmetaljacket_0",
+    "HexColor": "#949495FF"
+  },
+  {
+    "ArticleID": "n_shirt_melmetalvest_0",
+    "HexColor": "#949495FF"
+  },
+  {
+    "ArticleID": "n_shirt_meloettatshirt_0",
+    "HexColor": "#AAD492FF"
+  },
+  {
+    "ArticleID": "n_shirt_meltan_0",
+    "HexColor": "#E8E8E8FF"
+  },
+  {
+    "ArticleID": "n_shirt_mew_0",
+    "HexColor": "#F9B6C7FF"
+  },
+  {
+    "ArticleID": "n_shirt_mewtwo_a_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_shirt_mewtwo_b_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_shirt_misty_0",
+    "HexColor": "#C6E0F4FF"
+  },
+  {
+    "ArticleID": "n_shirt_movie2020jessiejames_a_0",
+    "HexColor": "#CED3DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_movie2020jessiejames_b_0",
+    "HexColor": "#CED3DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_munnapack_a_0",
+    "HexColor": "#EA86B9FF"
+  },
+  {
+    "ArticleID": "n_shirt_munnapack_b_0",
+    "HexColor": "#EA86B9FF"
+  },
+  {
+    "ArticleID": "n_shirt_nike2021_0",
+    "HexColor": "#FFFFFFFF"
+  },
+  {
+    "ArticleID": "n_shirt_ocshirt-045_a_0",
+    "HexColor": "#D34A44FF"
+  },
+  {
+    "ArticleID": "n_shirt_ocshirt-045_b_0",
+    "HexColor": "#D34A44FF"
+  },
+  {
+    "ArticleID": "n_shirt_ocshirt-108_a_0",
+    "HexColor": "#FFC552FF"
+  },
+  {
+    "ArticleID": "n_shirt_ocshirt-108_b_0",
+    "HexColor": "#FFC552FF"
+  },
+  {
+    "ArticleID": "n_shirt_ocshirt-129_a_0",
+    "HexColor": "#C8ADADFF"
+  },
+  {
+    "ArticleID": "n_shirt_ocshirt-129_b_0",
+    "HexColor": "#C8ADADFF"
+  },
+  {
+    "ArticleID": "n_shirt_ocshirt-143_a_0",
+    "HexColor": "#70D0CCFF"
+  },
+  {
+    "ArticleID": "n_shirt_ocshirt-143_b_0",
+    "HexColor": "#70D0CCFF"
+  },
+  {
+    "ArticleID": "n_shirt_oras_a_0",
+    "HexColor": "#F83D3CFF"
+  },
+  {
+    "ArticleID": "n_shirt_oras_b_0",
+    "HexColor": "#F83D3CFF"
+  },
+  {
+    "ArticleID": "n_shirt_pajamas2022_0",
+    "HexColor": "#082473FF"
+  },
+  {
+    "ArticleID": "n_shirt_pajamas2022_1",
+    "HexColor": "#B41010FF"
+  },
+  {
+    "ArticleID": "n_shirt_palmer_0",
+    "HexColor": "#2F6429FF"
+  },
+  {
+    "ArticleID": "n_shirt_partneritemsjan2024hoodie_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_partneritemsjan2024tshirt_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_pikachufan_a_0",
+    "HexColor": "#F0B50EFF"
+  },
+  {
+    "ArticleID": "n_shirt_pikachufan_b_0",
+    "HexColor": "#F0B50EFF"
+  },
+  {
+    "ArticleID": "n_shirt_pikachulibre_a_0",
+    "HexColor": "#E3700BFF"
+  },
+  {
+    "ArticleID": "n_shirt_pikachulibre_b_0",
+    "HexColor": "#E3700BFF"
+  },
+  {
+    "ArticleID": "n_shirt_pikachuonesie_0",
+    "HexColor": "#F3CA3CFF"
+  },
+  {
+    "ArticleID": "n_shirt_pinpukuhoodie_0",
+    "HexColor": "#F8BFC7FF"
+  },
+  {
+    "ArticleID": "n_shirt_pipluponesie_0",
+    "HexColor": "#84B7BEFF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnhoodie001_0",
+    "HexColor": "#31AF67FF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnhoodie004_0",
+    "HexColor": "#FF872CFF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnhoodie007_0",
+    "HexColor": "#70D6FFFF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnshirts-165_0",
+    "HexColor": "#DA5855FF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnshirts-188_0",
+    "HexColor": "#61AA43FF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnshirts-201_0",
+    "HexColor": "#AAABB0FF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnshirts-238_0",
+    "HexColor": "#CA87A0FF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnshirts2021_0",
+    "HexColor": "#DDC7DEFF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnshirts2021_1",
+    "HexColor": "#675A8FFF"
+  },
+  {
+    "ArticleID": "n_shirt_pkmnshirts2021_2",
+    "HexColor": "#637DBEFF"
+  },
+  {
+    "ArticleID": "n_shirt_poloshirt_0",
+    "HexColor": "#D8B911FF"
+  },
+  {
+    "ArticleID": "n_shirt_poloshirt_1",
+    "HexColor": "#1253ADFF"
+  },
+  {
+    "ArticleID": "n_shirt_poloshirt_2",
+    "HexColor": "#D20205FF"
+  },
+  {
+    "ArticleID": "n_shirt_profwillowoutfit_0",
+    "HexColor": "#C8AE74FF"
+  },
+  {
+    "ArticleID": "n_shirt_projectguitar_0",
+    "HexColor": "#E0D7CCFF"
+  },
+  {
+    "ArticleID": "n_shirt_pumpkabooitems_0",
+    "HexColor": "#F088A4FF"
+  },
+  {
+    "ArticleID": "n_shirt_regiicejersies_0",
+    "HexColor": "#6BA4B9FF"
+  },
+  {
+    "ArticleID": "n_shirt_regirockjersies_0",
+    "HexColor": "#9A725CFF"
+  },
+  {
+    "ArticleID": "n_shirt_registeeljersies_0",
+    "HexColor": "#373536FF"
+  },
+  {
+    "ArticleID": "n_shirt_reuniclusitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_ruinmaniac_a_0",
+    "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_shirt_ruinmaniac_b_0",
+    "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_shirt_safarizone2020_a_0",
+    "HexColor": "#AC9378FF"
+  },
+  {
+    "ArticleID": "n_shirt_safarizone2020_b_0",
+    "HexColor": "#AC9378FF"
+  },
+  {
+    "ArticleID": "n_shirt_samsungsummer2020_0",
+    "HexColor": "#AC9378FF"
+  },
+  {
+    "ArticleID": "n_shirt_shayminlandtshirt_0",
+    "HexColor": "#B0DF9CFF"
+  },
+  {
+    "ArticleID": "n_shirt_shayminskytshirt_0",
+    "HexColor": "#89D2CFFF"
+  },
+  {
+    "ArticleID": "n_shirt_shinymewtshirts_0",
+    "HexColor": "#70BAD4FF"
+  },
+  {
+    "ArticleID": "n_shirt_slowpokeshirts_0",
+    "HexColor": "#D9DAD9FF"
+  },
+  {
+    "ArticleID": "n_shirt_slowpoketailshirts_0",
+    "HexColor": "#D9DAD9FF"
+  },
+  {
+    "ArticleID": "n_shirt_snorlaxonesie_0",
+    "HexColor": "#1F7F9BFF"
+  },
+  {
+    "ArticleID": "n_shirt_spiritomb_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_shirt_spring2021gulpin_a_0",
+    "HexColor": "#EAEAEDFF"
+  },
+  {
+    "ArticleID": "n_shirt_spring2021gulpin_b_0",
+    "HexColor": "#EAEAEDFF"
+  },
+  {
+    "ArticleID": "n_shirt_spring2021plusle_a_0",
+    "HexColor": "#EAEAEDFF"
+  },
+  {
+    "ArticleID": "n_shirt_spring2021plusle_b_0",
+    "HexColor": "#EAEAEDFF"
+  },
+  {
+    "ArticleID": "n_shirt_ss_a_0",
+    "HexColor": "#A9AAA9FF"
+  },
+  {
+    "ArticleID": "n_shirt_ss_b_0",
+    "HexColor": "#A9AAA9FF"
+  },
+  {
+    "ArticleID": "n_shirt_steven_0",
+    "HexColor": "#6E367CFF"
+  },
+  {
+    "ArticleID": "n_shirt_stevenfirst_0",
+    "HexColor": "#6E367CFF"
+  },
+  {
+    "ArticleID": "n_shirt_sukajanblastoise_0",
+    "HexColor": "#1E5295FF"
+  },
+  {
+    "ArticleID": "n_shirt_sukajancharizard_0",
+    "HexColor": "#C42F1EFF"
+  },
+  {
+    "ArticleID": "n_shirt_sukajanhouou_0",
+    "HexColor": "#CBAA4FFF"
+  },
+  {
+    "ArticleID": "n_shirt_sukajanlugia_0",
+    "HexColor": "#AEBABDFF"
+  },
+  {
+    "ArticleID": "n_shirt_sukajanvenusaur_0",
+    "HexColor": "#26681BFF"
+  },
+  {
+    "ArticleID": "n_shirt_summer2023_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_sustainability2021_a_0",
+    "HexColor": "#FFFFFFFF"
+  },
+  {
+    "ArticleID": "n_shirt_sustainability2021_b_0",
+    "HexColor": "#FFFFFFFF"
+  },
+  {
+    "ArticleID": "n_shirt_svcostumescarletschool_0",
+    "HexColor": "#DE8341FF"
+  },
+  {
+    "ArticleID": "n_shirt_svcostumevioletschool_0",
+    "HexColor": "#393771FF"
+  },
+  {
+    "ArticleID": "n_shirt_svdlc1_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_sweater-30_0",
+    "HexColor": "#454545FF"
+  },
+  {
+    "ArticleID": "n_shirt_sweater-30_1",
+    "HexColor": "#AA45B6FF"
+  },
+  {
+    "ArticleID": "n_shirt_sweater-30_2",
+    "HexColor": "#1F758EFF"
+  },
+  {
+    "ArticleID": "n_shirt_sweater-instinct_0",
+    "HexColor": "#454545FF"
+  },
+  {
+    "ArticleID": "n_shirt_sweater-mystic_0",
+    "HexColor": "#5A8EBAFF"
+  },
+  {
+    "ArticleID": "n_shirt_sweater-valor_0",
+    "HexColor": "#D62918FF"
+  },
+  {
+    "ArticleID": "n_shirt_sweatshirt-sporty_0",
+    "HexColor": "#F5E20EFF"
+  },
+  {
+    "ArticleID": "n_shirt_sweatshirt-sporty_1",
+    "HexColor": "#9B3030FF"
+  },
+  {
+    "ArticleID": "n_shirt_sweatshirt-sporty_2",
+    "HexColor": "#7D959CFF"
+  },
+  {
+    "ArticleID": "n_shirt_sweatshirt-sporty_3",
+    "HexColor": "#E8E8E8FF"
+  },
+  {
+    "ArticleID": "n_shirt_sweatshirt-streak_0",
+    "HexColor": "#F0084CFF"
+  },
+  {
+    "ArticleID": "n_shirt_sweatshirt-streak_1",
+    "HexColor": "#00A9F0FF"
+  },
+  {
+    "ArticleID": "n_shirt_sweatshirt-streak_2",
+    "HexColor": "#898989FF"
+  },
+  {
+    "ArticleID": "n_shirt_sweatshirt-streak_3",
+    "HexColor": "#F9C105FF"
+  },
+  {
+    "ArticleID": "n_shirt_sweatshirt-streak_4",
+    "HexColor": "#494949FF"
+  },
+  {
+    "ArticleID": "n_shirt_swshdlc2costume_0",
+    "HexColor": "#D15520FF"
+  },
+  {
+    "ArticleID": "n_shirt_swshdlccostume_a_0",
+    "HexColor": "#FFD60DFF"
+  },
+  {
+    "ArticleID": "n_shirt_swshdlccostume_b_0",
+    "HexColor": "#FFD60DFF"
+  },
+  {
+    "ArticleID": "n_shirt_swshuniformchampion_0",
+    "HexColor": "#393B39FF"
+  },
+  {
+    "ArticleID": "n_shirt_swshuniformdark_a_0",
+    "HexColor": "#C91772FF"
+  },
+  {
+    "ArticleID": "n_shirt_swshuniformdark_b_0",
+    "HexColor": "#C91772FF"
+  },
+  {
+    "ArticleID": "n_shirt_swshuniformdefault_0",
+    "HexColor": "#E0E0E0FF"
+  },
+  {
+    "ArticleID": "n_shirt_swshuniformdragon_0",
+    "HexColor": "#29395DFF"
+  },
+  {
+    "ArticleID": "n_shirt_sylveonitems_0",
+    "HexColor": "#E2E3E2FF"
+  },
+  {
+    "ArticleID": "n_shirt_tanktop_0",
+    "HexColor": "#7B0004FF"
+  },
+  {
+    "ArticleID": "n_shirt_tanktop_1",
+    "HexColor": "#0054B5FF"
+  },
+  {
+    "ArticleID": "n_shirt_tanktop_2",
+    "HexColor": "#515151FF"
+  },
+  {
+    "ArticleID": "n_shirt_tanktop-charizard_0",
+    "HexColor": "#2C8EAAFF"
+  },
+  {
+    "ArticleID": "n_shirt_tanktop-charizard_1",
+    "HexColor": "#C83B17FF"
+  },
+  {
+    "ArticleID": "n_shirt_tanktop-charizard_2",
+    "HexColor": "#3A3637FF"
+  },
+  {
+    "ArticleID": "n_shirt_tanktop-pikachu_0",
+    "HexColor": "#64C5FFFF"
+  },
+  {
+    "ArticleID": "n_shirt_tanktop-pikachu_1",
+    "HexColor": "#FEDF37FF"
+  },
+  {
+    "ArticleID": "n_shirt_tanktop-pikachu_2",
+    "HexColor": "#6FCC21FF"
+  },
+  {
+    "ArticleID": "n_shirt_tcgcollabtshirtandcap_0",
+    "HexColor": "#3759A6FF"
+  },
+  {
+    "ArticleID": "n_shirt_teamaqua_a_0",
+    "HexColor": "#FFD60DFF"
+  },
+  {
+    "ArticleID": "n_shirt_teamaqua_b_0",
+    "HexColor": "#FFD60DFF"
+  },
+  {
+    "ArticleID": "n_shirt_teamblanche_a_0",
+    "HexColor": "#65A1C8DE"
+  },
+  {
+    "ArticleID": "n_shirt_teamblanche_b_0",
+    "HexColor": "#65A1C8DE"
+  },
+  {
+    "ArticleID": "n_shirt_teamcandela_a_0",
+    "HexColor": "#C84242DE"
+  },
+  {
+    "ArticleID": "n_shirt_teamcandela_b_0",
+    "HexColor": "#C84242DE"
+  },
+  {
+    "ArticleID": "n_shirt_teammagma_a_0",
+    "HexColor": "#893927FF"
+  },
+  {
+    "ArticleID": "n_shirt_teammagma_b_0",
+    "HexColor": "#893927FF"
+  },
+  {
+    "ArticleID": "n_shirt_teamrocket_a_0",
+    "HexColor": "#631212FF"
+  },
+  {
+    "ArticleID": "n_shirt_teamrocket_a_1",
+    "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_shirt_teamrocket_b_0",
+    "HexColor": "#631212FF"
+  },
+  {
+    "ArticleID": "n_shirt_teamrocket_b_1",
+    "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_shirt_teamskull_0",
+    "HexColor": "#47453FFF"
+  },
+  {
+    "ArticleID": "n_shirt_teamspark_a_0",
+    "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_shirt_teamspark_b_0",
+    "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_shirt_togepihoodie_0",
+    "HexColor": "#E8EDF0FF"
+  },
+  {
+    "ArticleID": "n_shirt_tracksuitsgroudon_0",
+    "HexColor": "#CE3049FF"
+  },
+  {
+    "ArticleID": "n_shirt_tracksuitskyogre_0",
+    "HexColor": "#2F62BAFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-cycling_0",
+    "HexColor": "#D4D4D4FF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-cycling_1",
+    "HexColor": "#A6E0F2FF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-cycling_2",
+    "HexColor": "#F9EE0AFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-cycling_3",
+    "HexColor": "#424242FF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-fest-chicago-2017_0",
+    "HexColor": "#3E3E3EFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-fest-chicago-2018_0",
+    "HexColor": "#424242FF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-geometric_0",
+    "HexColor": "#581B1DFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-geometric_1",
+    "HexColor": "#5259BBFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-geometric_2",
+    "HexColor": "#D0BC9BFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-global-goals-2017_0",
+    "HexColor": "#E5FDFFFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-instinct_0",
+    "HexColor": "#454545FF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-mystic_0",
+    "HexColor": "#5A8EBAFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-pikachu_0",
+    "HexColor": "#90D4ECFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-pikachu_1",
+    "HexColor": "#FFD683FF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-pikachu_2",
+    "HexColor": "#3E3E3EFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-pikachu_3",
+    "HexColor": "#2A75ABFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-pikachu_4",
+    "HexColor": "#AB282CFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-pikachu_5",
+    "HexColor": "#F2C234FF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-pikachu_6",
+    "HexColor": "#9E3ACCFF"
+  },
+  {
+    "ArticleID": "n_shirt_tshirt-valor_0",
+    "HexColor": "#D62918FF"
+  },
+  {
+    "ArticleID": "n_shirt_turtleneck-30_0",
+    "HexColor": "#FF8700FF"
+  },
+  {
+    "ArticleID": "n_shirt_turtleneck-30_1",
+    "HexColor": "#8A8A8BFF"
+  },
+  {
+    "ArticleID": "n_shirt_turtleneck-30_2",
+    "HexColor": "#0B0B0DFF"
+  },
+  {
+    "ArticleID": "n_shirt_turtleneck-30_3",
+    "HexColor": "#38ADFFFF"
+  },
+  {
+    "ArticleID": "n_shirt_turtwigonesie_0",
+    "HexColor": "#A7CA70FF"
+  },
+  {
+    "ArticleID": "n_shirt_ultrareconsquad_0",
+    "HexColor": "#87D4DCFF"
+  },
+  {
+    "ArticleID": "n_shirt_ultra_a_0",
+    "HexColor": "#F58124FF"
+  },
+  {
+    "ArticleID": "n_shirt_ultra_b_0",
+    "HexColor": "#F58124FF"
+  },
+  {
+    "ArticleID": "n_shirt_uniqlotshirts_0",
+    "HexColor": "#BFB0A9FF"
+  },
+  {
+    "ArticleID": "n_shirt_uniqlotshirts_1",
+    "HexColor": "#2C2C2CFF"
+  },
+  {
+    "ArticleID": "n_shirt_uniqlotshirts_2",
+    "HexColor": "#D4B0CCFF"
+  },
+  {
+    "ArticleID": "n_shirt_unwto_0",
+    "HexColor": "#588DD5FF"
+  },
+  {
+    "ArticleID": "n_shirt_valentine2023_0",
+    "HexColor": "#90C0CAFF"
+  },
+  {
+    "ArticleID": "n_shirt_verizon2020_0",
+    "HexColor": "#2E313BFF"
+  },
+  {
+    "ArticleID": "n_shirt_veterantrainerxy_a_0",
+    "HexColor": "#244D60FF"
+  },
+  {
+    "ArticleID": "n_shirt_veterantrainerxy_b_0",
+    "HexColor": "#244D60FF"
+  },
+  {
+    "ArticleID": "n_shirt_victinitshirts_0",
+    "HexColor": "#44A8DBFF"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2022_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2022tshirtbulu_0",
+    "HexColor": "#00253FFF"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2022tshirtred_0",
+    "HexColor": "#632431FF"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2022winnersitems_0",
+    "HexColor": "#263152FF"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2023_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2023promotshirt-0_0",
+    "HexColor": "#ECF0EFFF"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2023promotshirt-1_0",
+    "HexColor": "#FFE72CFF"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2023sukajan_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2023winnersitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_wcsyokohama_0",
+    "HexColor": "#DFD1B1FF"
+  },
+  {
+    "ArticleID": "n_shirt_whitecoat_0",
+    "HexColor": "#FFFFFFFF"
+  },
+  {
+    "ArticleID": "n_shirt_zoruaonesie_0",
+    "HexColor": "#585067FF"
+  },
+  {
+    "ArticleID": "n_shoes_6thanniversary_a_0",
+    "HexColor": "#F0ECE8FF"
+  },
+  {
+    "ArticleID": "n_shoes_6thanniversary_b_0",
+    "HexColor": "#F0ECE8FF"
+  },
+  {
+    "ArticleID": "n_shoes_acetrainerbw_a_0",
+    "HexColor": "#E56D2CFF"
+  },
+  {
+    "ArticleID": "n_shoes_acetrainerbw_b_0",
+    "HexColor": "#E56D2CFF"
+  },
+  {
+    "ArticleID": "n_shoes_acetrainersm_a_0",
+    "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_shoes_acetrainersm_b_0",
+    "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_shoes_animegou_0",
+    "HexColor": "#656565FF"
+  },
+  {
+    "ArticleID": "n_shoes_backpacker_a_0",
+    "HexColor": "#307274FF"
+  },
+  {
+    "ArticleID": "n_shoes_backpacker_b_0",
+    "HexColor": "#307274FF"
+  },
+  {
+    "ArticleID": "n_shoes_battlegirl_0",
+    "HexColor": "#C5C4C0FF"
+  },
+  {
+    "ArticleID": "n_shoes_brock_0",
+    "HexColor": "#8A8D44FF"
+  },
+  {
+    "ArticleID": "n_shoes_bwn_0",
+    "HexColor": "#2F8C4CFF"
+  },
+  {
+    "ArticleID": "n_shoes_carbink_0",
+    "HexColor": "#B6C4DDFF"
+  },
+  {
+    "ArticleID": "n_shoes_clay_0",
+    "HexColor": "#8A623FFF"
+  },
+  {
+    "ArticleID": "n_shoes_coolboots_0",
+    "HexColor": "#141416FF"
+  },
+  {
+    "ArticleID": "n_shoes_dedenneitems_0",
+    "HexColor": "#DF9821FF"
+  },
+  {
+    "ArticleID": "n_shoes_default-new_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_default_a_0",
+    "HexColor": "#F98840FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_a_1",
+    "HexColor": "#980000FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_a_2",
+    "HexColor": "#CBBD30FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_a_3",
+    "HexColor": "#0021A7FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_a_4",
+    "HexColor": "#F59320FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_a_5",
+    "HexColor": "#E4020CFF"
+  },
+  {
+    "ArticleID": "n_shoes_default_a_6",
+    "HexColor": "#FFFB1CFF"
+  },
+  {
+    "ArticleID": "n_shoes_default_b_0",
+    "HexColor": "#1CB269FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_b_1",
+    "HexColor": "#A4A4A6FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_b_2",
+    "HexColor": "#FFD542FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_b_3",
+    "HexColor": "#0F0FC7FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_b_4",
+    "HexColor": "#24BE6DFF"
+  },
+  {
+    "ArticleID": "n_shoes_default_b_5",
+    "HexColor": "#BD2424FF"
+  },
+  {
+    "ArticleID": "n_shoes_default_b_6",
+    "HexColor": "#FFF200FF"
+  },
+  {
+    "ArticleID": "n_shoes_delibird_0",
+    "HexColor": "#A21616FF"
+  },
+  {
+    "ArticleID": "n_shoes_dp_a_0",
+    "HexColor": "#DD7D8AFF"
+  },
+  {
+    "ArticleID": "n_shoes_dp_b_0",
+    "HexColor": "#DD7D8AFF"
+  },
+  {
+    "ArticleID": "n_shoes_elesa_a_0",
+    "HexColor": "#FEEF51FF"
+  },
+  {
+    "ArticleID": "n_shoes_elesa_b_0",
+    "HexColor": "#FEEF51FF"
+  },
+  {
+    "ArticleID": "n_shoes_fashionweek2022_0",
+    "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_shoes_fisher_0",
+    "HexColor": "#2F2F32FF"
+  },
+  {
+    "ArticleID": "n_shoes_frlg_a_0",
+    "HexColor": "#61C7F0FF"
+  },
+  {
+    "ArticleID": "n_shoes_frlg_b_0",
+    "HexColor": "#61C7F0FF"
+  },
+  {
+    "ArticleID": "n_shoes_fw2022_0",
+    "HexColor": "#AE80CFFF"
+  },
+  {
+    "ArticleID": "n_shoes_geeta_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_giovanni_a_0",
+    "HexColor": "#DFE3E7FF"
+  },
+  {
+    "ArticleID": "n_shoes_giovanni_b_0",
+    "HexColor": "#DFE3E7FF"
+  },
+  {
+    "ArticleID": "n_shoes_gladion_0",
+    "HexColor": "#CC2E35FF"
+  },
+  {
+    "ArticleID": "n_shoes_gothitelleitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_green_a_0",
+    "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_shoes_green_b_0",
+    "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_shoes_gymleader_0",
+    "HexColor": "#C7302DFF"
+  },
+  {
+    "ArticleID": "n_shoes_gymleader_1",
+    "HexColor": "#2D4177FF"
+  },
+  {
+    "ArticleID": "n_shoes_gymleader_2",
+    "HexColor": "#FFBF29FF"
+  },
+  {
+    "ArticleID": "n_shoes_hgss_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_hgss_b_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_jogger_0",
+    "HexColor": "#232329FF"
+  },
+  {
+    "ArticleID": "n_shoes_korrina_0",
+    "HexColor": "#EAE9EAFF"
+  },
+  {
+    "ArticleID": "n_shoes_legendofarceus_a_0",
+    "HexColor": "#CBA05FFF"
+  },
+  {
+    "ArticleID": "n_shoes_legendofarceus_b_0",
+    "HexColor": "#CBA05FFF"
+  },
+  {
+    "ArticleID": "n_shoes_loosepants_0",
+    "HexColor": "#32373BFF"
+  },
+  {
+    "ArticleID": "n_shoes_loosepants_1",
+    "HexColor": "#902D28FF"
+  },
+  {
+    "ArticleID": "n_shoes_loosepants_2",
+    "HexColor": "#AB8921FF"
+  },
+  {
+    "ArticleID": "n_shoes_loosepants_3",
+    "HexColor": "#29395EFF"
+  },
+  {
+    "ArticleID": "n_shoes_luvdiscpack_0",
+    "HexColor": "#F088A4FF"
+  },
+  {
+    "ArticleID": "n_shoes_lysandre_0",
+    "HexColor": "#353131FF"
+  },
+  {
+    "ArticleID": "n_shoes_megalopunnyitems_0",
+    "HexColor": "#9B5F4AFF"
+  },
+  {
+    "ArticleID": "n_shoes_melmetalshoes_0",
+    "HexColor": "#949495FF"
+  },
+  {
+    "ArticleID": "n_shoes_mewtwo_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_shoes_misty_0",
+    "HexColor": "#C6E0F4FF"
+  },
+  {
+    "ArticleID": "n_shoes_newyear2022_0",
+    "HexColor": "#BD9FE5FF"
+  },
+  {
+    "ArticleID": "n_shoes_nike2021_0",
+    "HexColor": "#C6E0F4FF"
+  },
+  {
+    "ArticleID": "n_shoes_oras_a_0",
+    "HexColor": "#FBE50AFF"
+  },
+  {
+    "ArticleID": "n_shoes_oras_b_0",
+    "HexColor": "#FBE50AFF"
+  },
+  {
+    "ArticleID": "n_shoes_pajamas2022_0",
+    "HexColor": "#082473FF"
+  },
+  {
+    "ArticleID": "n_shoes_pajamas2022_1",
+    "HexColor": "#B41010FF"
+  },
+  {
+    "ArticleID": "n_shoes_palmer_0",
+    "HexColor": "#3D3C42FF"
+  },
+  {
+    "ArticleID": "n_shoes_pikachufan_0",
+    "HexColor": "#FBBB0AFF"
+  },
+  {
+    "ArticleID": "n_shoes_pikachulibre_0",
+    "HexColor": "#F48413FF"
+  },
+  {
+    "ArticleID": "n_shoes_profwillowoutfit_0",
+    "HexColor": "#C8AE74FF"
+  },
+  {
+    "ArticleID": "n_shoes_regiicejersies_0",
+    "HexColor": "#6BA4B9FF"
+  },
+  {
+    "ArticleID": "n_shoes_regirockjersies_0",
+    "HexColor": "#9A725CFF"
+  },
+  {
+    "ArticleID": "n_shoes_registeeljersies_0",
+    "HexColor": "#373536FF"
+  },
+  {
+    "ArticleID": "n_shoes_reuniclusitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_ruinmaniac_a_0",
+    "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_shoes_ruinmaniac_b_0",
+    "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_shoes_sandals_0",
+    "HexColor": "#DD4444FF"
+  },
+  {
+    "ArticleID": "n_shoes_sandals_1",
+    "HexColor": "#FFE50BEA"
+  },
+  {
+    "ArticleID": "n_shoes_sandals_2",
+    "HexColor": "#0D77DBFF"
+  },
+  {
+    "ArticleID": "n_shoes_solgaleoitems_0",
+    "HexColor": "#D4DBDDFF"
+  },
+  {
+    "ArticleID": "n_shoes_ss_a_0",
+    "HexColor": "#754B3BFF"
+  },
+  {
+    "ArticleID": "n_shoes_ss_b_0",
+    "HexColor": "#754B3BFF"
+  },
+  {
+    "ArticleID": "n_shoes_steven_0",
+    "HexColor": "#6E367CFF"
+  },
+  {
+    "ArticleID": "n_shoes_stevenfirst_0",
+    "HexColor": "#6E367CFF"
+  },
+  {
+    "ArticleID": "n_shoes_svcostumescarletschool_0",
+    "HexColor": "#4D4C4FFF"
+  },
+  {
+    "ArticleID": "n_shoes_svcostumevioletschool_0",
+    "HexColor": "#F0D86BFF"
+  },
+  {
+    "ArticleID": "n_shoes_svdlc1_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_swshdlc2costume_0",
+    "HexColor": "#B08247FF"
+  },
+  {
+    "ArticleID": "n_shoes_swshdlccostume_0",
+    "HexColor": "#FFD60DFF"
+  },
+  {
+    "ArticleID": "n_shoes_swshuniformdark_0",
+    "HexColor": "#C91772FF"
+  },
+  {
+    "ArticleID": "n_shoes_swshuniformdefault_0",
+    "HexColor": "#E0E0E0FF"
+  },
+  {
+    "ArticleID": "n_shoes_swshuniformdragon_0",
+    "HexColor": "#29395DFF"
+  },
+  {
+    "ArticleID": "n_shoes_sylveonitems_0",
+    "HexColor": "#E2E3E2FF"
+  },
+  {
+    "ArticleID": "n_shoes_teamaqua_0",
+    "HexColor": "#1AAAFFFF"
+  },
+  {
+    "ArticleID": "n_shoes_teamblanche_a_0",
+    "HexColor": "#3E476FDE"
+  },
+  {
+    "ArticleID": "n_shoes_teamblanche_b_0",
+    "HexColor": "#3E476FDE"
+  },
+  {
+    "ArticleID": "n_shoes_teamcandela_a_0",
+    "HexColor": "#C84242DE"
+  },
+  {
+    "ArticleID": "n_shoes_teamcandela_b_0",
+    "HexColor": "#C84242DE"
+  },
+  {
+    "ArticleID": "n_shoes_teammagma_a_0",
+    "HexColor": "#893927FF"
+  },
+  {
+    "ArticleID": "n_shoes_teammagma_b_0",
+    "HexColor": "#893927FF"
+  },
+  {
+    "ArticleID": "n_shoes_teamrocket_a_0",
+    "HexColor": "#68696CFF"
+  },
+  {
+    "ArticleID": "n_shoes_teamrocket_a_1",
+    "HexColor": "#67ACFFFF"
+  },
+  {
+    "ArticleID": "n_shoes_teamrocket_b_0",
+    "HexColor": "#68696CFF"
+  },
+  {
+    "ArticleID": "n_shoes_teamrocket_b_1",
+    "HexColor": "#67ACFFFF"
+  },
+  {
+    "ArticleID": "n_shoes_teamskull_0",
+    "HexColor": "#E8E8E8FF"
+  },
+  {
+    "ArticleID": "n_shoes_teamskull_b_0",
+    "HexColor": "#E8E8E8FF"
+  },
+  {
+    "ArticleID": "n_shoes_teamspark_a_0",
+    "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_shoes_teamspark_b_0",
+    "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_shoes_ultrareconsquad_0",
+    "HexColor": "#87D4DCFF"
+  },
+  {
+    "ArticleID": "n_shoes_ultra_a_0",
+    "HexColor": "#44776AFF"
+  },
+  {
+    "ArticleID": "n_shoes_ultra_b_0",
+    "HexColor": "#44776AFF"
+  },
+  {
+    "ArticleID": "n_shoes_veterantrainerxy_a_0",
+    "HexColor": "#244D60FF"
+  },
+  {
+    "ArticleID": "n_shoes_veterantrainerxy_b_0",
+    "HexColor": "#244D60FF"
+  },
+  {
+    "ArticleID": "n_shoes_wcs2022winnersitems_0",
+    "HexColor": "#263152FF"
+  },
+  {
+    "ArticleID": "n_shoes_wcs2023winnersitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_winterboots_0",
+    "HexColor": "#917142FF"
+  },
+  {
+    "ArticleID": "n_shoes_winterboots_1",
+    "HexColor": "#27292BFF"
+  },
+  {
+    "ArticleID": "n_shoes_winterboots_2",
+    "HexColor": "#D1D1D1FF"
+  },
+  {
+    "ArticleID": "n_shoes_winterboots_3",
+    "HexColor": "#A81D23FF"
+  },
+  {
+    "ArticleID": "n_socks_acetrainerbw_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_socks_default_a_0",
+    "HexColor": "#242424FF"
+  },
+  {
+    "ArticleID": "n_socks_default_a_1",
+    "HexColor": "#692DA0FF"
+  },
+  {
+    "ArticleID": "n_socks_default_a_2",
+    "HexColor": "#BED8D8FF"
+  },
+  {
+    "ArticleID": "n_socks_default_b_0",
+    "HexColor": "#9C0000FF"
+  },
+  {
+    "ArticleID": "n_socks_default_b_1",
+    "HexColor": "#F7B71BFF"
+  },
+  {
+    "ArticleID": "n_socks_default_b_2",
+    "HexColor": "#2C2C2CFF"
+  },
+  {
+    "ArticleID": "n_socks_default_b_3",
+    "HexColor": "#606060FF"
+  },
+  {
+    "ArticleID": "n_socks_fw2022_a_0",
+    "HexColor": "#AE80CFFF"
+  },
+  {
+    "ArticleID": "n_socks_fw2022_b_0",
+    "HexColor": "#AE80CFFF"
+  },
+  {
+    "ArticleID": "n_socks_hgss_0",
+    "HexColor": "#F0F0F0FF"
+  },
+  {
+    "ArticleID": "n_socks_sneakersocks_0",
+    "HexColor": "#232323FF"
+  },
+  {
+    "ArticleID": "n_socks_sneakersocks_1",
+    "HexColor": "#CECECEFF"
+  },
+  {
+    "ArticleID": "n_socks_sollunaitems_0",
+    "HexColor": "#293499FF"
+  },
+  {
+    "ArticleID": "n_socks_swshuniformdefault_0",
+    "HexColor": "#E0E0E0FF"
+  },
+  {
+    "ArticleID": "n_socks_swshuniformdragon_0",
+    "HexColor": "#29395DFF"
+  },
+  {
+    "ArticleID": "n_socks_teamaqua_0",
+    "HexColor": "#1AAAFFFF"
+  },
+  {
+    "ArticleID": "n_socks_thighhighs_0",
+    "HexColor": "#242424FF"
+  }
+]
