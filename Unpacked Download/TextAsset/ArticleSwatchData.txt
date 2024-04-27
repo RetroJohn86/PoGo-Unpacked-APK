@@ -20,6 +20,14 @@
     "HexColor": "#EA5A35FF"
   },
   {
+    "ArticleID": "n_backpack_combeebackpack_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_backpack_combeebackpack_1",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_backpack_cute_0",
     "HexColor": "#FFC1C4FF"
   },
@@ -102,6 +110,10 @@
   {
     "ArticleID": "n_backpack_gengar_0",
     "HexColor": "#6F00BDFF"
+  },
+  {
+    "ArticleID": "n_backpack_giratinaitems_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_backpack_guccibackpack_0",
@@ -193,6 +205,10 @@
   },
   {
     "ArticleID": "n_backpack_svdlc1_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_backpack_svdlc2spring_0",
     "HexColor": "#00000000"
   },
   {
@@ -608,6 +624,10 @@
     "HexColor": "#585C5BFF"
   },
   {
+    "ArticleID": "n_gloves_svdlc2spring_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_gloves_swshdlc2costume_0",
     "HexColor": "#39312EFF"
   },
@@ -654,6 +674,10 @@
   {
     "ArticleID": "n_gloves_teamspark_b_0",
     "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_gloves_wintergloves2023_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_hair_coilyshort_0",
@@ -756,6 +780,10 @@
     "HexColor": "#171717FF"
   },
   {
+    "ArticleID": "n_hat_cetoddlehat_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_hat_clay_0",
     "HexColor": "#DFE0E7FF"
   },
@@ -766,6 +794,14 @@
   {
     "ArticleID": "n_hat_cosmog_0",
     "HexColor": "#00EDF8FF"
+  },
+  {
+    "ArticleID": "n_hat_crownmoon_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_crownsun_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_hat_cubonehat_0",
@@ -872,6 +908,18 @@
     "HexColor": "#AEABAEFF"
   },
   {
+    "ArticleID": "n_hat_earringsburmyplant_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_earringsburmysandy_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_earringsburmytrash_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_hat_eeveecap_0",
     "HexColor": "#D4A561FF"
   },
@@ -932,6 +980,10 @@
     "HexColor": "#919BB2FF"
   },
   {
+    "ArticleID": "n_hat_giratinaitems_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_hat_gladion_0",
     "HexColor": "#CBC9C5FF"
   },
@@ -953,6 +1005,14 @@
   },
   {
     "ArticleID": "n_hat_growlithehelmet_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_gtr2024eeveefanmask_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_gtr2024pikachufanmask_0",
     "HexColor": "#00000000"
   },
   {
@@ -988,6 +1048,10 @@
     "HexColor": "#DD4574FF"
   },
   {
+    "ArticleID": "n_hat_ingo_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_hat_jogger_0",
     "HexColor": "#325A8AFF"
   },
@@ -1018,6 +1082,10 @@
   {
     "ArticleID": "n_hat_laprasbandana_b_0",
     "HexColor": "#4292D7FF"
+  },
+  {
+    "ArticleID": "n_hat_lasecuritycorps_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_hat_legendofarceus_a_0",
@@ -1174,6 +1242,10 @@
   {
     "ArticleID": "n_hat_pkmncap_2",
     "HexColor": "#63CBE7FF"
+  },
+  {
+    "ArticleID": "n_hat_poipole_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_hat_profwillowoutfit_0",
@@ -1576,12 +1648,20 @@
     "HexColor": "#FFBF29FF"
   },
   {
+    "ArticleID": "n_pants_hala_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_pants_hgss_a_0",
     "HexColor": "#476280FF"
   },
   {
     "ArticleID": "n_pants_hgss_b_0",
     "HexColor": "#476280FF"
+  },
+  {
+    "ArticleID": "n_pants_ingo_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_pants_jogger_0",
@@ -1800,10 +1880,6 @@
     "HexColor": "#3A3A3BFF"
   },
   {
-    "ArticleID": "n_pants_swshdlc2costume_0",
-    "HexColor": "#D15520FF"
-  },
-  {
     "ArticleID": "n_pants_swshuniformchampion_0",
     "HexColor": "#EAECEAFF"
   },
@@ -1988,7 +2064,11 @@
     "HexColor": "#1D1D1BFF"
   },
   {
-    "ArticleID": "n_shirt_bounsweetitems_0",
+    "ArticleID": "n_shirt_bounsweetitems_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_bounsweetitems_b_0",
     "HexColor": "#BEE39BFF"
   },
   {
@@ -2148,6 +2228,10 @@
     "HexColor": "#A21616FF"
   },
   {
+    "ArticleID": "n_shirt_delibirdonesie_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_denimfashionweek2023_0",
     "HexColor": "#00000000"
   },
@@ -2208,6 +2292,26 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shirt_eeveestshirt-04_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_eeveestshirt-05_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_eeveestshirt-06_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_eeveestshirt-07_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_eeveestshirt-08_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_elesa_a_0",
     "HexColor": "#CED3DEFF"
   },
@@ -2260,6 +2364,14 @@
     "HexColor": "#584F49FF"
   },
   {
+    "ArticleID": "n_shirt_galaxyoutfit_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_galaxyoutfit_b_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_geeta_0",
     "HexColor": "#00000000"
   },
@@ -2282,6 +2394,10 @@
   {
     "ArticleID": "n_shirt_giovanni_b_0",
     "HexColor": "#47464FFF"
+  },
+  {
+    "ArticleID": "n_shirt_giratinaitems_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_gladion_0",
@@ -2308,11 +2424,27 @@
     "HexColor": "#6C6968FF"
   },
   {
+    "ArticleID": "n_shirt_gofest2024darkgray_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_gofest2024gray_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_gofest2024purple_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_gofestglobal2023_0",
     "HexColor": "#842E33FF"
   },
   {
-    "ArticleID": "n_shirt_goteamrocketarlo_0",
+    "ArticleID": "n_shirt_goteamrocketarlo_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_goteamrocketarlo_b_0",
     "HexColor": "#00000000"
   },
   {
@@ -2338,6 +2470,10 @@
   {
     "ArticleID": "n_shirt_gotour2023_0",
     "HexColor": "#131313FF"
+  },
+  {
+    "ArticleID": "n_shirt_gotour2024_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_greedentsweater_0",
@@ -2392,6 +2528,10 @@
     "HexColor": "#FFBF29FF"
   },
   {
+    "ArticleID": "n_shirt_hala_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_happi_0",
     "HexColor": "#C8B309EA"
   },
@@ -2426,6 +2566,10 @@
   {
     "ArticleID": "n_shirt_hoopaunboundtshirt_0",
     "HexColor": "#C3D6E2FF"
+  },
+  {
+    "ArticleID": "n_shirt_ingo_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_ingress_0",
@@ -2470,6 +2614,30 @@
   {
     "ArticleID": "n_shirt_korrina_b_0",
     "HexColor": "#EAE9EAFF"
+  },
+  {
+    "ArticleID": "n_shirt_ladiamondoutfit_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_ladiamondoutfit_b_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_lapearloutfit_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_lapearloutfit_b_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_lasecuritycorps_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_lasecuritycorps_b_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_latias-latios_0",
@@ -2526,6 +2694,10 @@
   {
     "ArticleID": "n_shirt_lysandre_0",
     "HexColor": "#423E3CFF"
+  },
+  {
+    "ArticleID": "n_shirt_marshadowtshirt_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_megalopunnyitems_0",
@@ -2877,6 +3049,14 @@
   },
   {
     "ArticleID": "n_shirt_svdlc1_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_svdlc2fall_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_svdlc2spring_0",
     "HexColor": "#00000000"
   },
   {
@@ -3272,12 +3452,20 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shirt_wcs2024_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_wcsyokohama_0",
     "HexColor": "#DFD1B1FF"
   },
   {
     "ArticleID": "n_shirt_whitecoat_0",
     "HexColor": "#FFFFFFFF"
+  },
+  {
+    "ArticleID": "n_shirt_wintersweater2023_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_zoruaonesie_0",
@@ -3488,11 +3676,19 @@
     "HexColor": "#FFBF29FF"
   },
   {
+    "ArticleID": "n_shoes_hala_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shoes_hgss_a_0",
     "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shoes_hgss_b_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_ingo_0",
     "HexColor": "#00000000"
   },
   {
@@ -3502,6 +3698,22 @@
   {
     "ArticleID": "n_shoes_korrina_0",
     "HexColor": "#EAE9EAFF"
+  },
+  {
+    "ArticleID": "n_shoes_ladiamondoutfit_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_ladiamondoutfit_b_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_lapearloutfit_a_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shoes_lapearloutfit_b_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shoes_legendofarceus_a_0",
@@ -3660,6 +3872,10 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shoes_svdlc2spring_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shoes_swshdlc2costume_0",
     "HexColor": "#B08247FF"
   },
@@ -3786,6 +4002,10 @@
   {
     "ArticleID": "n_shoes_winterboots_3",
     "HexColor": "#A81D23FF"
+  },
+  {
+    "ArticleID": "n_shoes_winterboots2023_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_socks_acetrainerbw_0",
