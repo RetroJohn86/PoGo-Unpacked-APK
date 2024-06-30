@@ -19,7 +19,7 @@ All images in this repo are found and mined and are located are organized based 
 All images in this repo are found and mined and are located are organized based on category e.g. Animator, AudioClip, Font, Mesh, Shader, Sprite, TextAsset and Texture2D.
 
 
-**+** **NOTE:** For Tidy and More Structure Repository go to the **Others Collection Links**, linked Below, Thank You. Looking for something Old in a previous Asset APK that's not in the repo? Check out the APK Records: [Click Here](https://mega.nz/folder/B6Qn3ahS#TCNhmVq3bklCpalAzYbcDQ). You will need Software too get asset for this location e.g. Asset Studio, Unity and more.
+**+** **NOTE:** For Tidy and More Structure Repository go to the **Others Collection Links**, linked Below, Thank You. Looking for something Old in a previous Asset APK that's not in the repo? Check out the APK Records: Click Links [Mega](https://mega.nz/folder/B6Qn3ahS#TCNhmVq3bklCpalAzYbcDQ). [Google](https://drive.google.com/drive/folders/1Y3K-SycQ50DXziwON9pvbG_JTVS5PLnP?usp=sharing). You will need Software too get asset for this location e.g. Asset Studio, Unity and more.
 
 
 ## __**Disclaimer**__
